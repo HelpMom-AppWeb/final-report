@@ -30,8 +30,8 @@
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Stephano Jose, Espinoza Cueva</td>
+      <td>U202218590</td>
     </tr>
     <tr>
       <td>Maita Falckenheiner, Romina Guadalupe</td>
