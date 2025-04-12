@@ -103,6 +103,14 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Hemos definido una serie de estrategias para aprovechar brechas y consolidar nuestro posicionamiento.
+
+Nuestra estrategia se basa en la confiabilidad médica y el soporte integral, incluyendo monitoreo profesional, educación certificada y atención a través de un chat privado con el médico. 
+A diferencia de los competidores, el acompañamiento postparto y la integración directa con especialistas de la salud son nuestra gran ventaja.
+
+Además, planteamos hacer una segmentación y márketing específico con la finalidad de dirigir campañas digitales a madres primerizas, ofreciendo un apoyo y servicio personalizado.
+Las alianzas estratégicas también son un rol importante en nuestro plan, ya que establecer convenios con productos que nuestros segmentos utilizan y servicios afines (farmacias, productos de cuidado materno-infantil, seguros de salud), nos ayudarán a llegar a más personas y sobresalir en el mercado.
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
