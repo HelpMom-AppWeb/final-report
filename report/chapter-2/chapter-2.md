@@ -37,10 +37,10 @@
 <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado Objetivo</td>
-    Gestantes y madres recientes que buscan información confiable y soporte médico.</td>
+    <td>Gestantes y madres recientes que buscan información confiable y soporte médico. </td>
     <td>Gestantes, padres recientes, familias en general.	</td>
     <td>Mujeres que buscan monitorear su ciclo menstrual y embarazo.	</td>
-    <td>Gestantes, mujeres en fase de fertilidad, padres recientes.</td>
+    <td>Gestantes, mujeres en fase de fertilidad, padres recientes. </td>
   </tr>
   <tr>
   <td>Estrategias de Marketing</td>
