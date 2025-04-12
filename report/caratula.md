@@ -6,7 +6,6 @@
 ## Sección: 1ASI0730
 ## INFORME TB1
 ## START UP: HELP MOM
-## PRODUCTO: KeepItFresh
 
 ### INTEGRANTES:
 <table>
