@@ -51,7 +51,7 @@
     </tr>
 <tr>
     <td rowspan="3">Perfil de Producto</td>
-    <td>Productos y Servicios</td>
+    <td>Productos y Serviciós</td>
     <td>Plataforma con monitoreo médico, información certificada y telemedicina.</td>
     <td>Aplicación móvil para seguimiento de embarazo, comunidad online, consejos de salud.	</td>
     <td>App para seguimiento de ciclo menstrual, embarazo, y salud general.	</td>
