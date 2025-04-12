@@ -24,6 +24,9 @@
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
+Aunque existen aplicaciones para el seguimiento del embarazo y postparto, actualmente no hay una solución completa que integre monitoreo médico, educación validada y comunicación con especialistas. Muchas gestantes y madres recientes recurren a fuentes no especializadas como TikTok, YouTube o Google, lo que genera acceso a información no verificada, mayor ansiedad y riesgo de seguir recomendaciones poco profesionales. Esta situación evidencia la necesidad de una plataforma unificada que ofrezca herramientas confiables de seguimiento junto con contenido médico avalado y la posibilidad de contacto directo con profesionales de la salud.
+
+HelpMom integra en una sola plataforma herramientas de monitoreo médico, información certificada y telemedicina, diseñada específicamente para las necesidades de gestantes y profesionales de salud en el pais.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
