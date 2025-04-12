@@ -15,8 +15,8 @@
   <tr>
     <td colspan="2"></td>
     <td>HelpMom<br></td>
-    <td><br></td>
-    <td><br></td>
+    <td><br>BabyCenter</td>
+    <td><br>Clue</td>
     <td></td>
 </tr>
   <tr>
