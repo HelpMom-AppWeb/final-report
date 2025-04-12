@@ -59,7 +59,7 @@
   </tr>
   <tr>
   <td>Precios y Costos</td>
-    <td>Posiblemente modelo freemium o suscripción, con acceso a expertos médicos.</td>
+    <td>Posiblemente modelo preemium o suscripción, con acceso a expertos médicos.</td>
     <td>Gratis con opciones premium.	</td>
     <td>Gratis con opciones premium.	</td>
     <td>Gratis, con opción premium.	</td>
