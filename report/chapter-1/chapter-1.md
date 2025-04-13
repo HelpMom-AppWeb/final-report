@@ -6,6 +6,11 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+- Rivera Ayala, Gabriel Alejandro
+Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.
+
+<img src="./assets/Gabriel.png" width="300"/>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
