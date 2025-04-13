@@ -40,3 +40,14 @@ HelpMom integra en una sola plataforma herramientas de monitoreo médico, inform
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
+
+Nuestros segmentos objetivo son los siguientes grupos de personas:
+
+- Gestantes peruanas de entre 25 a 35 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2022, este grupo de mujeres conforma aproximanadamente el 48% de los nacimientos registrados en ese año.
+
+- Obstetras peruanas de entre 22 a 40 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2021, este grupo de profesionales atendió aproximadamente el 80% de los nacimientos registrados en mujeres de 15 a 45 años de edad en el año 2020.
+
+# Bibliografía
+
+- Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos. 
+- Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*. 
