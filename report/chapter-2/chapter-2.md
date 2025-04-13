@@ -278,6 +278,8 @@ Para el análisis de las entrevistas, se pueden identificar varias característi
 
 ## 2.3. Needfinding.
 
+Utilizando la información recolectada, hemos realizado un análisis de las necesidades de los usuarios, que nos permitirá identificar y priorizar las funcionalidades que se incluirán en la plataforma. El resultado es la elaboración de los arquetipos User Persona, que representan a los usuarios finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
 ### 2.3.1. User Personas.
 
 ### 2.3.2. User Task Matrix.
