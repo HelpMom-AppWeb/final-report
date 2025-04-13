@@ -282,6 +282,10 @@ Utilizando la información recolectada, hemos realizado un análisis de las nece
 
 ### 2.3.1. User Personas.
 
+<img src="/assets/chapter-2/userpersona1.png">
+
+<img src="/assets/chapter-2/userpersona2.png">
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
