@@ -29,6 +29,16 @@
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Creemos que al ofrecer una plataforma integral que unifique el monitoreo médico, información validada y telemedicina, mejoraremos la experiencia de las gestantes y madres recientes al reducir su ansiedad y proporcionarles acceso a información confiable y apoyo profesional. Sabremos que estamos en lo correcto cuando observemos un aumento en la adopción de la plataforma por parte de gestantes y madres recientes, así como una disminución en la ansiedad reportada por los usuarios debido a la confianza en la información y en el acceso a profesionales de la salud.
+
+Creemos que al ofrecer contenido médico avalado y monitoreo personalizado, aumentaremos la capacidad de las usuarias para gestionar su embarazo y postparto de manera más segura y confiable. Sabremos que estamos en lo correcto cuando observemos un aumento en el uso de las funcionalidades de seguimiento médico, así como una mejora en la satisfacción general de las usuarias con la calidad de la información que reciben.
+
+Creemos que al proporcionar acceso directo a especialistas a través de telemedicina, mejoraremos la calidad de la atención médica para las gestantes y madres recientes, lo que les permitirá tomar decisiones más informadas sobre su salud. Sabremos que estamos en lo correcto cuando observemos un aumento en la cantidad de consultas realizadas a través de la plataforma y comentarios positivos sobre la facilidad y efectividad de las consultas con los profesionales de la salud.
+
+Creemos que al garantizar la privacidad y seguridad de la información médica de las usuarias, generaremos confianza en nuestra plataforma, lo que fomentará una mayor adopción entre las gestantes y madres recientes. Sabremos que estamos en lo correcto cuando observemos un aumento en la satisfacción de los usuarios con respecto a la seguridad de sus datos y una disminución de las preocupaciones relacionadas con la privacidad.
+
+Creemos que al ofrecer una interfaz intuitiva y fácil de usar, aumentaremos la aceptación y la retención de las usuarias, facilitando la adaptación de las madres recientes y gestantes a la plataforma. Sabremos que estamos en lo correcto cuando observemos una disminución en las tasas de abandono del producto y un aumento en la tasa de retención y participación activa de las usuarias.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
