@@ -278,7 +278,10 @@ Para el análisis de las entrevistas, se pueden identificar varias característi
 
 ## 2.3. Needfinding.
 
-Utilizando la información recolectada, hemos realizado un análisis de las necesidades de los usuarios, que nos permitirá identificar y priorizar las funcionalidades que se incluirán en la plataforma. El resultado es la elaboración de los arquetipos User Persona, que representan a los usuarios finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+Utilizando la información recolectada, hemos realizado un análisis de las necesidades de los usuarios, 
+que nos permitirá identificar y priorizar las funcionalidades que se incluirán en la plataforma. 
+El resultado es la elaboración de los arquetipos User Persona, que representan a los usuarios 
+finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
 ### 2.3.1. User Personas.
 
@@ -295,3 +298,20 @@ Utilizando la información recolectada, hemos realizado un análisis de las nece
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
+
+Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un 
+equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. 
+Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y 
+procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se 
+utilizarán en el desarrollo de la plataforma HelpMom, junto con sus definiciones y ejemplos de uso.
+
+- Historia clínica: Documento legal que recopila los datos relacionados a la salud y los servicios prestados al paciente.
+- Perímetro cefálico: Medición del perímetro de la cabeza de un bebé o niño. Se mide la distancia desde encima de las 
+cejas y de las orejas y alrededor de la parte posterior de la cabeza.
+- Altura uterina: Es la distancia entre el hueso púbico y la parte superior del útero. 
+Es una medida que se utiliza para estimar el tamaño del feto y determinar si su crecimiento es adecuado.
+- Ecografía: Procedimiento en el que se generan imágenes del interior del cuerpo con fines de diagnóstico.
+- Percentil de crecimiento: Porcentaje que mide la velocidad de crecimiento del bebé. 
+- Rangos de normalidad: Rango de porcentil de cremiento que definen un crecimiento normal de un bebé. 
+Los porcentiles adecuados son superiores al 10 y menores al 90.
+- Escala de Silverman-Anderson: Herramienta utilizada para evaluar la dificultad respiratoria de un recién nacido.
