@@ -6,6 +6,11 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+- Rivera Ayala, Gabriel Alejandro
+Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.
+
+<img src="/assets/Gabriel.jpg" width="300"/>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -24,6 +29,9 @@
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
+Aunque existen aplicaciones para el seguimiento del embarazo y postparto, actualmente no hay una solución completa que integre monitoreo médico, educación validada y comunicación con especialistas. Muchas gestantes y madres recientes recurren a fuentes no especializadas como TikTok, YouTube o Google, lo que genera acceso a información no verificada, mayor ansiedad y riesgo de seguir recomendaciones poco profesionales. Esta situación evidencia la necesidad de una plataforma unificada que ofrezca herramientas confiables de seguimiento junto con contenido médico avalado y la posibilidad de contacto directo con profesionales de la salud.
+
+HelpMom integra en una sola plataforma herramientas de monitoreo médico, información certificada y telemedicina, diseñada específicamente para las necesidades de gestantes y profesionales de salud en el pais.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -42,3 +50,14 @@ Creemos que al ofrecer una interfaz intuitiva y fácil de usar, aumentaremos la 
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
+
+Nuestros segmentos objetivo son los siguientes grupos de personas:
+
+- Gestantes peruanas de entre 25 a 35 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2022, este grupo de mujeres conforma aproximanadamente el 48% de los nacimientos registrados en ese año.
+
+- Obstetras peruanas de entre 22 a 40 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2021, este grupo de profesionales atendió aproximadamente el 80% de los nacimientos registrados en mujeres de 15 a 45 años de edad en el año 2020.
+
+# Bibliografía
+
+- Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos. 
+- Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*. 
