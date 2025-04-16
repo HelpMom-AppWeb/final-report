@@ -230,25 +230,25 @@ Utiliza tanto historias clínicas físicas como el sistema digital SIS peruano p
 
 La Dra. Ramos considera fundamental que exista una plataforma digital que cumpla con tres características esenciales: lenguaje accesible para pacientes, información detallada sobre medicamentos y protocolos, y capacidad de responder consultas médicas de forma inmediata. Este enfoque refleja su compromiso por hacer la atención ginecológica más accesible y comprensible para todas sus pacientes.
 
-ENTREVISTA 1
+ENTREVISTA 2
 
-![Entrevista 2 Doctor](/assets/chapter-2/)
+![Entrevista 2 Doctor](/assets/chapter-2/Screenshot_interview_doctor2.png)
 
-link:
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Eb-eu42zEaRAuCE8WLnUCAEBcwsBGk4L1P05I1rQNhRvVA?e=6G4BAm
 
 inicia: 0:00
 
-Duración:
+Duración: 6:03
 
 Nombre: Helena Ordoñez Castillo
 
 edad: 30 años
 
-Distrito:
+Distrito: Magdalena
 
 Resumen: Dra. Helena Ordoñez es obstetra del INMP especializada en embarazos de alto riesgo. Con 4 años de experiencia, monitorea signos vitales, desarrollo fetal y salud mental postparto usando evaluaciones clínicas y test estandarizados.
 
-Actualmente trabaja con historias clínicas físicas y el sistema SIEN, aunque critica su limitado acceso para pacientes. Valora iniciativas digitales como recordatorios por WhatsApp, pero destaca las desigualdades en acceso tecnológico.
+Actualmente, trabaja con historias clínicas físicas y el sistema SIEN, aunque critica su limitado acceso para pacientes. Valora iniciativas digitales como recordatorios por WhatsApp, pero destaca las desigualdades en acceso tecnológico.
 
 Propone desarrollar plataformas que integren: 1) historiales médicos accesibles, 2) alertas personalizadas y 3) contenido educativo verificado. Además, sugiere crear comunidades virtuales seguras moderadas por profesionales
 
