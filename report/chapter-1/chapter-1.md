@@ -51,7 +51,6 @@ Creemos que al proporcionar acceso directo a especialistas a través de telemedi
 Creemos que al garantizar la privacidad y seguridad de la información médica de las usuarias, generaremos confianza en nuestra plataforma, lo que fomentará una mayor adopción entre las gestantes y madres recientes. Sabremos que estamos en lo correcto cuando observemos un aumento en la satisfacción de los usuarios con respecto a la seguridad de sus datos y una disminución de las preocupaciones relacionadas con la privacidad.
 
 Creemos que al ofrecer una interfaz intuitiva y fácil de usar, aumentaremos la aceptación y la retención de las usuarias, facilitando la adaptación de las madres recientes y gestantes a la plataforma. Sabremos que estamos en lo correcto cuando observemos una disminución en las tasas de abandono del producto y un aumento en la tasa de retención y participación activa de las usuarias.
-
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
