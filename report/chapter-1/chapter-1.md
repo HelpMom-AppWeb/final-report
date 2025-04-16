@@ -11,6 +11,11 @@ Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo e
 
 <img src="/assets/Gabriel.jpg" width="300"/>
 
+- Stephano Jose, Espinoza Cueva,
+Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.
+<img src="/assets/Stephano.jpg" width="300"/>
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
