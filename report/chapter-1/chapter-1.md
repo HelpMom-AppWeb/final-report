@@ -4,6 +4,18 @@
 
 ### 1.1.1. Descripción de la Startup
 
+WebExpert es una startup que se dedica principalmente al desarrollo de software. Fue creada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) con la visión de generar un impacto social positivo. El objetivo de WebExpert es ayudar a personas que estén en situación de dependencia, tales como mujeres embarazadas, personas de la tercera edad y personas con movilidad reducida. Asimismo, WebExpert se compromete a ofrecer una aplicación web accesible,intuitiva y centrada solo en lo que necesita el usuario. También, se busca mejorar significativamente la calidad de vida de los usuarios,brindándoles autonomía,seguridad y acceso oportuno a ayuda personalizada.
+
+- Misión: Desarrollar soluciones tecnológicas accesibles y eficientes que ayuden a las personas en situación de dependencia, mediante plataformas intuitivas y con facil uso
+- Visión: En un futuro cercano, WebExpert se destacará como una empresa líder en desarrollo de soluciones tecnológicas que ayuden a las personas que más lo necesitan.Asimismo, se le reconocerá por su compromiso con la accesibilidad,innovación social y la mejora continua de la calidad de vida de las personas en situación de dependencia.
+- Logo de la Startup
+  <img src="/assets/logoWebExpert.png" width="300"/>
+- Logo de la aplicacion web
+  <img src="/assets/HelpMomLogo.png" width="300"/>
+
+
+
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 - Rivera Ayala, Gabriel Alejandro
