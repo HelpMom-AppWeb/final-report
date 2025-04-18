@@ -18,6 +18,11 @@ Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprend
 - Reyes Menacho, Camila Asunción,
   Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
   <img src="/assets/Camila.png" width="300"/>
+
+- Mamani Marca, Gabriel Cristian,
+  Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol.
+  <img src="/assets/GabrielMamani.jpg" width="300"/>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
