@@ -295,6 +295,10 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 
 ### 2.3.4. Empathy Mapping.
 
+El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona y a desarrollar una descripción desde su propia perspectiva, comprendiendo mejor sus pensamientos, emociones, necesidades y comportamientos
+
+<img src="/assets/chapter-2/EmpathyMapMadre.png">
+
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
