@@ -55,9 +55,13 @@ Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprend
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
-Aunque existen aplicaciones para el seguimiento del embarazo y postparto, actualmente no hay una solución completa que integre monitoreo médico, educación validada y comunicación con especialistas. Muchas gestantes y madres recientes recurren a fuentes no especializadas como TikTok, YouTube o Google, lo que genera acceso a información no verificada, mayor ansiedad y riesgo de seguir recomendaciones poco profesionales. Esta situación evidencia la necesidad de una plataforma unificada que ofrezca herramientas confiables de seguimiento junto con contenido médico avalado y la posibilidad de contacto directo con profesionales de la salud.
+Nuestra página web está diseñada con la finalidad de proporcionar tranquilidad, control e información confiable a madres y padres que desean acompañar de forma segura y activa el desarrollo de sus bebés, desde el embarazo hasta los primeros años de vida. En esta etapa, muchas familias enfrentan ansiedad, dudas constantes y la necesidad de tomar decisiones informadas sobre la salud y el bienestar de sus hijos, pero no siempre cuentan con herramientas accesibles o actualizadas.
 
-HelpMom integra en una sola plataforma herramientas de monitoreo médico, información certificada y telemedicina, diseñada específicamente para las necesidades de gestantes y profesionales de salud en el pais.
+HelpMom es una innovadora startup que combina tecnología de punta, como pulseras inteligentes (IoT) diseñadas especialmente para bebés, con una aplicación móvil que ofrece seguimiento en tiempo real de signos vitales, consejos actualizados por expertos, chat médico 24/7 y recordatorios personalizados para el cuidado infantil.
+
+El desafío principal que enfrentamos es generar confianza en madres y padres primerizos o con experiencia limitada, para que integren el uso de tecnología como una herramienta aliada en el cuidado de sus bebés. A pesar de la precisión de nuestra solución, muchas familias pueden sentirse abrumadas por la tecnología o dudar de su fiabilidad en temas tan delicados como la salud infantil. Esto puede dificultar la adopción inicial y limitar el impacto positivo que HelpMom puede generar.
+
+¿Cómo podríamos lograr que madres y padres confíen en HelpMom como una solución confiable, intuitiva y segura para acompañar el desarrollo de sus bebés, integrando tecnología y atención médica en su día a día de forma natural?
 
 #### 1.2.2.2. Lean UX Assumptions.
 - **Contexto**: Las mujeres embarazadas y en etapa posparto suelen utilizar diversas plataformas independientes para seguimiento médico, consultas y soporte profesional, lo que puede causar desorganización y estrés.
