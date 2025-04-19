@@ -297,6 +297,8 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 
 ### 2.3.5. As-is Scenario Mapping.
 
+<img src="/assets/As-Is%20Scenario%20Mapping.jpg" width="300"/>
+
 ## 2.4. Ubiquitous Language.
 
 Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un 
