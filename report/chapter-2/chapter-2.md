@@ -293,6 +293,16 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 
 ### 2.3.3. User Journey Mapping.
 
+El User Journey Mapping nos permitirá conocer los objetivos de nuestros usuarios. Respecto al segmento de las madres, abarcaremos el camino desde que descubren la aplicación hasta que registren los datos de sus bebés para su monitoreo por parte de su doctora. Respecto al segmento de los doctores, abarcaremos el camino desde que registran a sus pacientes hasta que monitorean los datos de sus pacientes.
+
+Segmento 1: Madres
+
+<img src="/assets/chapter-2/madre-journey-map.png">
+
+Segmento 2: Doctoras
+
+<img src="/assets/chapter-2/doctor-journey-map.png">
+
 ### 2.3.4. Empathy Mapping.
 
 El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona y a desarrollar una descripción desde su propia perspectiva, comprendiendo mejor sus pensamientos, emociones, necesidades y comportamientos
