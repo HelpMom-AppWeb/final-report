@@ -16,27 +16,13 @@
   <img src="/assets/HelpMom.png" width="100"/>
 
 ### 1.1.2. Perfiles de integrantes del equipo
+| ![Profile Picture](/assets/Gabriel.jpg)       | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+|:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Profile Picture](/assets/Stephano.jpg)      | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.                                                                                                                                                                                                                                                          |
+| ![Profile Picture](/assets/Camila.png)        | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
+| ![Profile Picture](/assets/GabrielMamani.jpg) | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol.                                                                                                                                                                                                                                       |
+| ![Profile Picture](/assets/RominaMaita.jpeg)  | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                           |
 
-- Rivera Ayala, Gabriel Alejandro
-Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.
-
-  <img src="/assets/Gabriel.jpg" width="300"/>
-
-- Stephano Jose, Espinoza Cueva,
-Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.
-
-  <img src="/assets/Stephano.jpg" width="300"/>
-
-- Reyes Menacho, Camila Asunción,
-  Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
-
-  <img src="/assets/Camila.png" width="300"/>
-
-- Mamani Marca, Gabriel Cristian,
-  Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol.
-
-  <img src="/assets/GabrielMamani.jpg" width="300"/>
-  
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -200,8 +186,3 @@ Nuestros segmentos objetivo son los siguientes grupos de personas:
 - Gestantes peruanas de entre 25 a 35 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2022, este grupo de mujeres conforma aproximanadamente el 48% de los nacimientos registrados en ese año.
 
 - Obstetras peruanas de entre 22 a 40 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2021, este grupo de profesionales atendió aproximadamente el 80% de los nacimientos registrados en mujeres de 15 a 45 años de edad en el año 2020.
-
-# Bibliografía
-
-- Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos. 
-- Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*. 
