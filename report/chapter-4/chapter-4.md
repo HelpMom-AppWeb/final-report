@@ -4,6 +4,63 @@
 
 ### 4.1.1. General Style Guidelines.
 
+#### Colores cromáticos:
+
+#FADADD (Rosa Pastel - Principal)
+Este color es el corazón de nuestra identidad. El rosa pastel representa ternura, amor y sensibilidad, evocando la conexión entre madre y bebé. Se utiliza como color principal en fondos y componentes destacados para reforzar el tono afectivo y empático de la plataforma.
+
+#F79AB0 (Rosa Vivo - Acento)
+Un tono más fuerte y energético que complementa el rosa pastel. Este color se usa para botones principales y llamados a la acción, aportando dinamismo sin perder la suavidad emocional del entorno.
+
+
+#FFE5DC (Melocotón Claro - Complementario)
+Este tono cálido y sutil aparece en ilustraciones, etiquetas y elementos secundarios. Brinda variedad cromática sin alejarse de la armonía maternal del diseño.
+
+
+#C24865 (Rosa Intenso – Énfasis emocional)
+Este tono profundo y elegante aporta fuerza emocional al diseño. Se recomienda para alertas suaves, énfasis en citas o recordatorios importantes, sin ser agresivo. Mantiene la coherencia cromática con un contraste atractivo.
+
+#F5ABE7 (Rosa Lila – Detalles decorativos)
+Este tono dulce y lúdico se puede usar para acentos gráficos, ilustraciones o pequeños detalles decorativos que aportan fantasía y encanto visual. Es ideal para secciones informativas o elementos destinados a conectar emocionalmente con las usuarias.
+
+#### Colores acromáticos:
+
+#FFFFFF (Blanco Puro)
+El fondo principal de la interfaz. Aporta limpieza visual, claridad y ligereza, permitiendo que el contenido respire y se mantenga fácilmente legible.
+
+#F5F5F5 (Gris Claro)
+Utilizado para secciones secundarias, tarjetas de información y áreas que requieren diferenciación suave sin perder la unidad visual.
+
+#A0A0A0 (Gris Medio)
+Presente en textos secundarios, íconos no activos y descripciones. Transmite neutralidad y equilibrio.
+
+#4F4F4F (Gris Profundo)
+Usado para títulos o elementos que requieren mayor jerarquía visual. Permite contraste sin recurrir al negro absoluto, manteniendo la estética cálida y accesible.
+
+#### Tipografía:
+
+Para este proyecto se han elegido tipografías sans serif con características redondeadas y amigables, que aseguren una lectura clara, suave y moderna. La elección responde al deseo de ofrecer un entorno emocionalmente cálido, sin sacrificar funcionalidad.
+Poppins – Sans Serif
+Moderna, versátil y altamente legible. Perfecta para encabezados y botones.
+Nunito – Sans Serif
+Más redondeada, ideal para el cuerpo de texto. Refuerza la idea de suavidad y cercanía.
+Ambas fuentes trabajan en conjunto para equilibrar lo técnico con lo humano, lo clínico con lo emocional.
+
+Ícono / logotipo:
+
+El logo representa una figura materna abrazando a un bebé, con líneas envolventes que forman un corazón. Este símbolo visual comunica de inmediato los valores fundamentales del proyecto: cuidado, protección, ternura y conexión emocional.
+Forma: Curvas suaves que evocan suavidad y seguridad.
+
+
+Significado: Unión del embarazo y la crianza temprana en un solo trazo.
+
+
+Color: Rosa pastel sobre fondo claro, reforzando el ambiente tranquilo y amoroso.
+
+
+Este logo no solo representa la identidad visual de la plataforma, sino también su propósito esencial: acompañar cada etapa del crecimiento del bebé desde el vientre materno hasta sus primeros meses de vida, con profesionalismo y cariño.
+
+
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
