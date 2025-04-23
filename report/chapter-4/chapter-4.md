@@ -73,7 +73,38 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 
 ### 4.2.4. Searching Systems.
 
+***1. ¿Qué se busca?***
+
+  Tiene como objetivo proporcionar soluciones tecnológicas accesibles y eficientes para personas en situación de dependencia, tales como mujeres embarazadas, personas de la tercera edad y personas con movilidad reducida. La búsqueda está orientada a mejorar la calidad de vida de los usuarios, brindándoles autonomía, seguridad y acceso a ayuda personalizada mediante una aplicación web que sea intuitiva y fácil de usar.
+
+***2. ¿Qué resultados se mostrarán?***
+
+WebExpert busca ofrecer soluciones tecnológicas accesibles para mujeres embarazadas, con el objetivo de poder tener un buen control del bebé  través de plataformas intuitivas y fáciles de usar.
+
+***3. Interfaz de búsqueda***
+
+La interfaz de búsqueda está diseñada para ser accesible e intuitiva, permitiendo a los usuarios encontrar rápidamente lo que necesitan. Se incluirán sugerencias automáticas mientras se escribe y filtros para ordenar los resultados por categorías como necesidades, fecha o relevancia.
+
 ### 4.2.5. Navigation Systems.
+
+Hemos decidido aplicar para un navigation system con un enfoque centrado en las tareas del usuario dentro de la aplicacion. A continuacion se muestra las tareas que seran accesibles desde la navegacion.
+
+Dentro del perfil de madres:
+
+- Health monitoring
+- - Medication List
+- Chat
+- Appointments
+
+Dentro del perfil de doctoras:
+
+- Patient List
+- - Add patient
+  - About patient
+  - Chat
+  - Appointments
+  - Health monitoring
+  - Medication List
 
 ## 4.3. Landing Page UI Design.
 
