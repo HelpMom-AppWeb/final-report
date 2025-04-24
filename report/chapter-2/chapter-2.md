@@ -252,6 +252,27 @@ Actualmente, trabaja con historias clínicas físicas y el sistema SIEN, aunque 
 
 Propone desarrollar plataformas que integren: 1) historiales médicos accesibles, 2) alertas personalizadas y 3) contenido educativo verificado. Además, sugiere crear comunidades virtuales seguras moderadas por profesionales
 
+ENTREVISTA 3
+
+![Entrevista 3 Doctor](/assets/chapter-2/Screenshot_interview_doctor3.png)
+
+link: https://shorturl.at/4fBWU
+
+inicia: 0:00
+
+Duración: 6:03
+
+Nombre: Judith Jesus Ayala Maurtua
+
+edad: 55 años
+
+Distrito: Pueblo Libre
+
+Resumen: 
+
+Judith Ayala es una obstetra con 30 años de experiencia que trabaja en la Clínica Internacional. Ella comparte información sobre los datos clínicos más relevantes para el monitoreo de madres gestantes, incluyendo antecedentes de embarazos, vitalidad y posición del bebé, exámenes médicos y funciones vitales. 
+También menciona la importancia de detectar indicadores de depresión posparto, que son comunes en madres primerizas. Explica que en la clínica utilizan un test para evaluar estos casos y prevenir situaciones graves como el riesgo de suicidio.
+Sobre el registro y el intercambio de información con los pacientes, destaca el uso de historias clínicas electrónicas a través de una plataforma llamada GIS, que permite compartir evaluaciones y resultados entre especialistas. Finalmente, comenta que una aplicación útil para su trabajo debería permitir la integración de múltiples especialidades para mejorar el diagnóstico y tratamiento de los pacientes.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -292,6 +313,16 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
+
+El User Journey Mapping nos permitirá conocer los objetivos de nuestros usuarios. Respecto al segmento de las madres, abarcaremos el camino desde que descubren la aplicación hasta que registren los datos de sus bebés para su monitoreo por parte de su doctora. Respecto al segmento de los doctores, abarcaremos el camino desde que registran a sus pacientes hasta que monitorean los datos de sus pacientes.
+
+Segmento 1: Madres
+
+<img src="/assets/chapter-2/madre-journey-map.png">
+
+Segmento 2: Doctoras
+
+<img src="/assets/chapter-2/doctor-journey-map.png">
 
 ### 2.3.4. Empathy Mapping.
 
