@@ -156,6 +156,29 @@ El mockup de la landing page sigue un diseño adaptado tanto para Desktop como M
 
 ### 4.4.1. Web Applications Wireframes.
 
+Para los diseños de la aplicación hemos creado una pantalla para cada segmento objetivo.
+
+Segmento madres:
+
+![w1](/assets/chapter-4/w1.jpeg)
+![w2](/assets/chapter-4/w2.jpeg)
+![w3](/assets/chapter-4/w3.jpeg)
+![w4](/assets/chapter-4/w4.jpeg)
+![w5](/assets/chapter-4/w5.jpeg)
+![w6](/assets/chapter-4/w6.jpeg)
+![w7](/assets/chapter-4/w7.jpeg)
+![w8](/assets/chapter-4/w8.jpeg)
+![w9](/assets/chapter-4/w9.jpeg)
+![w10](/assets/chapter-4/w10.jpeg)
+
+Segmento Obstetras:
+
+![w2_1](/assets/chapter-4/w2_1.jpeg)
+![w2_2](/assets/chapter-4/w2_2.jpeg)
+![w2_3](/assets/chapter-4/w2_3.jpeg)
+![w2_4](/assets/chapter-4/w2_4.jpeg)
+![w2_5](/assets/chapter-4/w2_5.jpeg)
+![w2_6](/assets/chapter-4/w2_6.jpeg)
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
