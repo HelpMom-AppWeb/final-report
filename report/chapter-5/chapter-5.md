@@ -392,6 +392,16 @@ Para la entrega de este primer Sprint, se completó el desarrollo de la Landing 
 
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 
+Durante el desarrollo del sprint se lograron completar todos los puntos planteados.
+A continuación se muestran evidencias del landing page logrado.
+
+![l1](\report\Assets\l1.jpeg)
+
+![l2](\report\Assets\l2.jpeg)
+
+![l3](\report\Assets\l3.jpeg)
+
+![l4](\report\Assets\l4.jpeg)
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint solo realizamos el landing page
@@ -434,3 +444,6 @@ A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos dur
 
 
 # Anexos
+
+- link del repositorio de github:
+- link del landing page desplegado:
