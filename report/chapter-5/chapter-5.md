@@ -216,13 +216,172 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 #### 5.2.X.3. Sprint Backlog n.
 
+<table border="1">
+  <tr>
+    <th colspan="3">Sprint 1</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned to</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1">US01</td>
+    <td colspan="2">Visualizar la información de la startup</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Redactar el contenido informativo de la startup</td>
+    <td colspan="3">Crear o recopilar el texto que describe la misión, visión, historia y valores de la startup.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Gabriel Rivera</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Implementar visualización de la información de la startup</td>
+    <td colspan="3">Diseñar e integrar la sección de presentación de la empresa en el sitio, asegurando buena legibilidad y diseño responsive.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Gabriel Rivera</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Visualizar la foto de la startup</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">Seleccionar y preparar la imagen de la startup</td>
+    <td colspan="3">Escoger una imagen representativa de la empresa, optimizarla para web (peso y resolución).</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">Integrar la imagen de la startup en la web</td>
+    <td colspan="3">Mostrar la imagen en la sección de "Sobre Nosotros" o similar, cuidando su ubicación y estilo visual.</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Visualizar la información del producto</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Redactar la descripción del producto</td>
+    <td colspan="3">Crear el contenido textual que explica qué es el producto, qué beneficios ofrece y cómo funciona.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Diseñar e implementar la sección del producto</td>
+    <td colspan="3">Integrar el contenido del producto en el sitio, utilizando un diseño atractivo e intuitivo.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Visualizar la foto del producto</td>
+    <td colspan="1">UT07</td>
+    <td colspan="2">Preparar imagen destacada del producto</td>
+    <td colspan="3">Seleccionar una o más imágenes del producto, optimizarlas para distintos dispositivos.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Preparar Implementar visualización de imágenes del producto</td>
+    <td colspan="3">Añadir las imágenes al sitio en una galería o sección destacada del producto.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Camila</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Visualizar la información de los planes</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">Definir contenido de los planes/membresías</td>
+    <td colspan="3">Ingresar la información sobre los distintos planes, precios, características y condiciones.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT10</td>
+    <td colspan="2">Implementar sección de comparación de planes</td>
+    <td colspan="3">Diseñar una tabla o cards informativas que permitan comparar fácilmente los planes.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US07</td>
+    <td colspan="2">Ver preguntas frecuentes (FAQs)</td>
+    <td colspan="1">UT11</td>
+    <td colspan="2">Redactar listado de preguntas y respuestas frecuentes</td>
+    <td colspan="3">Crear un listado claro de las dudas más comunes y sus respuestas.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Gabriel Mamani</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT12</td>
+    <td colspan="2">Desarrollar componente visual de preguntas frecuentes</td>
+    <td colspan="3">Implementar la sección en la web, preferiblemente con acordeones o collapsibles para mejor experiencia de usuario.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Gabriel Mamani</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Enviar datos de contacto</td>
+    <td colspan="1">UT13</td>
+    <td colspan="2">Diseñar e implementar el formulario de contacto</td>
+    <td colspan="3">Crear un formulario con campos para nombre, correo electrónico y mensaje del usuario.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Stephano</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT14</td>
+    <td colspan="2">Programar validación y envío del formulario</td>
+    <td colspan="3">Asegurar que los datos ingresados sean válidos y se envíen correctamente a un correo o base de datos.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Stephano</td>
+    <td colspan="1">Done</td>
+  </tr>
+
+</table>
 #### 5.2.X.4. Development Evidence for Sprint Review.
 
 Para la entrega de este primer Sprint, se completó el desarrollo de la Landing Page. No obstante, no se llevaron a cabo pruebas relacionadas con la misma en esta entrega.
 
 #### 5.2.X.5. Execution Evidence for Sprint Review.
-
-
 
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 
