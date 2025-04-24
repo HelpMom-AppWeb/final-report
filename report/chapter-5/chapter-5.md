@@ -30,6 +30,34 @@ En esta sección, detallaremos y explicaremos los productos utilizados en el pro
 
 ### 5.1.2. Source Code Management.
 
+**Gestión del Proyecto en GitHub**:
+En este proyecto, utilizamos GitHub como plataforma principal para el control de versiones y gestión colaborativa del código fuente bajo una organización dedicada.
+
+**Repositorios** en GitHub
+- **Organización**: [HelpMom-AppWeb](https://github.com/HelpMom-AppWeb)
+- **Landing Page**: [Repositorio](https://github.com/HelpMom-AppWeb/landing-page)
+- **Informe Final**: [Repositorio](https://github.com/HelpMom-AppWeb/final-report)
+
+**Flujo de Trabajo GitFlow**:
+Implementamos el modelo **GitFlow** para garantizar una gestión ordenada del desarrollo, siguiendo estas convenciones:
+
+**Ramas Principales**:
+1. **`main`/`master`**
+   - Contiene únicamente código estable y versiones liberadas.
+2. **`dev`**:
+   - Rama de integración para nuevas funcionalidades y mejoras.
+
+**Ramas de Desarrollo**:
+- **Feature Branches**:  
+  Creamos 5 ramas de características (una por cada capítulo del informe), donde se realizan los commits correspondientes antes de fusionarlas con `dev` una vez completadas.
+
+**Conventional** Commits
+Adoptamos el estándar **Conventional Commits** para mensajes de commit, asegurando:
+- **Estructura clara**: Descripción precisa de los cambios.
+- **Automatización**: Facilita la generación de changelogs y el seguimiento del historial.
+
+Estas prácticas nos permitieron mantener un desarrollo organizado, colaborativo y documentado dentro de la organización en GitHub.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 ### 5.1.4. Software Deployment Configuration.
