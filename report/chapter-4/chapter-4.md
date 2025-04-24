@@ -176,9 +176,26 @@ El mockup de la landing page sigue un diseño adaptado tanto para Desktop como M
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+![Class Diagrams](/assets/chapter-4/Diagrama_clase.png)
+Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=355%2C-1059%2C5568%2C2702%2COMP.TpOaBXWe&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
 
 ### 4.7.2. Class Dictionary.
+* **Class Mother:** Representa a las madres en el sistema, con información como fecha de nacimiento y estado de embarazo.
+* **Class MedicalDocument:** Representa los documentos médicos subidos al sistema, como informes o análisis.
+* **Class Subscription:** Representa las suscripciones activas de los usuarios en la plataforma.
+* **Class Baby:** Representa a los bebés registrados, con datos como nombre, fecha de nacimiento y etapa de desarrollo.
+* **Class Membership:** Representa los tipos de membresía disponibles, con detalles como precio y nivel de acceso.
+* **Class MedicalCheckUp:** Representa los controles médicos realizados al bebé, incluyendo peso, talla y observaciones.
+* **Class MedicalHistory:** Representa el historial clínico del bebé, editable solo por doctores.
+* **Class VitalSign:** Representa las señales vitales registradas (como temperatura o frecuencia cardíaca).
+* **Class Vaccine:** Representa las vacunas aplicadas al bebé, con detalles como fecha y dosis.
+* **Class Medicine:** Representa los medicamentos prescritos por el doctor.
+* **Class Doctor:** Representa a los médicos en el sistema, con especialidad y número de colegiatura.
+* **Class Message:** Representa los mensajes intercambiados entre usuarios (madres, doctores, etc.).
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+![Database Diagram](/assets/chapter-4/Diagrama_DB.png)
+
+Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=-3800%2C-3824%2C6488%2C3148%2C_OP.s7PTPVPg&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
