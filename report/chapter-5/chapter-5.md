@@ -60,6 +60,70 @@ Estas prácticas nos permitieron mantener un desarrollo organizado, colaborativo
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+Establecemos las siguientes convenciones para garantizar consistencia y calidad en el desarrollo del proyecto, aplicables a todos los lenguajes y tecnologías utilizados (HTML, CSS, JavaScript, Vue.js, C# y Gherkin). Todas las nomenclaturas seguirán el idioma inglés y estándares reconocidos.
+
+1. **HTML y CSS**
+
+   **Estándares**:
+      - Basados en recomendaciones del **W3C** y **Google Style Guide**
+      - Identación: **2 espacios**
+      - Comillas: **Dobles** para atributos HTML
+      - Comentarios: Descriptivos y en inglés
+
+   **Metodología**:
+      - **BEM** (Block-Element-Modifier) para clases CSS
+      - **HTML semántico**: Uso correcto de etiquetas (`<header>`, `<section>`, etc.)
+   
+      **Vue.js**:
+     - Componentes: **PascalCase** (ej. `UserProfile.vue`)
+     - Props/Métodos: **camelCase**
+
+2. **JavaScript**
+
+   **Guías**:
+   - Según **MDN** y **Google JavaScript Style Guide**
+   - Variables/funciones: **camelCase** (ej. `calculateTotal`)
+   - Declaración: Siempre `const` o `let` (nunca `var`)
+   - Literales: Comillas **simples** (`'texto'`)
+   - Funciones: Preferir **arrow functions**
+
+3. **Vue.js**
+
+   **Convenciones**:
+   - Directivas abreviadas: `@` para `v-on`, `:` para `v-bind`
+   - Organización:
+      - Componentes en carpetas por funcionalidad
+      - Ciclo de vida ordenado (`created()`, `mounted()`, etc.)
+
+4. C# (ASP.NET Core)
+
+   **Estilo Microsoft**:
+   - Clases/Métodos: **PascalCase** (ej. `UserService`)
+   - Variables/parámetros: **camelCase**
+   - Documentación: Comentarios **XML** (`/// <summary>`)
+
+   **ASP.NET Core**:
+   - Inyección de dependencias (DI)
+   - Separación clara de capas (MVC)
+   - Uso de **ViewModels**
+
+5. Gherkin (.feature)
+
+   **Prácticas**:
+   - Keywords: **Given-When-Then** (ej. `Given a logged-in admin`)
+   - Lenguaje: **Claro y no técnico**
+   - Estructura:
+      - Escenarios modulares
+      - Pasos reutilizables
+
+**Buenas Prácticas Generales**
+- **Modularidad** y reutilización de código
+- **Legibilidad** (nombres descriptivos, indentación consistente)
+- **Optimización** de rendimiento
+- **Seguridad** integrada en el diseño
+
+Estas convenciones aseguran coherencia, mantenibilidad y calidad en todo el código del proyecto.
+
 ### 5.1.4. Software Deployment Configuration.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
