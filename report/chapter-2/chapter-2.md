@@ -348,7 +348,12 @@ Segmento 2: Médicos especialistas que atienden a mujeres durante el embarazo y 
 
 ### 2.3.5. As-is Scenario Mapping.
 
-<img src="/assets/As-Is%20Scenario%20Mapping.jpg"/>
+## Segmento Madres
+![As-Is Tobe scenario mapping Madres.jpg](../../assets/chapter-2/As-Is%20Tobe%20scenario%20mapping%20Madres.jpg)
+
+## Segmento Doctores
+![As-Is scenario mapping Doctores.jpg](../../assets/chapter-2/As-Is%20scenario%20mapping%20Doctores.jpg)
+
 
 ## 2.4. Ubiquitous Language.
 
