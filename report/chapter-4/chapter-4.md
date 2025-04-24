@@ -68,6 +68,44 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 ### 4.2.1. Organization Systems.
 
 ### 4.2.2. Labeling Systems.
+Esta sección define las etiquetas clave que organizan la información en la plataforma, garantizando una presentación clara y relaciones intuitivas entre los elementos. Cada componente ha sido cuidadosamente seleccionado para cumplir su función específica dentro del sistema, facilitando la interacción del usuario y manteniendo una experiencia de navegación coherente y sin fricciones.
+
+**Navbar (Menú Principal):**
+
+* "Inicio": Redirige a la página principal de la web.
+* "Nosotros": Muestra información sobre la empresa, su misión y valores.
+* "Productos": Describe los servicios o soluciones ofrecidas.
+* "Membresía": Detalla los planes disponibles y sus beneficios.
+* "FAQ": Responde a preguntas frecuentes de los usuarios.
+* "Contacto": Proporciona acceso directo a los canales de comunicación.
+
+**Secciones Principales:**
+
+* "Inicio": Página de bienvenida con información destacada.
+* "Nosotros": Historia, equipo y propósito de la empresa.
+* "Productos": Características y ventajas de los servicios.
+* "Membresía": Precios, planes y opciones de suscripción.
+* "FAQ": Soluciones rápidas a dudas comunes.
+* "Contacto": Formulario o datos para ponerse en contacto.
+
+**Formulario de Contacto:**
+
+* "Nombre": Campo para ingresar el nombre completo.
+* "Email": Espacio para la dirección de correo.
+* "Asunto": Breve descripción del motivo.
+* "Mensaje": Área para detalles adicionales.
+* "Enviar": Botón para submitir el formulario.
+
+**Pie de Página:**
+
+* "Nosotros": Enlace a la sección "Acerca de".
+* "Productos": Acceso rápido a los servicios.
+* "FAQ": Preguntas frecuentes.
+* "Términos": Condiciones legales del sitio.
+* "Privacidad": Política de protección de datos.
+* "Contacto": Redirección a la sección correspondiente.
+
+Cada etiqueta se diseñó para ser intuitiva, facilitando la navegación y mejorando la experiencia del usuario. La estructura prioriza claridad y coherencia, alineándose con los objetivos de la plataforma.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
