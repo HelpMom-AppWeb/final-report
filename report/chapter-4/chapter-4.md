@@ -208,12 +208,36 @@ Segmento Obstetras:
 
 
 ## 4.6. Domain-Driven Software Architecture.
+Los diagramas de arquitectura de software son herramientas clave para diseñar y comprender la estructura de un sistema. Al aplicar el enfoque de Domain Driven Design (DDD), estos diagramas nos permiten representar visualmente los distintos elementos del dominio, sus límites y las relaciones entre ellos, lo que facilita una mejor planificación y comunicación del diseño
 
 ### 4.6.1. Software Architecture Context Diagram.
+En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
+![ContextDiagram.png](../../assets/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software
+![ContainerDiagram.png](../../assets/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica
+
+Diagrama de componente de Baby Monitoring
+![ComponentbabyMonitoringBC.png](../../assets/ComponentbabyMonitoringBC.png)
+
+Diagrama de componente de Billing Subsciption
+![ComponentbillingSubscriptionBC.png](../../assets/ComponentbillingSubscriptionBC.png)
+
+Diagrama de componente de Managment
+![ComponentcontentManagementBC.png](../../assets/ComponentcontentManagementBC.png)
+
+Diagrama de componente de MedicalAssistance
+![ComponentmedicalAssistanceBC.png](../../assets/ComponentmedicalAssistanceBC.png)
+
+Diagrama de componente de Notification
+![ComponentnotificationBC.png](../../assets/ComponentnotificationBC.png)
+
+Diagrama de cmponente de User Managment
+![ComponentuserManagementBC.png](../../assets/ComponentuserManagementBC.png)
 
 ## 4.7. Software Object-Oriented Design.
 
