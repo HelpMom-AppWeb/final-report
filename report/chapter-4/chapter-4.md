@@ -63,6 +63,16 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 
 ### 4.1.2. Web Style Guidelines.
 
+- **#FADADD (Rosa Pastel - Principal):** Este color es fundamental en nuestra identidad visual. El rosa pastel simboliza ternura, amor y sensibilidad, reflejando la conexión especial entre madre e hijo. Se utiliza como color predominante en los fondos y componentes clave para transmitir un ambiente afectivo y empático.
+
+- **#F79AB0 (Rosa Vivo - Acento):** Un tono más intenso y vibrante que complementa el rosa pastel. Se emplea en botones principales y llamadas a la acción, añadiendo energía sin perder la suavidad emocional característica de la plataforma.
+
+- **#FFE5DC (Melocotón Claro - Complementario):** Un color cálido y suave utilizado en ilustraciones, etiquetas y elementos secundarios. Ofrece una variación cromática manteniendo la armonía maternal del diseño.
+
+- **#C24865 (Rosa Intenso – Énfasis emocional):** Este tono profundo y elegante aporta una fuerte carga emocional al diseño. Se utiliza para alertas suaves, destacando citas o recordatorios importantes, sin resultar agresivo, y conservando un contraste atractivo dentro de la paleta cromática.
+
+- **#F5ABE7 (Rosa Lila – Detalles decorativos):** Un tono delicado y juguetón que se utiliza para acentos gráficos, ilustraciones o pequeños detalles decorativos que agregan un toque de fantasía y encanto visual. Es perfecto para secciones informativas o elementos destinados a generar una conexión emocional con las usuarias.
+
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
