@@ -311,7 +311,18 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 <img src="/assets/chapter-2/userpersona2.png">
 
 ### 2.3.2. User Task Matrix.
-
+| Actividad                                       | **Daniela Gomez**          | **Daniela Gomez**        | **Sabrina Paredes**        | Sabrina Paredes          |
+|-------------------------------------------------|----------------------------|--------------------------|----------------------------|--------------------------|
+|                                                 | **Frecuencia**             | **Importancia**          | **Frecuencia**             | **Importancia**          |
+| -------------------------------------           | -------------------------- | ------------------------ | -------------------------- | ------------------------ |
+| Monitorear signos vitales                       | **Rara vez**               | Alta                     | Siempre                    | Alta                     |
+| Asistencia al medico                            | Siempre                    | Media                    | Rara vez                   | Media                    |
+| Detectar riesgos y complicaciones               | Nunca                      | Alta                     | Siempre                    | Alta                     |
+| Brindar soporte emocional                       | Raras vez                  | Media                    | Rara vez                   | Media                    |
+| Realizar clases de preparcion de parto          | Siempre                    | Baja                     | Rara vez                   | Media                    |
+| Asesorar sobre el plan de parto                 | Rara vez                   | Media                    | Siempre                    | Alta                     |
+| Realizar examenes medicos                       | Nunca                      | Alta                     | Siempre                    | Alta                     |
+| Buscar informacion para el proceso de gestacion | Siempre                    | Media                    | Rara vez                   | Media                    |
 ### 2.3.3. User Journey Mapping.
 
 El User Journey Mapping nos permitirá conocer los objetivos de nuestros usuarios. Respecto al segmento de las madres, abarcaremos el camino desde que descubren la aplicación hasta que registren los datos de sus bebés para su monitoreo por parte de su doctora. Respecto al segmento de los doctores, abarcaremos el camino desde que registran a sus pacientes hasta que monitorean los datos de sus pacientes.
