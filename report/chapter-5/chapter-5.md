@@ -126,6 +126,30 @@ Estas convenciones aseguran coherencia, mantenibilidad y calidad en todo el cód
 
 ### 5.1.4. Software Deployment Configuration.
 
+A continuación se detallan los pasos para desplegar cada componente de nuestra solución:
+
+**Pasos para el despliegue**
+1. Landing Page:
+- Clonar o descargar el repositorio desde GitHub.
+- Configurar el servidor web para alojar la Landing Page.
+- Copiar los archivos HTMLS, CSS y JavaScript en el directorio correspondiente del servidor.
+- Configurar cualquier dependencia adicional, como bibliotecas de JavaScript o imágenes.
+- Verificar que la Landing Page se cargue correctamente en el navegador.
+
+2. Web Services (API):
+- Preparar el código fuente del servicio web, asegurando que esté correctamente estructurado y documentado.
+- Configurar un entorno de desarrollo o pruebas para realizar pruebas exhaustivas del servicio antes del despliegue.
+- Desplegar el código en un servidor adecuado para el entorno de producción.
+- Configurar la seguridad y la autenticación según los requisitos del sistema.
+- Documentar la API utilizando OpenAPI Specification para facilitar su integración y uso por parte de otros sistemas.
+
+3. Frontend Web Applications:
+- Clonar repositorio desde GitHub.
+- Compilar y empaquetar las aplicaciones frontend. En nuestro caso, utilizamos el framework Vue.js, por lo que se debe ejecutar los comandos de construcción (`npm run build`) para generar los archivos estáticos.
+- Una vez empaquetadas, las Frontend Web Applications se pueden servir utilizando un servidor de aplicaciones compatible con archivos estáticos, como Nginx o incluso GitHub Pages para proyectos estáticos más simples.
+- Si es necesario, se deben configurar las rutas en el servidor de aplicaciones para que coincidan con las rutas esperadas por las aplicaciones frontend.
+  re redacta esto siguiendo el mismo formato
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.X. Sprint n
