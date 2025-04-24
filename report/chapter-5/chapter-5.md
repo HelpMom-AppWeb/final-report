@@ -222,10 +222,11 @@ Para la entrega de este primer Sprint, se completó el desarrollo de la Landing 
 
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 
-En este primer entregable, hemos creado la Landing Page del proyecto "PsyMed", permitiendo así la visualización de la información clave sobre nuestra plataforma.
 
 
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint solo realizamos el landing page
 
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
