@@ -4,9 +4,9 @@
 ## Aplicaciones Web - Presencial
 ## PROFESOR: Ángel Augusto
 ## Sección: 1ASI0730
-## INFORME TB1
-## START UP: HELP MOM
-## PRODUCTO: KeepItFresh
+## INFORME TP
+## START UP: WebExperts
+## PRODUCTO: HelpMom
 
 ### INTEGRANTES:
 <table>
@@ -49,7 +49,8 @@ Ciclo 2025-01
 
 | Versión | Fecha      | Autor          | Descripción de modificación |
 |---------|------------|----------------|-----------------------------|
-| TB1     | 2025/04/23 | Gabriel Rivera |                             |
+| TB1     | 2025/04/23 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita | Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente. |
+| TP      | 2025/04/26 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita | Se avanzó con el Sprint 2, donde incluimos la finalización del Landing Page y la primera versión del Web Application |
 
 
 # Project Report Collaboration Insights
@@ -156,8 +157,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                             | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                          |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | TB1: <br> Romina Maita: En esta entrega logre hacer uso de mi liderazgo para organizar tareas. <br>Mamani Marca Gabriel:  Ayude a organizar y repartir temas a cada miembro del equipo.Tambien,ayude en resolver cualquier duda de mis compañeros <br> Stephano: ayude con la organización de los temas para cada integrante y ayude en puntos que faltaba en el informe    <br> Reyes Menacho, Camila Asuncion Aporte en el apartado de entrevistas y análisis de estas  <br> TB1: Rivera Ayala Gabriel Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. | En conclusion la realizacion de este informe no fue facil puesto que el equipo no se comunica. En este punto se entiende el ambiente, dado que cada miembro recien se esta conociendo |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1: <br> Romina Maita: Establecímetas y organicé los puntos por capítulo que le tocaban a cada integrante. <br> Mamani Marca Gabriel: Despues de realizar comunicacion constante ya  sabiamos el tema que ibamos a escoger y el enfoque que ibamos a tomar relacionado al mismo, hubo colaboración constante, sin embargo creo que debimos organizarnos mejor<br> Stephano: tambien tuve una buena comunicación con mis compañeros de equipo ya que tuvimos una buen planificación   <br> Camila: En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual. <br>                        |                                                                                                                                                                                       |
+| Criterio específico| Acciones realizadas| Conclusiones |
+|----|----|----|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | TB1: <br>- Romina Maita:</br> En esta entrega logre hacer uso de mi liderazgo para organizar tareas. <br>- Mamani Marca Gabriel:</br>  Ayude a organizar y repartir temas a cada miembro del equipo.Tambien,ayude en resolver cualquier duda de mis compañeros <br>- Stephano: </br> ayude con la organización de los temas para cada integrante y ayude en puntos que faltaba en el informe    <br> Reyes Menacho, Camila Asuncion </br> Aporte en el apartado de entrevistas y análisis de estas. <br> Rivera Ayala Gabriel:</br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. | En conclusion la realizacion de este informe no fue facil puesto que el equipo no se comunica. En este punto se entiende el ambiente, dado que cada miembro recien se esta conociendo |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1: <br> Romina Maita:</br> Establecímetas y organicé los puntos por capítulo que le tocaban a cada integrante. <br> Mamani Marca Gabriel:</br> Despues de realizar comunicacion constante ya  sabiamos el tema que ibamos a escoger y el enfoque que ibamos a tomar relacionado al mismo, hubo colaboración constante, sin embargo creo que debimos organizarnos mejor<br> Stephano:</br> tambien tuve una buena comunicación con mis compañeros de equipo ya que tuvimos una buen planificación   <br> Camila:</br> En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual. <br>                        |                                                                                                                                                                                       |
 
