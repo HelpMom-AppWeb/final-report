@@ -18,24 +18,24 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Reyes Menacho, Camila Asuncion</td>
+      <td>u201921442</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Rivera Ayala, Gabriel Alejandro</td>
+      <td>u202223279</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Espinoza Cueva, Stephano Jose</td>
+      <td>u202218590</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Mamani Marca, Gabriel Cristian</td>
+      <td>u202220659</td>
     </tr>
     <tr>
       <td>Maita Falckenheiner, Romina Guadalupe</td>
-      <td>U202213765</td>
+      <td>u202213765</td>
     </tr>
   </tbody>
 </table>
@@ -47,9 +47,9 @@ Ciclo 2025-01
 
 # Registro de versiones del informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| TB1     |       |       |                             |
+| Versión | Fecha      | Autor          | Descripción de modificación |
+|---------|------------|----------------|-----------------------------|
+| TB1     | 2025/04/23 | Gabriel Rivera |                             |
 
 
 # Project Report Collaboration Insights
@@ -148,8 +148,16 @@ Ciclo 2025-01
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|                     |                     |              |
-|                     |                     |              |
+ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+| Criterio específico                                                                             | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | TB1: <br> Romina Maita: En esta entrega logre hacer uso de mi liderazgo para organizar tareas. <br>Mamani Marca Gabriel:  Ayude a organizar y repartir temas a cada miembro del equipo.Tambien,ayude en resolver cualquier duda de mis compañeros <br> Stephano: ayude con la organización de los temas para cada integrante y ayude en puntos que faltaba en el informe    <br> Reyes Menacho, Camila Asuncion Aporte en el apartado de entrevistas y análisis de estas  <br> TB1: Rivera Ayala Gabriel Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. | En conclusion la realizacion de este informe no fue facil puesto que el equipo no se comunica. En este punto se entiende el ambiente, dado que cada miembro recien se esta conociendo |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1: <br> Romina Maita: Establecímetas y organicé los puntos por capítulo que le tocaban a cada integrante. <br> Mamani Marca Gabriel: Despues de realizar comunicacion constante ya  sabiamos el tema que ibamos a escoger y el enfoque que ibamos a tomar relacionado al mismo, hubo colaboración constante, sin embargo creo que debimos organizarnos mejor<br> Stephano: tambien tuve una buena comunicación con mis compañeros de equipo ya que tuvimos una buen planificación   <br> Camila: En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual. <br>                        |                                                                                                                                                                                       |
 
