@@ -179,9 +179,28 @@ Segmento Obstetras:
 ![w2_4](/assets/chapter-4/w2_4.jpeg)
 ![w2_5](/assets/chapter-4/w2_5.jpeg)
 ![w2_6](/assets/chapter-4/w2_6.jpeg)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+
+
 ### 4.4.2. Web Applications Mock-ups.
+
+Segmento madres:
+
+![m1](/assets/chapter-4/m1.png)
+![m2](/assets/chapter-4/m2.png)
+![m3](/assets/chapter-4/m3.png)
+![m4](/assets/chapter-4/m4.png)
+![m5](/assets/chapter-4/m5.png)
+![m6](/assets/chapter-4/m6.png)
+
+Segmento Obstetras:
+
+![m2_1](/assets/chapter-4/m2_1.png)
+![m2_2](/assets/chapter-4/m2_2.png)
+![m2_3](/assets/chapter-4/m2_3.png)
+![m2_4](/assets/chapter-4/m2_4.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
