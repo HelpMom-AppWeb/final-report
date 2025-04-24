@@ -162,13 +162,41 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 
 #### 5.2.X.4. Development Evidence for Sprint Review.
 
+Para la entrega de este primer Sprint, se completó el desarrollo de la Landing Page. No obstante, no se llevaron a cabo pruebas relacionadas con la misma en esta entrega.
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
+
+En este primer entregable, hemos creado la Landing Page del proyecto "PsyMed", permitiendo así la visualización de la información clave sobre nuestra plataforma.
+
 
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
+Para el despliegue de la Landing Page, utilizamos GitHub Pages como herramienta para realizar el deployment. Creamos un repositorio donde almacenamos el código de nuestra Landing Page.
+
+### Final-Report
+![ReportFinal.jpg](../Assets/ReportFinal.jpg)
+
+### Landing-Page
+![LandingPage.jpg](../Assets/LandingPage.jpg)
+
+
+Una vez creado el repositorio, accedimos a la configuración y seleccionamos la sección de Pages. En este apartado, ingresamos los datos necesarios, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporcionó un enlace y publicó nuestra Landing Page en la web.
+
+### Final-Report-Pages
+![FinalReportPages.jpg](../Assets/FinalReportPages.jpg)
+
+### Landing-Page-Pages
+![LandingPagePages.jpg](../Assets/LandingPagePages.jpg)
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
+
+A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos durante esta TB1:
+
+![Grafico commits.jpg](../Assets/Grafico%20commits.jpg)
+
+![Grafico personal de commits.jpg](../Assets/Grafico%20personal%20de%20commits.jpg)
 
 ## 5.3. Validation Interviews.
 
