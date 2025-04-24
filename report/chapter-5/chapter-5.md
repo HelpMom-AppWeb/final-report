@@ -214,6 +214,14 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 #### 5.2.X.2. Aspect Leaders and Collaborators.
 
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | C                                                      | L                                        |
+| Reyes Camila                       | dakuma-ai       | L                                                    | C                                                      | L                                        |
+| Cueva Stephano                     | guestwhoo       | L                                                    | C                                                      | L                                        |
+| Maita Romina                       | RominaMaita     | C                                                    | L                                                      | L                                        |
+| Mamani Gabriel                     | Gabrlel0105     | C                                                    | C                                                      | L                                        |
+
 #### 5.2.X.3. Sprint Backlog n.
 
 <table border="1">
@@ -377,6 +385,7 @@ Desarrollar y desplegar una landing page que presente información a los usuario
   </tr>
 
 </table>
+
 #### 5.2.X.4. Development Evidence for Sprint Review.
 
 Para la entrega de este primer Sprint, se completó el desarrollo de la Landing Page. No obstante, no se llevaron a cabo pruebas relacionadas con la misma en esta entrega.
@@ -413,17 +422,6 @@ A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos dur
 ![Grafico commits.jpg](../Assets/Grafico%20commits.jpg)
 
 ![Grafico personal de commits.jpg](../Assets/Grafico%20personal%20de%20commits.jpg)
-
-## 5.3. Validation Interviews.
-
-### 5.3.1. Diseño de Entrevistas.
-
-### 5.3.2. Registro de Entrevistas.
-
-### 5.3.3. Evaluaciones según heurísticas.
-
-## 5.4. Video About-the-Product.
-
 
 # Conclusiones
 
