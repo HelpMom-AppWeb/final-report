@@ -182,7 +182,34 @@ Segmento Obstetras:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes wireflows para cada uno de ellos.
 
+User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su estado de salud.
+![wflow1](/assets/chapter-4/wflow1.png)
+
+User goal: Como madre quiero ver el chat de mi doctora para comunicarme con ella.
+![wflow2](/assets/chapter-4/wflow2.png)
+
+User goal: Como madre quiero ver el calendario de citas para asistir a las citas programadas.
+![wflow3](/assets/chapter-4/wflow3.png)
+
+User goal: Como madre quiero ver la lista de medicamentos para comprar las recetas programadas.
+![wflow4](/assets/chapter-4/wflow4.png)
+
+User goal: Como doctora quiero anadir el perfil de una paciente para comunicarme con ella.
+![wflow21](/assets/chapter-4/wflow2_1.png)
+
+User goal: Como madre quiero ver el chat de mi paciente para comunicarme con ella.
+![wflow22](/assets/chapter-4/wflow2_2.png)
+
+User goal: Como madre quiero ver los signos vitales del bebe de una paciente para monitorear su estado de salud.
+![wflow23](/assets/chapter-4/wflow2_3.png)
+
+User goal: Como madre quiero anadir una cita al calendario para asistir a la cita programada.
+![wflow24](/assets/chapter-4/wflow2_4.png)
+
+User goal: Como doctora quiero anadir una receta a la lista de medicamentos para informar a mi paciente.
+![wflow25](/assets/chapter-4/wflow2_5.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -204,8 +231,41 @@ Segmento Obstetras:
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes User Flows para cada uno de ellos.
+
+User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su estado de salud.
+![uflow1](/assets/chapter-4/uflow1.png)
+
+User goal: Como madre quiero ver el chat de mi doctora para comunicarme con ella.
+![uflow2](/assets/chapter-4/uflow2.png)
+
+User goal: Como madre quiero ver el calendario de citas para asistir a las citas programadas.
+![uflow3](/assets/chapter-4/uflow3.png)
+
+User goal: Como madre quiero ver la lista de medicamentos para comprar las recetas programadas.
+![uflow4](/assets/chapter-4/uflow4.png)
+
+User goal: Como doctora quiero anadir el perfil de una paciente para comunicarme con ella.
+![uflow21](/assets/chapter-4/uflow2_1.png)
+
+User goal: Como madre quiero ver el chat de mi paciente para comunicarme con ella.
+![uflow22](/assets/chapter-4/uflow2_2.png)
+
+User goal: Como madre quiero ver los signos vitales del bebe de una paciente para monitorear su estado de salud.
+![uflow23](/assets/chapter-4/uflow2_3.png)
+
+User goal: Como madre quiero anadir una cita al calendario para asistir a la cita programada.
+![uflow24](/assets/chapter-4/uflow2_4.png)
+
+User goal: Como doctora quiero anadir una receta a la lista de medicamentos para informar a mi paciente.
+![uflow25](/assets/chapter-4/uflow2_5.png)
+
 ## 4.5. Web Applications Prototyping.
 
+A continuacion se demuestra una simulacion de la aplicacion web, donde se puede observar el flujo de la aplicacion y como se comporta cada una de las pantallas.
+![Prototipo](/assets/chapter-4/prototype.png)
+
+Enlace donde se puede probar la interacción: https://www.figma.com/proto/CgL9dyaLJIA5rMKlIDgF4v/UX-UI-DESIGN-WEB?node-id=0-1&t=i5Oy6CKeg4crXJq0-1
 
 ## 4.6. Domain-Driven Software Architecture.
 Los diagramas de arquitectura de software son herramientas clave para diseñar y comprender la estructura de un sistema. Al aplicar el enfoque de Domain Driven Design (DDD), estos diagramas nos permiten representar visualmente los distintos elementos del dominio, sus límites y las relaciones entre ellos, lo que facilita una mejor planificación y comunicación del diseño
