@@ -62,6 +62,7 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 
 
 ### 4.1.2. Web Style Guidelines.
+A continuación, se presentarán de forma estructurada los elementos de identidad visual que se utilizarán en el diseño de nuestra aplicación, incluyendo el branding, la tipografía, la paleta de colores y los lineamientos de espaciado.
 
 - **#FADADD (Rosa Pastel - Principal):** Este color es fundamental en nuestra identidad visual. El rosa pastel simboliza ternura, amor y sensibilidad, reflejando la conexión especial entre madre e hijo. Se utiliza como color predominante en los fondos y componentes clave para transmitir un ambiente afectivo y empático.
 
@@ -73,13 +74,51 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 
 - **#F5ABE7 (Rosa Lila – Detalles decorativos):** Un tono delicado y juguetón que se utiliza para acentos gráficos, ilustraciones o pequeños detalles decorativos que agregan un toque de fantasía y encanto visual. Es perfecto para secciones informativas o elementos destinados a generar una conexión emocional con las usuarias.
 
-## 4.2. Information Architecture.
+**Brand Overview**:
+Nuestro proyecto tiene como objetivo brindar apoyo a las mujeres que ya tienen un amplio conocimiento sobre el proceso de parto y postparto, ayudándolas a navegar de manera más efectiva esta etapa. Además, buscamos facilitar la conexión entre los especialistas en el área y sus pacientes, proporcionando una plataforma que optimice la comunicación y el acceso a la información## 4.2. Information Architecture.
+
+**Brand Name**:
+El nombre HelpMom viene para 
 
 ### 4.2.1. Organization Systems.
+En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
 
+**Segmento objetivo 1: Mujeres en gestacion**
+
+Al acceder a la plataforma HelpMom, las usuarias embarazadas pueden iniciar sesión, registrarse si aún no tienen una cuenta o recuperar su contraseña en caso de olvido. Una vez autenticadas, la página principal les presenta un panel personalizado con un menú de navegación que incluye opciones como "Mi Embarazo", "Salud", "Consejos", "Chat Médico", "Perfil" y "Ajustes".
+
+En la sección "Mi Embarazo", las usuarias pueden visualizar el progreso de su gestación semana a semana, acceder a información relevante sobre el desarrollo del bebé, así como recibir recomendaciones personalizadas para cada etapa del embarazo, incluyendo nutrición, ejercicio y bienestar emocional.
+
+En "Salud", se presenta un resumen de los signos vitales monitoreados por la pulsera inteligente (IoT), como frecuencia cardíaca, temperatura y calidad del sueño. También pueden registrar síntomas, cargar análisis médicos y recibir alertas si se detectan datos fuera de lo habitual.
+
+La opción "Consejos" ofrece acceso a una biblioteca de artículos, videos y podcasts creados por especialistas en salud materno-infantil, con contenido actualizado sobre lactancia, preparación para el parto, salud mental y más.
+
+En el módulo de "Chat Médico", las mujeres embarazadas pueden comunicarse en tiempo real con médicas y médicos disponibles 24/7, resolver dudas, compartir síntomas o recibir orientación inmediata en situaciones urgentes.
+
+En el "Perfil", las usuarias pueden actualizar su información personal, incluyendo edad gestacional, datos de contacto, historial médico y preferencias de notificaciones.
+
+En "Ajustes", pueden gestionar su cuenta, cambiar la contraseña, revisar los permisos de acceso a sus datos y configurar las alertas automáticas enviadas por la plataforma.
+![doc (2).png](../../assets/chapter-4/doc%20%282%29.png)
+**Segmento objetivo 2: Medicos especialistas en atender el proceso de parto**
+
+Al acceder a la plataforma del proyecto HelpMom para profesionales de la salud infantil y maternal, los usuarios (pediatras, médicos generales, enfermeras especializadas y otros profesionales de la salud) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Alertas", "Perfil" y "Ajustes".
+
+![mujerGestaciondiagram.png](../../assets/chapter-4/mujerGestaciondiagram.png)
 ### 4.2.2. Labeling Systems.
-Esta sección define las etiquetas clave que organizan la información en la plataforma, garantizando una presentación clara y relaciones intuitivas entre los elementos. Cada componente ha sido cuidadosamente seleccionado para cumplir su función específica dentro del sistema, facilitando la interacción del usuario y manteniendo una experiencia de navegación coherente y sin fricciones.
 
+Al acceder a la plataforma HelpMom, los profesionales de la salud (pediatras, ginecólogos, obstetras y médicos generales) pueden iniciar sesión, registrarse si aún no tienen una cuenta, o recuperar su contraseña. Una vez dentro, se les presenta un panel de control adaptado a su rol, con un menú de navegación que incluye "Pacientes", "Agenda", "Alertas", "Perfil" y "Ajustes".
+
+En la sección "Pacientes", los médicos pueden acceder a una lista de mujeres gestantes y recién nacidos bajo su atención. Al seleccionar un caso, se despliega un perfil detallado con el historial médico, resultados de exámenes, signos vitales recolectados en tiempo real por los dispositivos IoT, y un resumen del seguimiento clínico.
+
+La subsección "Tratamientos en curso" permite consultar y registrar diagnósticos, recetas médicas, seguimiento de vacunas, intervenciones recomendadas y tareas médicas asignadas.
+
+La opción "Agenda" ofrece una vista completa de las próximas citas médicas, controles prenatales o consultas pediátricas. Los médicos pueden agendar nuevas sesiones, modificar citas existentes y generar recordatorios automáticos para los pacientes.
+
+En "Alertas", se centralizan las notificaciones generadas por el sistema en función del monitoreo de salud. Se destacan cambios anormales en los signos vitales, señales de alerta durante el embarazo y cualquier variación crítica detectada por los dispositivos conectados.
+
+En el módulo "Perfil", los médicos pueden modificar su información profesional, como especialidad, horarios de atención, datos de contacto y credenciales verificadas.
+
+En "Ajustes", es posible gestionar la seguridad de la cuenta, cambiar la contraseña, activar o desactivar notificaciones, y establecer preferencias en la visualización de datos clínicos.
 **Navbar (Menú Principal):**
 
 * "Inicio": Redirige a la página principal de la web.
