@@ -148,6 +148,8 @@ Dentro del perfil de doctoras:
 
 ### 4.3.1. Landing Page Wireframe.
 
+![Landing page wireframe HomePage](/assets/chapter-4/Landing_Page_wireframe.png)
+
 ### 4.3.2. Landing Page Mock-up.
 El mockup de la landing page sigue un diseño adaptado tanto para Desktop como Mobile, utilizando una paleta de colores rosados suaves como base, reforzando la temática de maternidad y cuidado. Se incorporan toques de verde como color de contraste, aportando frescura y equilibrio visual.
 ![Landing page mock up HomePage](/assets/chapter-4/Landing_Page_mockup.png)
