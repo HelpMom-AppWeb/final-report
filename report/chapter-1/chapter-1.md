@@ -1,7 +1,7 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
-
+A continuación, se brindará información sobre a qué se dedica nuestra empresa, WebExpert.
 ### 1.1.1. Descripción de la Startup
   WebExpert es una startup que se dedica principalmente al desarrollo de software. Fue creada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) con la visión de generar un impacto social positivo. El objetivo de WebExpert es ayudar a personas que estén en situación de dependencia, tales como mujeres embarazadas, personas de la tercera edad y personas con movilidad reducida. Asimismo, WebExpert se compromete a ofrecer una aplicación web accesible,intuitiva y centrada solo en lo que necesita el usuario. También, se busca mejorar significativamente la calidad de vida de los usuarios,brindándoles autonomía,seguridad y acceso oportuno a ayuda personalizada.
 
@@ -16,7 +16,7 @@
   <img src="/assets/HelpMom.png" width="100"/>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| ![Profile Picture](/assets/Gabriel.jpg)       | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+|  ![Profile Picture](/assets/Gabriel.jpg)      | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
 |:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Profile Picture](/assets/Stephano.jpg)      | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.                                                                                                                                                                                                                                                          |
 | ![Profile Picture](/assets/Camila.png)        | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
@@ -24,6 +24,31 @@
 | ![Profile Picture](/assets/RominaMaita.jpeg)  | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                           |
 
 ## 1.2. Solution Profile
+En este punto del informe, se presentará información detallada sobre nuestro producto de software, incluyendo su nombre, descripción y el modelo de monetización.
+
+__Product Name__: Se decidió llamar a nuestro producto “HelpMom”, un nombre compuesto por dos palabras en inglés: “Help” (ayuda) y “Mom” (mamá). Esta combinación refleja claramente el propósito principal de la plataforma: brindar apoyo integral a las madres durante el embarazo y los primeros meses de vida del bebé.
+
+__Product Desciption__: HelpMom es una plataforma cuya función principal es permitir que madres gestantes y primerizas reciban atención médica directa de profesionales especializados a través de la aplicación. Las usuarias pueden elegir al doctor u obstetra que mejor se adapte a sus necesidades, consultando perfiles, tarifas y valoraciones. Además, se genera un historial médico virtual que se actualiza con cada consulta, facilitando un seguimiento continuo del estado de salud de la madre y el bebé.
+
+__Monetización__:  
+HelpMom funciona mediante un modelo de suscripción mensual o anual, con una prueba gratuita de 14 días para nuevas usuarias. Se ofrecen dos planes diseñados para adaptarse a diferentes niveles de necesidad y acompañamiento durante el embarazo y el posparto:
+
+- **Plan Básico**:  
+  Dirigido a madres que requieren organización básica sin seguimiento médico avanzado.
+  - Recordatorios inteligentes de citas médicas prenatales y postnatales
+  - Alertas para controles y vacunas
+  - Consejos semanales personalizados según la etapa del embarazo
+  - No ofrece acceso a especialistas ni análisis de datos médicos.
+
+
+- **Plan Cuidado Integral**:  
+  Pensado para una maternidad segura y acompañada por expertos. Incluye todo lo del Plan Básico, más:
+  - Chat 24/7 con doctores y matronas
+  - Subida y análisis del historial médico para un seguimiento avanzado
+  - Informes personalizados sobre tendencias de salud (presión, glucosa, peso, etc.)
+  - Recordatorios de citas y medicamentos con alertas prioritarias
+
+
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -39,6 +64,9 @@
 
 
 ### 1.2.2 Lean UX Process.
+
+El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el desarrollo de nuestro producto, enfocándose en principios fundamentales como la validación continua, el pensamiento crítico y la acción rápida. A partir de esta filosofía, hemos estructurado nuestro propio enfoque Lean UX, basado en cuatro componentes esenciales: definición de problemas, formulación de suposiciones, creación de hipótesis y desarrollo de un lienzo estratégico.
+
 
 #### 1.2.2.1. Lean UX Problem Statements.
 Nuestra página web está diseñada con la finalidad de proporcionar tranquilidad, control e información confiable a madres y padres que desean acompañar de forma segura y activa el desarrollo de sus bebés, desde el embarazo hasta los primeros años de vida. En esta etapa, muchas familias enfrentan ansiedad, dudas constantes y la necesidad de tomar decisiones informadas sobre la salud y el bienestar de sus hijos, pero no siempre cuentan con herramientas accesibles o actualizadas.
