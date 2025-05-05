@@ -209,8 +209,49 @@ Todos estos esfuerzos estarán orientados a validar nuestra hipótesis principal
 
 ## 1.3. Segmentos objetivo.
 
-Nuestros segmentos objetivo son los siguientes grupos de personas:
+Para el desarrollo de este punto hemos recolectado información basada en los reportes estadísticos del INEI y medios oficiales, donde se muestra la edad en la que las mujeres peruanas se embarazan por primera vez. Según estos datos, se observa una mayor concentración de embarazos iniciales entre los 18 y 20 años, seguida por el grupo de 15 a 17 años.
 
-- Gestantes peruanas de entre 25 a 35 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2022, este grupo de mujeres conforma aproximanadamente el 48% de los nacimientos registrados en ese año.
+![estadisticaSegmentoObjetivo.png](../../assets/estadisticaSegmentoObjetivo.png)
 
-- Obstetras peruanas de entre 22 a 40 años de edad: Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2021, este grupo de profesionales atendió aproximadamente el 80% de los nacimientos registrados en mujeres de 15 a 45 años de edad en el año 2020.
+Referencia: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1864/libro.pdf/)
+
+__Segmento objetivo #1: Gestantes peruanas de entre 18 a 29 años de edad__
+
+
+Descipcion: Este segmento objetivo está compuesto por mujeres embarazadas, especialmente primerizas, que buscan apoyo profesional, recordatorios médicos y seguimiento personalizado durante el embarazo y el posparto, a través de una plataforma digital.
+
+Aspectos demograficos: Sexo: Mayormente femenino Edades: Mayormente entre 18 y 29. Nivel socioeconómico: Clases B y C (media-alta y media)
+
+Aspectos geográficos: Nacionalidad: Peruana Zona geográfica en la que vive: Urbana Departamento: Lima y Callao
+
+Necesidades:Desean recibir recordatorios de citas, vacunas y controles; acceder a consejos personalizados según su etapa de embarazo; y contar con atención médica en línea cuando lo necesiten
+
+Aspectos psicográficos: Valoran la organización, el cuidado de su salud y la de su bebé. Buscan seguridad en la información médica que reciben y desean tener acceso rápido y confiable a especialistas. También se preocupan por estar preparadas ante cualquier complicación o duda en el proceso de gestación.
+
+Requisitos: Buscan una plataforma confiable, fácil de usar y que centralice toda su información médica, además de permitir la comunicación directa con profesionales de salud.
+
+Objetivo: Tener un embarazo seguro, con acompañamiento profesional constante, reduciendo la incertidumbre y mejorando su experiencia como futuras madres.
+
+
+__Segmento objetivo #2: Obstetras peruanas de entre 22 a 40 años de edad__
+
+
+Descipcion: Este segmento objetivo está compuesto por profesionales de la salud, especialmente obstetras jóvenes, que buscan plataformas digitales para atender pacientes, dar seguimiento a gestantes y ampliar sus oportunidades laborales en entornos digitales.
+
+
+
+Aspectos demograficos: Sexo: Mayormente femenino Edades: Mayormente entre 22 y 40. Nivel socioeconómico: Clases B y C (media-alta y media)
+
+Aspectos geográficos: Nacionalidad: Peruana Zona geográfica en la que vive: Urbana Departamento: Lima y Callao
+
+Aspectos psicográficos:Están abiertas a adoptar herramientas tecnológicas que mejoren su práctica profesional. Valoran la eficiencia, la organización del historial clínico digital y la posibilidad de atención remota. Buscan plataformas que respeten la ética profesional y la confidencialidad de los datos.
+
+Necesidades:Quieren brindar atención médica de calidad desde cualquier lugar, llevar un registro ordenado de sus pacientes y reducir el tiempo de gestiones manuales.
+
+Requisitos: Buscan una plataforma segura, profesional y fácil de usar que les permita hacer seguimiento, chatear con pacientes, registrar historial médico y emitir alertas o recomendaciones.
+
+Objetivo: Ofrecer un servicio médico moderno, ampliar su alcance como profesionales y mejorar la calidad de atención mediante herramientas digitales.
+
+
+
+Según cifras del INEI (Instituto Nacional de Estadística e Informática) emitidas en el año 2021, este grupo de profesionales atendió aproximadamente el 80% de los nacimientos registrados en mujeres de 15 a 45 años de edad en el año 2020.
