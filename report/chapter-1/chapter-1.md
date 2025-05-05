@@ -209,7 +209,7 @@ Todos estos esfuerzos estarán orientados a validar nuestra hipótesis principal
 
 ## 1.3. Segmentos objetivo.
 
-Para el desarrollo de este punto hemos recolectado información basada en los reportes estadísticos del INEI y medios oficiales, donde se muestra la edad en la que las mujeres peruanas se embarazan por primera vez. Según estos datos, se observa una mayor concentración de embarazos iniciales entre los 18 y 20 años, seguida por el grupo de 15 a 17 años.
+Para el desarrollo de este punto hemos recolectado información basada en los reportes estadísticos del INEI y medios oficiales, donde se muestra la edad en la que las mujeres peruanas se embarazan por primera vez. Según estos datos, se observa una mayor concentración de embarazos iniciales entre los 21 y 23 años, seguida por el grupo de 24 a 26 años.
 
 ![estadisticaSegmentoObjetivo.png](../../assets/estadisticaSegmentoObjetivo.png)
 
