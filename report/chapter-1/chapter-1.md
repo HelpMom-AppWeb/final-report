@@ -213,7 +213,7 @@ Para el desarrollo de este punto hemos recolectado información basada en los re
 
 ![estadisticaSegmentoObjetivo.png](../../assets/estadisticaSegmentoObjetivo.png)
 
-Referencia: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1864/libro.pdf/)
+Referencia: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1864/libro.pdf)
 
 __Segmento objetivo #1: Gestantes peruanas de entre 18 a 29 años de edad__
 
