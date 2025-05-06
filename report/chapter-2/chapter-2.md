@@ -392,6 +392,8 @@ Para el análisis de las entrevistas, se pueden identificar varias característi
 - Prefieren contenido visual (videos, modelos 3D) y recordatorios personalizados.
 - La mayoría quiere una app con respuestas rápidas de médicos (chatbots o telemedicina)
 - Casi todas resaltan la necesidad de información clara y accesible, especialmente sobre salud mental postparto o cuidados del recién nacido.
+- Todas usan smartphones como dispositivo principal (iPhone/Android).
+- La mayoría navega en Chrome o Safari, con algunas excepciones que prefieren Firefox por privacidad.
 
 DOCTORES
 
@@ -401,6 +403,8 @@ Para el análisis de las entrevistas, se pueden identificar varias característi
 - Las entrevistadas consideran clave una plataforma con, historiales médicos accesibles, alertas personalizadas (citas, medicación), contenido educativo verificado (videos, infografías).
 - La mayoría busca mejorar la comunicación médico-paciente con herramientas seguras y adaptadas a distintos niveles educativos.
 - Casi todas enfatizan que la tecnología debe complementar no reemplazar la atención
+- Todas usan PCs en consultorios (Windows).
+- Todas evitan apps independientes sin validación institucional.
 
 ## 2.3. Needfinding.
 
