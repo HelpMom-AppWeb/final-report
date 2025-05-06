@@ -112,7 +112,7 @@ Además, planteamos hacer una segmentación y márketing específico con la fina
 Las alianzas estratégicas también son un rol importante en nuestro plan, ya que establecer convenios con productos que nuestros segmentos utilizan y servicios afines (farmacias, productos de cuidado materno-infantil, seguros de salud), nos ayudarán a llegar a más personas y sobresalir en el mercado.
 
 ## 2.2. Entrevistas.
-
+Las entrevistas estarán dirigidas a madres gestantes peruanas de 18 a 29 años y obstetras peruanas de 22 a 40 años, con el objetivo de comprender sus necesidades específicas en el acceso a información médica confiable, seguimiento prenatal/postnatal y comunicación con especialistas.
 ### 2.2.1. Diseño de entrevistas.
 MADRES
 
@@ -138,6 +138,11 @@ DOCTORES
 6. ¿Ha recomendado apps de salud a sus pacientes? ¿Cuáles y por qué?
 7. ¿Qué funcionalidades debería tener una app ideal para apoyar su trabajo?
 8. ¿Qué características considera importantes en una plataforma dirigida a madres gestantes?
+
+Preguntas de seguimiento, dirigida a ambos segmentos:
+
+- En su rutina diaria, ¿qué dispositivos tecnológicos utiliza con mayor frecuencia (celular, computadora, tablet)? ¿Y qué navegadores o aplicaciones prefiere para temas de salud materna o infantil?
+
 
 ### 2.2.2. Registro de entrevistas.
 MADRES
