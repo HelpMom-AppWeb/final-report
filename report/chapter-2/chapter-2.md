@@ -165,6 +165,21 @@ Distrito: La victoria
 
 Resumen: Patricia Conga (27 años, 1 hija) recurría a redes como TikTok para informarse durante su embarazo, pero notó falta de orientación clara sobre el postparto. Sufrió complicaciones debido a un desgarro mal atendido, lo que prolongó su recuperación. Mencionó que el primer mes con su bebé fue el más difícil, especialmente por el llanto inconsolable y la falta de comprensión en su relación de pareja. Probó una app de embarazo, pero la encontró confusa y con demasiada publicidad. Finalmente, expresó interés en una plataforma digital que permita comunicación en tiempo real con médicos para resolver dudas urgentes.
 
+Información extra:
+
+    Dispositivos:
+    - iPhone (uso constante durante el día).
+    - Smartwatch (para monitorear actividad física).
+    
+    Aplicaciones/Navegadores:
+    - Apps: Aplicación de seguimiento fetal (no recuerda nombre).
+    - Redes: TikTok y YouTube
+    - Navegador: Safari para buscar clínicas y especialistas.
+    
+    Personalidad:
+    - Profesión: comerciante 
+    - Ansiosa por el desarrollo fetal, necesita recordatorios automáticos.
+    - Prefiere datos precisos sobre crecimiento del bebé.
 
 ENTREVISTA 2
 
@@ -185,6 +200,22 @@ Distrito: San Borja
 Resumen: Danae Beteta (33 años, 1 hija) buscó información durante su embarazo principalmente en Google, foros y con su ginecólogo, ya que su embarazo fue de alto riesgo (17 semanas en reposo). Los mayores miedos fueron posibles complicaciones y el desarrollo de su bebé. Recibió buena orientación médica previa al parto, pero en el postparto enfrentó estrés emocional, especialmente porque su hija nació con problemas de salud.
 
 Usó apps como BabyCenter y una de Philips para seguir el desarrollo semanal del bebé, destacando las representaciones en 3D. También empleó su Apple Watch y dispositivos Bluetooth para monitorear presión arterial y ritmo cardíaco. Aunque valora la tecnología, busca herramientas con recordatorios (por su TDAH). Pagaría por una app de telemedicina pediátrica con respuestas rápidas, similar al servicio de videollamadas que ya usa con su seguro.
+
+Información extra:
+
+    Dispositivos:
+    - Celular (iPhone) y iPad para contenido educativo.
+    - PC ocasionalmente (solo para documentos importantes).
+    
+    Aplicaciones/Navegadores:
+    - Apps: Flow (ciclo menstrual), app de Philips para desarrollo fetal.
+    - Redes: TikTok y YouTube
+    - Navegador: Firefox (por privacidad).
+    
+    Personalidad:
+    - Profesión: abogada
+    - Analítica y organizada, combina apps con consultas médicas.
+    - Verifica fuentes antes de seguir recomendaciones.
 
 
 ENTREVISTA 3
@@ -209,6 +240,22 @@ En el preparto, la ansiedad se centró en posibles malformaciones y parto premat
 
 Usó una app que mostraba el tamaño del feto por semanas (comparado con frutas) y recordatorios de citas, pero criticó los pagos extras por consultas médicas. Le habría gustado un chatbot para dudas frecuentes.
 
+Información extra:
+
+    Dispositivos:
+    - Celular (Android) como principal dispositivo.
+    - PC para trabajo remoto.
+    - Celular corporativo
+    
+    Aplicaciones/Navegadores:
+    - Apps: BabyCenter, Mi Embarazo (UNICEF).
+    - Redes: TikTok y YouTube (aunque duda de su confiabilidad).
+    - Navegador: Chrome para búsquedas rápidas.
+    
+    Personalidad:
+    - Profesión: contadora
+    - Práctica y resolutiva, pero desconfía de fuentes no médicas.
+    - Busca información visual (videos, infografías).
 
 DOCTORES
 
@@ -235,6 +282,21 @@ Utiliza tanto historias clínicas físicas como el sistema digital SIS peruano p
 
 La Dra. Ramos considera fundamental que exista una plataforma digital que cumpla con tres características esenciales: lenguaje accesible para pacientes, información detallada sobre medicamentos y protocolos, y capacidad de responder consultas médicas de forma inmediata. Este enfoque refleja su compromiso por hacer la atención ginecológica más accesible y comprensible para todas sus pacientes.
 
+Información extra:
+
+    Dispositivos:
+    - PC con Windows en consultorio (historiales clínicos).
+    - Celular solo para WhatsApp con pacientes.
+    
+    Aplicaciones/Navegadores:
+    - Software: SIS (Sistema Informático de Salud peruano).
+    - Navegador: Edge (compatibilidad con sistemas hospitalarios).
+    
+    Personalidad:
+    - Técnica y escéptica, solo recomienda apps validadas.
+    - Enfocada en seguridad de datos.
+
+
 ENTREVISTA 2
 
 ![Entrevista 2 Doctor](/assets/chapter-2/Screenshot_interview_doctor2.png)
@@ -257,6 +319,21 @@ Actualmente, trabaja con historias clínicas físicas y el sistema SIEN, aunque 
 
 Propone desarrollar plataformas que integren: 1) historiales médicos accesibles, 2) alertas personalizadas y 3) contenido educativo verificado. Además, sugiere crear comunidades virtuales seguras moderadas por profesionales
 
+Información extra:
+
+    Dispositivos:
+    - Laptop HP para telemedicina.
+    - Tablet Samsung para mostrar ecografías.
+    
+    Aplicaciones/Navegadores:
+    - Plataforma: SIEN (sistema del INMP).
+    - Navegador: Edge (compatibilidad con sistemas hospitalarios).
+    
+    Personalidad:
+    - Eficiente y metódica, prioriza ahorrar tiempo en consultas.
+    - Prefiere herramientas interoperables con sistemas públicos.
+
+
 ENTREVISTA 3
 
 ![Entrevista 3 Doctor](/assets/chapter-2/Screenshot_interview_doctor3.png)
@@ -278,6 +355,29 @@ Resumen:
 Judith Ayala es una obstetra con 30 años de experiencia que trabaja en la Clínica Internacional. Ella comparte información sobre los datos clínicos más relevantes para el monitoreo de madres gestantes, incluyendo antecedentes de embarazos, vitalidad y posición del bebé, exámenes médicos y funciones vitales. 
 También menciona la importancia de detectar indicadores de depresión posparto, que son comunes en madres primerizas. Explica que en la clínica utilizan un test para evaluar estos casos y prevenir situaciones graves como el riesgo de suicidio.
 Sobre el registro y el intercambio de información con los pacientes, destaca el uso de historias clínicas electrónicas a través de una plataforma llamada GIS, que permite compartir evaluaciones y resultados entre especialistas. Finalmente, comenta que una aplicación útil para su trabajo debería permitir la integración de múltiples especialidades para mejorar el diagnóstico y tratamiento de los pacientes.
+
+Información extra:
+
+    Dispositivos:
+    - PC de escritorio (Windows) en la clínica (uso principal).
+    - Tablet android.
+    - Celular corporativo (solo para emergencias).
+    
+    Aplicaciones/Navegadores:
+    ➡ Plataforma profesional: GIS.
+    ➡ Navegador: Google Chrome.
+    ➡ Otras herramientas:
+        Test digitalizado de depresión posparto (integrado en GIS).
+        No usa apps móviles de salud (prefiere sistemas institucionales).
+    
+    Personalidad:
+    - Experta y meticulosa: Con 30 años de experiencia, prioriza protocolos clínicos establecidos.
+    - Enfoque preventivo: Insiste en la detección temprana de riesgos (ej: depresión posparto).
+    - Tradicional con apertura tecnológica:
+        Usa tecnología solo si está validada institucionalmente (ej: GIS).
+        Escéptica ante apps independientes sin respaldo médico.
+    - Colaborativa: Valora plataformas que integren múltiples especialidades (ginecólogos, psicólogos, neonatólogos).
+
 
 ### 2.2.3. Análisis de entrevistas.
 
