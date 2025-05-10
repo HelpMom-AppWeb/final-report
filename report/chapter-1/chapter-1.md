@@ -9,21 +9,21 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 - Visión: En un futuro cercano, WebExpert se destacará como una empresa líder en desarrollo de soluciones tecnológicas que ayuden a las personas que más lo necesitan.Asimismo, se le reconocerá por su compromiso con la accesibilidad,innovación social y la mejora continua de la calidad de vida de las personas en situación de dependencia.
 - Logo de la Startup:
 
-  ![Startup Logo](/assets/LogoStartup.png)
+  ![Startup Logo](../../assets/LogoStartup.png)
 
  - Logo de la aplicacion web
 
-  ![Product Logo](/assets/HelpMom.png)
+  ![Product Logo](../../assets/HelpMom.png)
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Nombre | Descripción |
 |:-----|:-----|
-|  ![Profile Picture](/assets/Gabriel.jpg) Gabriel Rivera | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
-| ![Profile Picture](/assets/Stephano.jpg) Stephano Espinoza | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.  |
-| ![Profile Picture](/assets/Camila.png) Camila Reyes | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
-| ![Profile Picture](/assets/GabrielMamani.jpg) Gabriel Mamani | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol. |
-| ![Profile Picture](/assets/RominaMaita.jpeg) Romina Maita | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.  |
+|  ![Profile Picture](../../assets/Gabriel.jpg) Gabriel Rivera | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![Profile Picture](../../assets/Stephano.jpg) Stephano Espinoza | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.  |
+| ![Profile Picture](../../assets/Camila.png) Camila Reyes | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
+| ![Profile Picture](../../assets/GabrielMamani.jpg) Gabriel Mamani | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol. |
+| ![Profile Picture](../../assets/RominaMaita.jpeg) Romina Maita | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.  |
 
 ## 1.2. Solution Profile
 En este punto del informe, se presentará información detallada sobre nuestro producto de software, incluyendo su nombre, descripción y el modelo de monetización.
@@ -109,6 +109,7 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 - Creemos que al garantizar la privacidad y seguridad de la información médica de las usuarias, generaremos confianza en nuestra plataforma, lo que fomentará una mayor adopción entre las gestantes y madres recientes. Sabremos que estamos en lo correcto cuando observemos un aumento en la satisfacción de los usuarios con respecto a la seguridad de sus datos y una disminución de las preocupaciones relacionadas con la privacidad.
 
 - Creemos que al ofrecer una interfaz intuitiva y fácil de usar, aumentaremos la aceptación y la retención de las usuarias, facilitando la adaptación de las madres recientes y gestantes a la plataforma. Sabremos que estamos en lo correcto cuando observemos una disminución en las tasas de abandono del producto y un aumento en la tasa de retención y participación activa de las usuarias.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 <table>

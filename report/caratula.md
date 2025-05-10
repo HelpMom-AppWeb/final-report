@@ -63,15 +63,15 @@ Para cada seccion del informe se asigno un responsable, el cual se encargo de re
 
 Analíticos de colaboración:
 
-![](/assets/Insights_1_1.png)
+![](../assets/Insights_1_1.png)
 
-![](/assets/Insights_1_2.png)
+![](../assets/Insights_1_2.png)
 
 Algunos commits realizados por los integrantes del equipo:
 
-![](/assets/Insights_1_3.png)
+![](../assets/Insights_1_3.png)
 
-![](/assets/Insights_1_4.png)
+![](../assets/Insights_1_4.png)
 
 Entrega TP:
 
@@ -79,15 +79,15 @@ Para la realización de la Single Page Application, despues de organizarnos a tr
 
 Analíticos de colaboración:
 
-![](/assets/Insights_2_1.png)
+![](../assets/Insights_2_1.png)
 
-![](/assets/Insights_2_2.png)
+![](../assets/Insights_2_2.png)
 
 Algunos commits realizados por los integrantes del equipo:
 
-![](/assets/Insights_2_3.png)
+![](../assets/Insights_2_3.png)
 
-![](/assets/Insights_2_4.png)
+![](../assets/Insights_2_4.png)
 
 # Contenido
 
