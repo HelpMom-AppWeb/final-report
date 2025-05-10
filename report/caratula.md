@@ -55,6 +55,40 @@ Ciclo 2025-01
 
 # Project Report Collaboration Insights
 
+Repositorio de este informe en GitHub: https://github.com/HelpMom-AppWeb/final-report
+
+Entrega TB1:
+
+Para cada seccion del informe se asigno un responsable, el cual se encargo de realizar la investigacion y redaccion de la seccion. Se realizo una reunion para discutir los avances y se asignaron tareas a cada miembro del equipo. Se utilizo el canal de discord para comunicarnos y resolver dudas.
+
+Analíticos de colaboración:
+
+![](/assets/Insights_1_1.png)
+
+![](/assets/Insights_1_2.png)
+
+Algunos commits realizados por los integrantes del equipo:
+
+![](/assets/Insights_1_3.png)
+
+![](/assets/Insights_1_4.png)
+
+Entrega TP:
+
+Para la realización de la Single Page Application, despues de organizarnos a través de reuniones y el uso de WhatsApp, se asignaron la elaboracion de cada Bounded Context a cada integrante.
+
+Analíticos de colaboración:
+
+![](/assets/Insights_2_1.png)
+
+![](/assets/Insights_2_2.png)
+
+Algunos commits realizados por los integrantes del equipo:
+
+![](/assets/Insights_2_3.png)
+
+![](/assets/Insights_2_4.png)
+
 # Contenido
 
 ## Tabla de Contenidos
