@@ -9,19 +9,21 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 - Visión: En un futuro cercano, WebExpert se destacará como una empresa líder en desarrollo de soluciones tecnológicas que ayuden a las personas que más lo necesitan.Asimismo, se le reconocerá por su compromiso con la accesibilidad,innovación social y la mejora continua de la calidad de vida de las personas en situación de dependencia.
 - Logo de la Startup:
 
-  <img src="/assets/LogoStartup.png" width="100"/>
+  ![Startup Logo](/assets/LogoStartup.png)
 
  - Logo de la aplicacion web
 
-  <img src="/assets/HelpMom.png" width="100"/>
+  ![Product Logo](/assets/HelpMom.png)
 
 ### 1.1.2. Perfiles de integrantes del equipo
-|  ![Profile Picture](/assets/Gabriel.jpg)      | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
-|:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Profile Picture](/assets/Stephano.jpg)      | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.                                                                                                                                                                                                                                                          |
-| ![Profile Picture](/assets/Camila.png)        | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
-| ![Profile Picture](/assets/GabrielMamani.jpg) | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol.                                                                                                                                                                                                                                       |
-| ![Profile Picture](/assets/RominaMaita.jpeg)  | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                           |
+
+| Nombre | Descripción |
+|:-----|:-----|
+|  ![Profile Picture](/assets/Gabriel.jpg) Gabriel Rivera | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![Profile Picture](/assets/Stephano.jpg) Stephano Espinoza | Soy estudiante de la carrera Ingenieria de Software. Me interesa mucho el aprendizaje relacionado al desarrollo de paginas web. He desarrollado proyectos con lenguajes como, HTML, CSS, C++. Ahora quiero ampliar mis conocimeientos sobre todo en Front-End. Me considero una persona trabajadora y comunicativa.  |
+| ![Profile Picture](/assets/Camila.png) Camila Reyes | Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.
+| ![Profile Picture](/assets/GabrielMamani.jpg) Gabriel Mamani | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendí lenguajes como c++,python y java.Tambien,aprendi sobre motores de base de datos como MySQL  y MongoDB.En mis tiempos libres estudio otras tecnologías,juego y veo futbol. |
+| ![Profile Picture](/assets/RominaMaita.jpeg) Romina Maita | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.  |
 
 ## 1.2. Solution Profile
 En este punto del informe, se presentará información detallada sobre nuestro producto de software, incluyendo su nombre, descripción y el modelo de monetización.
@@ -52,21 +54,19 @@ HelpMom funciona mediante un modelo de suscripción mensual o anual, con una pru
 
 ### 1.2.1 Antecedentes y problemática
 
-| Elemento        | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Who (Quién)** | Padres, madres gestantes y obstetras que necesitan monitorear el crecimiento y salud del bebé (antes y después del nacimiento).                                                                                                                                                                                                                                                                                                                     |
-| **What (Qué)**  | Plataforma digital que permite el seguimiento del crecimiento del bebé (prenatal y posnatal), visualización de signos vitales, historial médico, y administración de medicamentos o suplementos por parte del doctor.                                                                                                                                                                                                                               |
-| **Where (Dónde)** | En clínicas, hospitales, consultorios médicos y desde el hogar (acceso remoto mediante app o plataforma web).                                                                                                                                                                                                                                                                                                                                       |
-| **When (Cuándo)** | Durante el embarazo (fase prenatal) y después del nacimiento (fase posnatal), especialmente en los primeros meses o años de vida del bebé.                                                                                                                                                                                                                                                                                                          |
+| Elemento        | Descripción  |
+|-----------------|--------------|
+| **Who (Quién)** | Padres, madres gestantes y obstetras que necesitan monitorear el crecimiento y salud del bebé (antes y después del nacimiento). |
+| **What (Qué)**  | Plataforma digital que permite el seguimiento del crecimiento del bebé (prenatal y posnatal), visualización de signos vitales, historial médico, y administración de medicamentos o suplementos por parte del doctor.  |
+| **Where (Dónde)** | En clínicas, hospitales, consultorios médicos y desde el hogar (acceso remoto mediante app o plataforma web).   |
+| **When (Cuándo)** | Durante el embarazo (fase prenatal) y después del nacimiento (fase posnatal), especialmente en los primeros meses o años de vida del bebé. |
 | **Why (Por qué)** | Actualmente, el seguimiento del desarrollo del bebé puede estar disperso en diferentes sistemas o registros físicos. Hay falta de centralización y acceso en tiempo real a la información médica, lo que dificulta una atención más precisa, continua y personalizada. Además, las madres primerizas no tienen experiencia en cuidado pre y post natal, de manera que esta plataforma les facilitaría estar pendientes de los cuidados respectivos. |
-| **How (Cómo)** | Mediante el desarrollo de una plataforma tecnológica que conecte a los doctores con los pacientes, permitiendo registrar y consultar datos médicos, administrar tratamientos y hacer seguimiento del desarrollo del bebé en tiempo real.                                                                                                                                                                                                            |
-| **How Much (Cuánto)** | La plataforma es accesible a través de una suscripción mensual dependiendo de la cantidad de características disponibles para cada plan.                                                                                                                                                                                                                                                                                                            |
-
+| **How (Cómo)** | Mediante el desarrollo de una plataforma tecnológica que conecte a los doctores con los pacientes, permitiendo registrar y consultar datos médicos, administrar tratamientos y hacer seguimiento del desarrollo del bebé en tiempo real.    |
+| **How Much (Cuánto)** | La plataforma es accesible a través de una suscripción mensual dependiendo de la cantidad de características disponibles para cada plan.  |
 
 ### 1.2.2 Lean UX Process.
 
 El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el desarrollo de nuestro producto, enfocándose en principios fundamentales como la validación continua, el pensamiento crítico y la acción rápida. A partir de esta filosofía, hemos estructurado nuestro propio enfoque Lean UX, basado en cuatro componentes esenciales: definición de problemas, formulación de suposiciones, creación de hipótesis y desarrollo de un lienzo estratégico.
-
 
 #### 1.2.2.1. Lean UX Problem Statements.
 Nuestra página web está diseñada con la finalidad de proporcionar tranquilidad, control e información confiable a madres y padres que desean acompañar de forma segura y activa el desarrollo de sus bebés, desde el embarazo hasta los primeros años de vida. En esta etapa, muchas familias enfrentan ansiedad, dudas constantes y la necesidad de tomar decisiones informadas sobre la salud y el bienestar de sus hijos, pero no siempre cuentan con herramientas accesibles o actualizadas.
@@ -97,6 +97,7 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 - **Contexto**: La complejidad de algunas herramientas digitales representa un obstáculo para usuarias con distintos niveles de familiaridad tecnológica, sobre todo en embarazadas y madres sin experiencia previa.
 
   **Assumptions**: Un diseño sencillo y accesible facilitará la adopción de la plataforma, mejorando la retención y el compromiso de las usuarias.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 - Creemos que al ofrecer una plataforma integral que unifique el monitoreo médico, información validada y telemedicina, mejoraremos la experiencia de las gestantes y madres recientes al reducir su ansiedad y proporcionarles acceso a información confiable y apoyo profesional. Sabremos que estamos en lo correcto cuando observemos un aumento en la adopción de la plataforma por parte de gestantes y madres recientes, así como una disminución en la ansiedad reportada por los usuarios debido a la confianza en la información y en el acceso a profesionales de la salud.
