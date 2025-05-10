@@ -112,8 +112,11 @@ Además, planteamos hacer una segmentación y márketing específico con la fina
 Las alianzas estratégicas también son un rol importante en nuestro plan, ya que establecer convenios con productos que nuestros segmentos utilizan y servicios afines (farmacias, productos de cuidado materno-infantil, seguros de salud), nos ayudarán a llegar a más personas y sobresalir en el mercado.
 
 ## 2.2. Entrevistas.
+
 Las entrevistas estarán dirigidas a madres gestantes peruanas de 18 a 29 años y obstetras peruanas de 22 a 40 años, con el objetivo de comprender sus necesidades específicas en el acceso a información médica confiable, seguimiento prenatal/postnatal y comunicación con especialistas.
+
 ### 2.2.1. Diseño de entrevistas.
+
 MADRES
 
 1. ¿Podría presentarse brevemente? (Nombre, edad, número de hijos y etapa actual: embarazo/postparto).
@@ -149,7 +152,7 @@ MADRES
 
 ENTREVISTA 1
 
-![Entrevista 1 Mama](/assets/chapter-2/Screenshot_interview_mom1.png)
+![Entrevista 1 Mama](../../assets/chapter-2/Screenshot_interview_mom1.png)
 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EYzm0mUjJOxHmeFu4TfuofcB776n-HwU7ruzet16mcjjVw?e=NUPIDV
 
@@ -183,7 +186,7 @@ Información extra:
 
 ENTREVISTA 2
 
-![Entrevista 2 Mama](/assets/chapter-2/Screenshot_interview_mom2.png)
+![Entrevista 2 Mama](../../assets/chapter-2/Screenshot_interview_mom2.png)
 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/ESFZ51bLrFtHpZaQdkgesO4BANa_6XKyj6q1Jj4H6ouqbw?e=FRhiyW
 
@@ -220,7 +223,7 @@ Información extra:
 
 ENTREVISTA 3
 
-![Entrevista 3 Mama](/assets/chapter-2/Screenshot_interview_mom3.png)
+![Entrevista 3 Mama](../../assets/chapter-2/Screenshot_interview_mom3.png)
 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Eb-14fJhuHxHjWUu5Id8CysBZGIn-P7lee1HiSU0_dJdbQ?e=UBZQzb
 
@@ -261,7 +264,7 @@ DOCTORES
 
 ENTREVISTA 1
 
-![Entrevista 1 Doctor](/assets/chapter-2/Screenshot_interview_doctor1.png)
+![Entrevista 1 Doctor](../../assets/chapter-2/Screenshot_interview_doctor1.png)
 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EYzm0mUjJOxHmeFu4TfuofcB776n-HwU7ruzet16mcjjVw?e=NUPIDV
 
@@ -299,7 +302,7 @@ Información extra:
 
 ENTREVISTA 2
 
-![Entrevista 2 Doctor](/assets/chapter-2/Screenshot_interview_doctor2.png)
+![Entrevista 2 Doctor](../../assets/chapter-2/Screenshot_interview_doctor2.png)
 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Eb-eu42zEaRAuCE8WLnUCAEBcwsBGk4L1P05I1rQNhRvVA?e=6G4BAm
 
@@ -336,7 +339,7 @@ Información extra:
 
 ENTREVISTA 3
 
-![Entrevista 3 Doctor](/assets/chapter-2/Screenshot_interview_doctor3.png)
+![Entrevista 3 Doctor](../../assets/chapter-2/Screenshot_interview_doctor3.png)
 
 link: https://shorturl.at/4fBWU
 
@@ -415,53 +418,58 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 
 ### 2.3.1. User Personas.
 
-<img src="/assets/chapter-2/userpersona1.png">
+![User Persona 1](../../assets/chapter-2/userpersona1.png)	
 
-<img src="/assets/chapter-2/userpersona2.png">
+![User Persona 2](../../assets/chapter-2/userpersona2.png)
 
 ### 2.3.2. User Task Matrix.
-| Actividad                                       | **Daniela Gomez**          | **Daniela Gomez**        | **Sabrina Paredes**        | Sabrina Paredes          |
-|-------------------------------------------------|----------------------------|--------------------------|----------------------------|--------------------------|
-|                                                 | **Frecuencia**             | **Importancia**          | **Frecuencia**             | **Importancia**          |
-| -------------------------------------           | -------------------------- | ------------------------ | -------------------------- | ------------------------ |
-| Monitorear signos vitales                       | **Rara vez**               | Alta                     | Siempre                    | Alta                     |
-| Asistencia al medico                            | Siempre                    | Media                    | Rara vez                   | Media                    |
-| Detectar riesgos y complicaciones               | Nunca                      | Alta                     | Siempre                    | Alta                     |
-| Brindar soporte emocional                       | Raras vez                  | Media                    | Rara vez                   | Media                    |
-| Realizar clases de preparcion de parto          | Siempre                    | Baja                     | Rara vez                   | Media                    |
-| Asesorar sobre el plan de parto                 | Rara vez                   | Media                    | Siempre                    | Alta                     |
-| Realizar examenes medicos                       | Nunca                      | Alta                     | Siempre                    | Alta                     |
-| Buscar informacion para el proceso de gestacion | Siempre                    | Media                    | Rara vez                   | Media                    |
+
+| Actividad | **Daniela Gomez**   | **Daniela Gomez**  | **Sabrina Paredes**  | Sabrina Paredes  |
+|---|-------|------------|------------|---------|
+|   | **Frecuencia**   | **Importancia**    | **Frecuencia**    | **Importancia**          |
+|---| -------- | ---------- | -------- | --------- |
+| Monitorear signos vitales | **Rara vez**  | Alta   | Siempre    | Alta      |
+| Asistencia al medico   | Siempre  | Media   | Rara vez    | Media    |
+| Detectar riesgos y complicaciones  | Nunca   | Alta    | Siempre    | Alta  |
+| Brindar soporte emocional   | Raras vez   | Media     | Rara vez    | Media    |
+| Realizar clases de preparcion de parto  | Siempre   | Baja    | Rara vez    | Media   |
+| Asesorar sobre el plan de parto  | Rara vez  | Media    | Siempre   | Alta   |
+| Realizar examenes medicos   | Nunca   | Alta    | Siempre  | Alta   |
+| Buscar informacion para el proceso de gestacion | Siempre  | Media  | Rara vez   | Media   |
+
 ### 2.3.3. User Journey Mapping.
 
 El User Journey Mapping nos permitirá conocer los objetivos de nuestros usuarios. Respecto al segmento de las madres, abarcaremos el camino desde que descubren la aplicación hasta que registren los datos de sus bebés para su monitoreo por parte de su doctora. Respecto al segmento de los doctores, abarcaremos el camino desde que registran a sus pacientes hasta que monitorean los datos de sus pacientes.
 
 Segmento 1: Madres
 
-<img src="/assets/chapter-2/madre-journey-map.png">
+![Journey Map Madres](../../assets/chapter-2/madre-journey-map.png)
 
 Segmento 2: Doctoras
 
-<img src="/assets/chapter-2/doctor-journey-map.png">
+![Journey Map Doctoras](../../assets/chapter-2/doctor-journey-map.png)
 
 ### 2.3.4. Empathy Mapping.
 
 El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona y a desarrollar una descripción desde su propia perspectiva, comprendiendo mejor sus pensamientos, emociones, necesidades y comportamientos
                          
 Segmento 1: Mujeres en gestacion
-<img src="/assets/chapter-2/EmpathyMapMadre.png">
+
+![Empathy Map Madres](../../assets/chapter-2/EmpathyMapMadre.png)
 
 Segmento 2: Médicos especialistas que atienden a mujeres durante el embarazo y en el posparto.
-<img src="/assets/chapter-2/EmpathyMapDoctora.png">
 
+![Empathy Map Doctores](../../assets/chapter-2/EmpathyMapDoctora.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-## Segmento Madres
-![As-Is Tobe scenario mapping Madres.jpg](../../assets/chapter-2/As-Is%20Tobe%20scenario%20mapping%20Madres.jpg)
+Segmento Madres
 
-## Segmento Doctores
-![As-Is scenario mapping Doctores.jpg](../../assets/chapter-2/As-Is%20scenario%20mapping%20Doctores.jpg)
+![As-Is Tobe scenario mapping Madres.jpg](../../assets/chapter-2/As-IsTobescenariomappingMadres.jpg)
+
+Segmento Doctores
+
+![As-Is scenario mapping Doctores.jpg](../../assets/chapter-2/As-IsscenariomappingDoctores.jpg)
 
 
 ## 2.4. Ubiquitous Language.
