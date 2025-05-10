@@ -154,7 +154,7 @@ ENTREVISTA 1
 
 ![Entrevista 1 Mama](../../assets/chapter-2/Screenshot_interview_mom1.png)
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EYzm0mUjJOxHmeFu4TfuofcB776n-HwU7ruzet16mcjjVw?e=NUPIDV
+link: https://shorturl.at/FNPrB
 
 inicia: 0:00
 
@@ -188,7 +188,7 @@ ENTREVISTA 2
 
 ![Entrevista 2 Mama](../../assets/chapter-2/Screenshot_interview_mom2.png)
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/ESFZ51bLrFtHpZaQdkgesO4BANa_6XKyj6q1Jj4H6ouqbw?e=FRhiyW
+link: https://shorturl.at/jIaxB
 
 inicia: 0:00
 
@@ -225,7 +225,7 @@ ENTREVISTA 3
 
 ![Entrevista 3 Mama](../../assets/chapter-2/Screenshot_interview_mom3.png)
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Eb-14fJhuHxHjWUu5Id8CysBZGIn-P7lee1HiSU0_dJdbQ?e=UBZQzb
+link: https://shorturl.at/gaGSh
 
 inicia: 0:00
 
@@ -266,7 +266,7 @@ ENTREVISTA 1
 
 ![Entrevista 1 Doctor](../../assets/chapter-2/Screenshot_interview_doctor1.png)
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EYzm0mUjJOxHmeFu4TfuofcB776n-HwU7ruzet16mcjjVw?e=NUPIDV
+link: https://shorturl.at/LH2Xu
 
 inicia: 0:00
 
@@ -304,7 +304,7 @@ ENTREVISTA 2
 
 ![Entrevista 2 Doctor](../../assets/chapter-2/Screenshot_interview_doctor2.png)
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Eb-eu42zEaRAuCE8WLnUCAEBcwsBGk4L1P05I1rQNhRvVA?e=6G4BAm
+link: https://shorturl.at/wQ832
 
 inicia: 0:00
 
