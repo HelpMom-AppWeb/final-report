@@ -98,12 +98,15 @@ En el módulo de "Chat Médico", las mujeres embarazadas pueden comunicarse en t
 En el "Perfil", las usuarias pueden actualizar su información personal, incluyendo edad gestacional, datos de contacto, historial médico y preferencias de notificaciones.
 
 En "Ajustes", pueden gestionar su cuenta, cambiar la contraseña, revisar los permisos de acceso a sus datos y configurar las alertas automáticas enviadas por la plataforma.
-![doc (2).png](../../assets/chapter-4/doc%20%282%29.png)
+
+![mujerGestaciondiagram](../../assets/chapter-4/mujerGestaciondiagram.png)
+
 **Segmento objetivo 2: Medicos especialistas en atender el proceso de parto**
 
 Al acceder a la plataforma del proyecto HelpMom para profesionales de la salud infantil y maternal, los usuarios (pediatras, médicos generales, enfermeras especializadas y otros profesionales de la salud) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Alertas", "Perfil" y "Ajustes".
 
-![mujerGestaciondiagram.png](../../assets/chapter-4/mujerGestaciondiagram.png)
+![doctordiagram](../../assets/chapter-4/doctordiagram.png)
+
 ### 4.2.2. Labeling Systems.
 
 Al acceder a la plataforma HelpMom, los profesionales de la salud (pediatras, ginecólogos, obstetras y médicos generales) pueden iniciar sesión, registrarse si aún no tienen una cuenta, o recuperar su contraseña. Una vez dentro, se les presenta un panel de control adaptado a su rol, con un menú de navegación que incluye "Pacientes", "Agenda", "Alertas", "Perfil" y "Ajustes".
@@ -119,6 +122,7 @@ En "Alertas", se centralizan las notificaciones generadas por el sistema en func
 En el módulo "Perfil", los médicos pueden modificar su información profesional, como especialidad, horarios de atención, datos de contacto y credenciales verificadas.
 
 En "Ajustes", es posible gestionar la seguridad de la cuenta, cambiar la contraseña, activar o desactivar notificaciones, y establecer preferencias en la visualización de datos clínicos.
+
 **Navbar (Menú Principal):**
 
 * "Inicio": Redirige a la página principal de la web.
@@ -197,11 +201,11 @@ Dentro del perfil de doctoras:
 
 ### 4.3.1. Landing Page Wireframe.
 
-![Landing page wireframe HomePage](/assets/chapter-4/Landing_Page_wireframe.png)
+![Landing page wireframe HomePage](../../assets/chapter-4/Landing_Page_wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 El mockup de la landing page sigue un diseño adaptado tanto para Desktop como Mobile, utilizando una paleta de colores rosados suaves como base, reforzando la temática de maternidad y cuidado. Se incorporan toques de verde como color de contraste, aportando frescura y equilibrio visual.
-![Landing page mock up HomePage](/assets/chapter-4/Landing_Page_mockup.png)
+![Landing page mock up HomePage](../../assets/chapter-4/Landing_Page_mockup.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -211,110 +215,110 @@ Para los diseños de la aplicación hemos creado una pantalla para cada segmento
 
 Segmento madres:
 
-![w1](/assets/chapter-4/w1.jpeg)
-![w2](/assets/chapter-4/w2.jpeg)
-![w3](/assets/chapter-4/w3.jpeg)
-![w4](/assets/chapter-4/w4.jpeg)
-![w5](/assets/chapter-4/w5.jpeg)
-![w6](/assets/chapter-4/w6.jpeg)
-![w7](/assets/chapter-4/w7.jpeg)
-![w8](/assets/chapter-4/w8.jpeg)
-![w9](/assets/chapter-4/w9.jpeg)
-![w10](/assets/chapter-4/w10.jpeg)
+![w1](../../assets/chapter-4/w1.jpeg)
+![w2](../../assets/chapter-4/w2.jpeg)
+![w3](../../assets/chapter-4/w3.jpeg)
+![w4](../../assets/chapter-4/w4.jpeg)
+![w5](../../assets/chapter-4/w5.jpeg)
+![w6](../../assets/chapter-4/w6.jpeg)
+![w7](../../assets/chapter-4/w7.jpeg)
+![w8](../../assets/chapter-4/w8.jpeg)
+![w9](../../assets/chapter-4/w9.jpeg)
+![w10](../../assets/chapter-4/w10.jpeg)
 
 Segmento Obstetras:
 
-![w2_1](/assets/chapter-4/w2_1.jpeg)
-![w2_2](/assets/chapter-4/w2_2.jpeg)
-![w2_3](/assets/chapter-4/w2_3.jpeg)
-![w2_4](/assets/chapter-4/w2_4.jpeg)
-![w2_5](/assets/chapter-4/w2_5.jpeg)
-![w2_6](/assets/chapter-4/w2_6.jpeg)
+![w2_1](../../assets/chapter-4/w2_1.jpeg)
+![w2_2](../../assets/chapter-4/w2_2.jpeg)
+![w2_3](../../assets/chapter-4/w2_3.jpeg)
+![w2_4](../../assets/chapter-4/w2_4.jpeg)
+![w2_5](../../assets/chapter-4/w2_5.jpeg)
+![w2_6](../../assets/chapter-4/w2_6.jpeg)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes wireflows para cada uno de ellos.
 
 User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su estado de salud.
-![wflow1](/assets/chapter-4/wflow1.png)
+![wflow1](../../assets/chapter-4/wflow1.png)
 
 User goal: Como madre quiero ver el chat de mi doctora para comunicarme con ella.
-![wflow2](/assets/chapter-4/wflow2.png)
+![wflow2](../../assets/chapter-4/wflow2.png)
 
 User goal: Como madre quiero ver el calendario de citas para asistir a las citas programadas.
-![wflow3](/assets/chapter-4/wflow3.png)
+![wflow3](../../assets/chapter-4/wflow3.png)
 
 User goal: Como madre quiero ver la lista de medicamentos para comprar las recetas programadas.
-![wflow4](/assets/chapter-4/wflow4.png)
+![wflow4](../../assets/chapter-4/wflow4.png)
 
 User goal: Como doctora quiero anadir el perfil de una paciente para comunicarme con ella.
-![wflow21](/assets/chapter-4/wflow2_1.png)
+![wflow21](../../assets/chapter-4/wflow2_1.png)
 
 User goal: Como madre quiero ver el chat de mi paciente para comunicarme con ella.
-![wflow22](/assets/chapter-4/wflow2_2.png)
+![wflow22](../../assets/chapter-4/wflow2_2.png)
 
 User goal: Como madre quiero ver los signos vitales del bebe de una paciente para monitorear su estado de salud.
-![wflow23](/assets/chapter-4/wflow2_3.png)
+![wflow23](../../assets/chapter-4/wflow2_3.png)
 
 User goal: Como madre quiero anadir una cita al calendario para asistir a la cita programada.
-![wflow24](/assets/chapter-4/wflow2_4.png)
+![wflow24](../../assets/chapter-4/wflow2_4.png)
 
 User goal: Como doctora quiero anadir una receta a la lista de medicamentos para informar a mi paciente.
-![wflow25](/assets/chapter-4/wflow2_5.png)
+![wflow25](../../assets/chapter-4/wflow2_5.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
 Segmento madres:
 
-![m1](/assets/chapter-4/m1.png)
-![m2](/assets/chapter-4/m2.png)
-![m3](/assets/chapter-4/m3.png)
-![m4](/assets/chapter-4/m4.png)
-![m5](/assets/chapter-4/m5.png)
-![m6](/assets/chapter-4/m6.png)
+![m1](../../assets/chapter-4/m1.png)
+![m2](../../assets/chapter-4/m2.png)
+![m3](../../assets/chapter-4/m3.png)
+![m4](../../assets/chapter-4/m4.png)
+![m5](../../assets/chapter-4/m5.png)
+![m6](../../assets/chapter-4/m6.png)
 
 Segmento Obstetras:
 
-![m2_1](/assets/chapter-4/m2_1.png)
-![m2_2](/assets/chapter-4/m2_2.png)
-![m2_3](/assets/chapter-4/m2_3.png)
-![m2_4](/assets/chapter-4/m2_4.png)
+![m2_1](../../assets/chapter-4/m2_1.png)
+![m2_2](../../assets/chapter-4/m2_2.png)
+![m2_3](../../assets/chapter-4/m2_3.png)
+![m2_4](../../assets/chapter-4/m2_4.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes User Flows para cada uno de ellos.
 
 User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su estado de salud.
-![uflow1](/assets/chapter-4/uflow1.png)
+![uflow1](../../assets/chapter-4/uflow1.png)
 
 User goal: Como madre quiero ver el chat de mi doctora para comunicarme con ella.
-![uflow2](/assets/chapter-4/uflow2.png)
+![uflow2](../../assets/chapter-4/uflow2.png)
 
 User goal: Como madre quiero ver el calendario de citas para asistir a las citas programadas.
-![uflow3](/assets/chapter-4/uflow3.png)
+![uflow3](../../assets/chapter-4/uflow3.png)
 
 User goal: Como madre quiero ver la lista de medicamentos para comprar las recetas programadas.
-![uflow4](/assets/chapter-4/uflow4.png)
+![uflow4](../../assets/chapter-4/uflow4.png)
 
 User goal: Como doctora quiero anadir el perfil de una paciente para comunicarme con ella.
-![uflow21](/assets/chapter-4/uflow2_1.png)
+![uflow21](../../assets/chapter-4/uflow2_1.png)
 
 User goal: Como madre quiero ver el chat de mi paciente para comunicarme con ella.
-![uflow22](/assets/chapter-4/uflow2_2.png)
+![uflow22](../../assets/chapter-4/uflow2_2.png)
 
 User goal: Como madre quiero ver los signos vitales del bebe de una paciente para monitorear su estado de salud.
-![uflow23](/assets/chapter-4/uflow2_3.png)
+![uflow23](../../assets/chapter-4/uflow2_3.png)
 
 User goal: Como madre quiero anadir una cita al calendario para asistir a la cita programada.
-![uflow24](/assets/chapter-4/uflow2_4.png)
+![uflow24](../../assets/chapter-4/uflow2_4.png)
 
 User goal: Como doctora quiero anadir una receta a la lista de medicamentos para informar a mi paciente.
-![uflow25](/assets/chapter-4/uflow2_5.png)
+![uflow25](../../assets/chapter-4/uflow2_5.png)
 
 ## 4.5. Web Applications Prototyping.
 
 A continuacion se demuestra una simulacion de la aplicacion web, donde se puede observar el flujo de la aplicacion y como se comporta cada una de las pantallas.
-![Prototipo](/assets/chapter-4/prototype.png)
+![Prototipo](../../assets/chapter-4/prototype.png)
 
 Enlace donde se puede probar la interacción: https://www.figma.com/proto/CgL9dyaLJIA5rMKlIDgF4v/UX-UI-DESIGN-WEB?node-id=0-1&t=i5Oy6CKeg4crXJq0-1
 
@@ -353,7 +357,8 @@ Diagrama de cmponente de User Managment
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-![Class Diagrams](/assets/chapter-4/Diagrama_clase.png)
+![Class Diagrams](../../assets/chapter-4/Diagrama_clase.png)
+
 Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=355%2C-1059%2C5568%2C2702%2COMP.TpOaBXWe&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
 
 ### 4.7.2. Class Dictionary.
@@ -373,6 +378,6 @@ Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df24
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
-![Database Diagram](/assets/chapter-4/Diagrama_DB.png)
+![Database Diagram](../../assets/chapter-4/Diagrama_DB.png)
 
 Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=-3800%2C-3824%2C6488%2C3148%2C_OP.s7PTPVPg&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
