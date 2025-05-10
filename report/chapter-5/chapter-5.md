@@ -152,9 +152,9 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint n
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning n.
 
 Para este primer sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
@@ -212,17 +212,17 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </tr>
 </table>
 
-#### 5.2.X.2. Aspect Leaders and Collaborators.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
 | Rivera Gabriel                     | guestwhoo       | C                                                    | C                                                      | L                                        |
 | Reyes Camila                       | dakuma-ai       | L                                                    | C                                                      | L                                        |
-| Cueva Stephano                     | guestwhoo       | L                                                    | C                                                      | L                                        |
+| Cueva Stephano                     | Stephanoescu    | L                                                    | C                                                      | L                                        |
 | Maita Romina                       | RominaMaita     | C                                                    | L                                                      | L                                        |
 | Mamani Gabriel                     | Gabrlel0105     | C                                                    | C                                                      | L                                        |
 
-#### 5.2.X.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog n.
 
 <table border="1">
   <tr>
@@ -386,52 +386,52 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 </table>
 
-#### 5.2.X.4. Development Evidence for Sprint Review.
+#### 5.2.1.4. Development Evidence for Sprint Review.
 
 Para la entrega de este primer Sprint, se completó el desarrollo de la Landing Page. No obstante, no se llevaron a cabo pruebas relacionadas con la misma en esta entrega.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 Durante el desarrollo del sprint se lograron completar todos los puntos planteados.
 A continuación se muestran evidencias del landing page logrado.
 
-![l1](\report\Assets\l1.jpeg)
+![l1](../../assets/l1.jpeg)
 
-![l2](\report\Assets\l2.jpeg)
+![l2](../../assets\l2.jpeg)
 
-![l3](\report\Assets\l3.jpeg)
+![l3](../../assets\l3.jpeg)
 
-![l4](\report\Assets\l4.jpeg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+![l4](../../assets\l4.jpeg)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint solo realizamos el landing page
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el despliegue de la Landing Page, utilizamos GitHub Pages como herramienta para realizar el deployment. Creamos un repositorio donde almacenamos el código de nuestra Landing Page.
 
 ### Final-Report
-![ReportFinal.jpg](../Assets/ReportFinal.jpg)
+![ReportFinal.jpg](../../assets/ReportFinal.jpg)
 
 ### Landing-Page
-![LandingPage.jpg](../Assets/LandingPage.jpg)
-
+![LandingPage.jpg](../../assets/LandingPage.jpg)
 
 Una vez creado el repositorio, accedimos a la configuración y seleccionamos la sección de Pages. En este apartado, ingresamos los datos necesarios, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporcionó un enlace y publicó nuestra Landing Page en la web.
 
 ### Final-Report-Pages
-![FinalReportPages.jpg](../Assets/FinalReportPages.jpg)
+![FinalReportPages.jpg](../../assets/FinalReportPages.jpg)
 
 ### Landing-Page-Pages
-![LandingPagePages.jpg](../Assets/LandingPagePages.jpg)
+![LandingPagePages.jpg](../../assets/LandingPagePages.jpg)
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos durante esta TB1:
 
-![Grafico commits.jpg](../Assets/Grafico%20commits.jpg)
+![Grafico commits.jpg](../../assets/GraficoCommits.jpg)
 
-![Grafico personal de commits.jpg](../Assets/Grafico%20personal%20de%20commits.jpg)
+![Grafico personal de commits.jpg](../../assets/GraficoPersonalCommits.jpg)
 
 # Conclusiones
 
@@ -442,8 +442,8 @@ A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos dur
 - Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos.
 - Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*.
 
-
 # Anexos
 
-- link del repositorio de github:
-- link del landing page desplegado:
+- Enlace del repositorio en Github: https://github.com/HelpMom-AppWeb/final-report/
+
+- Enlace del landing page desplegado: https://helpmom-appweb.github.io/landing-page/
