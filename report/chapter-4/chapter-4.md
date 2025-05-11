@@ -46,7 +46,8 @@ Para este proyecto se han elegido tipografías sans serif con características r
     Moderna, versátil y altamente legible. Perfecta para encabezados y botones.
 - Nunito – Sans Serif
 Más redondeada, ideal para el cuerpo de texto. Refuerza la idea de suavidad y cercanía.
-
+ 
+- ![FontGuideLine](../../assets/chapter-4/StyleGuidelines/FontsGuidelines-01.png)
 
 Ambas fuentes trabajan en conjunto para equilibrar lo técnico con lo humano, lo clínico con lo emocional.
 
