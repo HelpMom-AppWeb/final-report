@@ -2,6 +2,12 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+**Segmento objetivo 1:** Madres:
+![To Be scenario mapping Madres](../../assets/chapter-3/ToBeScenario_1.png)
+
+**Segmento objetivo 2:** Doctores
+![To Be scenario mapping Madres](../../assets/chapter-3/ToBeScenario_2.png)
+
 ## 3.2. User Stories.
 
 Epics de la landing page:
