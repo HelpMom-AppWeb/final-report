@@ -30,10 +30,10 @@ En este punto del informe, se presentará información detallada sobre nuestro p
 
 __Product Name__: Se decidió llamar a nuestro producto “HelpMom”, un nombre compuesto por dos palabras en inglés: “Help” (ayuda) y “Mom” (mamá). Esta combinación refleja claramente el propósito principal de la plataforma: brindar apoyo integral a las madres durante el embarazo y los primeros meses de vida del bebé.
 
-__Product Desciption__: HelpMom es una plataforma cuya función principal es permitir que madres gestantes y primerizas reciban atención médica directa de profesionales especializados a través de la aplicación. Las usuarias pueden elegir al doctor u obstetra que mejor se adapte a sus necesidades, consultando perfiles, tarifas y valoraciones. Además, se genera un historial médico virtual que se actualiza con cada consulta, facilitando un seguimiento continuo del estado de salud de la madre y el bebé.
+__Product Desciption__: HelpMom es una plataforma cuya función principal es permitir que madres gestantes y primerizas reciban atención médica directa de profesionales especializados. Además, se genera un historial médico virtual que se actualiza con cada consulta, facilitando un seguimiento continuo del estado de salud de la madre y el bebé.
 
 __Monetización__:  
-HelpMom funciona mediante un modelo de suscripción mensual o anual, con una prueba gratuita de 14 días para nuevas usuarias. Se ofrecen dos planes diseñados para adaptarse a diferentes niveles de necesidad y acompañamiento durante el embarazo y el posparto:
+HelpMom funciona mediante un modelo de suscripción mensual o anual. Se ofrecen dos planes diseñados para adaptarse a diferentes niveles de necesidad y acompañamiento durante el embarazo y el posparto:
 
 - **Plan Básico**:  
   Dirigido a madres que requieren organización básica sin seguimiento médico avanzado.
