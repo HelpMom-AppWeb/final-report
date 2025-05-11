@@ -4,6 +4,8 @@
 
 ### 4.1.1. General Style Guidelines.
 
+![ColorGuideLine](../../assets/chapter-4/StyleGuidelines/ColorGuidelines.png)
+
 #### Colores cromáticos:
 
 #FADADD (Rosa Pastel - Principal)
@@ -40,13 +42,15 @@ Usado para títulos o elementos que requieren mayor jerarquía visual. Permite c
 #### Tipografía:
 
 Para este proyecto se han elegido tipografías sans serif con características redondeadas y amigables, que aseguren una lectura clara, suave y moderna. La elección responde al deseo de ofrecer un entorno emocionalmente cálido, sin sacrificar funcionalidad.
-Poppins – Sans Serif
-Moderna, versátil y altamente legible. Perfecta para encabezados y botones.
-Nunito – Sans Serif
+- Poppins – Sans Serif
+    Moderna, versátil y altamente legible. Perfecta para encabezados y botones.
+- Nunito – Sans Serif
 Más redondeada, ideal para el cuerpo de texto. Refuerza la idea de suavidad y cercanía.
+
+
 Ambas fuentes trabajan en conjunto para equilibrar lo técnico con lo humano, lo clínico con lo emocional.
 
-Ícono / logotipo:
+#### Ícono / logotipo:
 
 El logo representa una figura materna abrazando a un bebé, con líneas envolventes que forman un corazón. Este símbolo visual comunica de inmediato los valores fundamentales del proyecto: cuidado, protección, ternura y conexión emocional.
 Forma: Curvas suaves que evocan suavidad y seguridad.
