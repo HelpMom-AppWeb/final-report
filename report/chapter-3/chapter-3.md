@@ -225,22 +225,20 @@ Impact Mapping es una técnica visual que facilita la definición clara de los o
 
 ## 3.4. Product Backlog.
 
-
-| #  | User Story Id | Título                                | Descripción                                                                                                      | Story Points | Epic Relacionado       |
-|----|--------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------|------------------------|
-| 1  | HU20         | Seguimiento de signos vitales         | Como madre/médico quiero registrar y visualizar signos vitales para monitorear bienestar fetal/materno.        | 8            | Monitoreo de bebés     |
-| 2  | HU10         | Ingreso de recetas médicas            | Como doctor quiero registrar recetas médicas para que los pacientes sigan sus tratamientos correctamente.      | 5            | Ingreso de datos       |
-| 3  | HU18         | Ingreso de consulta                   | Como madre quiero reportar problemas técnicos para obtener soporte inmediato.                                   | 3            | Soporte al usuario     |
-| 4  | HU12         | Historial de recetas                  | Como doctor quiero revisar el historial de medicamentos recetados para mejorar diagnósticos.                   | 5            | Ingreso de datos       |
-| 5  | HU17         | Envío de mensaje                      | Como madre quiero comunicarme directamente con mi doctora para resolver dudas urgentes.                         | 3            | Comunicación           |
-| 6  | HU14         | Ingreso de correo                     | Como usuario quiero registrar mi correo para recibir notificaciones importantes.                                | 2            | Datos personales       |
-| 7  | HU11         | Añadir instrucciones                  | Como doctor quiero agregar notas a las recetas para evitar errores en la medicación.                            | 3            | Ingreso de datos       |
-| 8  | HU16         | Registro de número telefónico         | Como madre quiero guardar el contacto de mi doctora para emergencias.                                          | 3            | Comunicación           |
-| 9  | HU19         | Respuesta del servicio técnico        | Como madre quiero recibir soluciones a mis reportes técnicos.                                                   | 3            | Soporte al usuario     |
-| 10 | HU13         | Ingreso de nombre completo            | Como usuario quiero personalizar mi perfil con mi identidad real.                                              | 2            | Datos personales       |
-| 11 | HU21         | Visualización de medicamentos         | Como madre quiero consultar medicamentos anteriores para reponer recetas.                                      | 5            | Historial de citas     |
-| 12 | HU15         | Registro de certificado médico        | Como doctor quiero validar mi credencial profesional en la plataforma.                                         | 3            | Comunicación           |
-| 13 | HU23         | Gestión de citas (doctores)           | Como doctor quiero organizar las agendas de mis pacientes.                                                     | 5            | Calendario de citas    |
-| 14 | HU24         | Gestión de citas (pacientes)          | Como paciente quiero ver mis citas programadas para no olvidarlas.                                             | 3            | Calendario de citas    |
-| 15 | HU-SUB       | Gestión de suscripción premium        | Como usuario quiero actualizar mi plan premium para acceder a funciones exclusivas.                            | 5            | Monetización           |
- |
+| #  | User Story Id | Título                         | Descripción                                                                                     | Story Points | Epic Relacionado    |
+|----|--------------|--------------------------------|-------------------------------------------------------------------------------------------------|--------------|---------------------|
+| 1  | HU20         | Seguimiento de signos vitales  | Como madre/médico quiero registrar y visualizar signos vitales para monitorear bienestar fetal/materno. | 8 | Monitoreo de bebés  |
+| 2  | HU10         | Ingreso de recetas médicas     | Como doctor quiero registrar recetas médicas para que los pacientes sigan tratamientos correctamente. | 5 | Ingreso de datos    |
+| 3  | HU12         | Historial de recetas           | Como doctor quiero revisar historial de medicamentos recetados para mejorar diagnósticos.        | 5 | Ingreso de datos    |
+| 4  | HU21         | Visualización de medicamentos  | Como madre quiero consultar medicamentos anteriores para reponer recetas.                      | 5 | Historial de citas  |
+| 5  | HU23         | Gestión de citas (doctores)    | Como doctor quiero organizar las agendas de mis pacientes.                                      | 5 | Calendario de citas |
+| 6  | HU-SUB       | Gestión de suscripción premium | Como usuario quiero actualizar mi plan premium para acceder a funciones exclusivas.            | 5 | Monetización        |
+| 7  | HU18         | Ingreso de consulta            | Como madre quiero reportar problemas técnicos para obtener soporte inmediato.                   | 3 | Soporte al usuario  |
+| 8  | HU17         | Envío de mensaje               | Como madre quiero comunicarme directamente con mi doctora para resolver dudas urgentes.         | 3 | Comunicación        |
+| 9  | HU11         | Añadir instrucciones           | Como doctor quiero agregar notas a las recetas para evitar errores en la medicación.            | 3 | Ingreso de datos    |
+| 10 | HU16         | Registro de número telefónico  | Como madre quiero guardar el contacto de mi doctora para emergencias.                          | 3 | Comunicación        |
+| 11 | HU19         | Respuesta del servicio técnico | Como madre quiero recibir soluciones a mis reportes técnicos.                                  | 3 | Soporte al usuario  |
+| 12 | HU15         | Registro de certificado médico | Como doctor quiero validar mi credencial profesional en la plataforma.                         | 3 | Comunicación        |
+| 13 | HU24         | Gestión de citas (pacientes)   | Como paciente quiero ver mis citas programadas para no olvidarlas.                             | 3 | Calendario de citas |
+| 14 | HU14         | Ingreso de correo              | Como usuario quiero registrar mi correo para recibir notificaciones importantes.               | 2 | Datos personales    |
+| 15 | HU13         | Ingreso de nombre completo     | Como usuario quiero personalizar mi perfil con mi identidad real.                              | 2 | Datos personales    |
