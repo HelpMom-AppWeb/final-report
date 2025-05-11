@@ -47,11 +47,16 @@ Para este proyecto se han elegido tipografías sans serif con características r
 - Nunito – Sans Serif
 Más redondeada, ideal para el cuerpo de texto. Refuerza la idea de suavidad y cercanía.
  
-- ![FontGuideLine](../../assets/chapter-4/StyleGuidelines/FontsGuidelines-01.png)
+![FontGuideLine](../../assets/chapter-4/StyleGuidelines/FontsGuidelines-01.png)
 
 Ambas fuentes trabajan en conjunto para equilibrar lo técnico con lo humano, lo clínico con lo emocional.
 
 #### Ícono / logotipo:
+
+
+![FontGuideLine](../../assets/chapter-4/StyleGuidelines/LogoHelpMom.png)
+
+
 
 El logo representa una figura materna abrazando a un bebé, con líneas envolventes que forman un corazón. Este símbolo visual comunica de inmediato los valores fundamentales del proyecto: cuidado, protección, ternura y conexión emocional.
 Forma: Curvas suaves que evocan suavidad y seguridad.
