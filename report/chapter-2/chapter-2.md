@@ -1,6 +1,15 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+# BabyCenter
+BabyCenter es una plataforma en línea centrada en la salud y el bienestar durante el embarazo, el parto y la crianza de los hijos. Ofrece contenido educativo confiable, herramientas de seguimiento del embarazo y desarrollo del bebé, así como foros comunitarios para que los padres intercambien experiencias y consejos. Además, cuenta con una aplicación móvil que proporciona artículos personalizados según la etapa del embarazo o edad del niño. BabyCenter también realiza investigaciones y encuestas que le permiten generar contenido basado en datos reales de su comunidad global.
+
+# Clue
+Clue es una aplicación de salud femenina enfocada en el seguimiento del ciclo menstrual, la ovulación y la fertilidad. Utiliza datos científicos y algoritmos personalizados para ayudar a los usuarios a comprender sus ciclos y síntomas. Ofrece funciones como recordatorios, predicciones de menstruación, PMS y días fértiles. Clue también apuesta por la educación en salud reproductiva y promueve una visión inclusiva y no binaria de la salud menstrual. La plataforma cuenta con una versión gratuita y una opción premium con funciones adicionales de análisis y personalización.
+
+# Ovia Health
+Ovia Health es una plataforma de salud digital centrada en el bienestar reproductivo y familiar. Ofrece tres aplicaciones principales: Ovia Fertility, Ovia Pregnancy y Ovia Parenting, diseñadas para cubrir todas las etapas desde la concepción hasta la crianza temprana. La plataforma proporciona herramientas de seguimiento altamente personalizadas, contenido médico validado y acceso a recursos de salud laboral a través de asociaciones con empresas. Además, Ovia recopila datos anónimos para mejorar sus algoritmos y proporcionar información basada en inteligencia artificial y tendencias de salud poblacional.
+
 
 ### 2.1.1. Análisis competitivo.
 
@@ -423,19 +432,34 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 ![User Persona 2](../../assets/chapter-2/userpersona2.png)
 
 ### 2.3.2. User Task Matrix.
+En esta sección se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por las obstetras y mujeres gestantes, junto con su frecuencia e importancia. Esta matriz permite identificar las tareas clave asociadas al proceso de atención y vivencia del embarazo, destacando su relevancia para cada tipo de usuario.
+Para ello, se utilizaron los user personas desarrollados en la sección anterior: Daniela Gómez, correspondiente al segmento 1: Mujer gestante, y Sabrina Paredes, correspondiente al segmento 2: Obstetra.
 
-| Actividad | **Daniela Gomez**   | **Daniela Gomez**  | **Sabrina Paredes**  | Sabrina Paredes  |
-|---|-------|------------|------------|---------|
-|   | **Frecuencia**   | **Importancia**    | **Frecuencia**    | **Importancia**          |
-|---| -------- | ---------- | -------- | --------- |
-| Monitorear signos vitales | **Rara vez**  | Alta   | Siempre    | Alta      |
-| Asistencia al medico   | Siempre  | Media   | Rara vez    | Media    |
-| Detectar riesgos y complicaciones  | Nunca   | Alta    | Siempre    | Alta  |
-| Brindar soporte emocional   | Raras vez   | Media     | Rara vez    | Media    |
-| Realizar clases de preparcion de parto  | Siempre   | Baja    | Rara vez    | Media   |
-| Asesorar sobre el plan de parto  | Rara vez  | Media    | Siempre   | Alta   |
-| Realizar examenes medicos   | Nunca   | Alta    | Siempre  | Alta   |
-| Buscar informacion para el proceso de gestacion | Siempre  | Media  | Rara vez   | Media   |
+Segmento Objetivo 1: Daniela Gomez (Mujer gestante)
+
+| Actividades                             | Frecuencia   | Importancia |
+|-----------------------------------------|--------------|-------------|
+| Monitorear signos vitales               | Rara vez     | Alta        |
+| Asistencia al médico                    | Siempre      | Media       |
+| Detectar riesgos y complicaciones       | Nunca        | Alta        |
+| Brindar soporte emocional               | Rara vez     | Media       |
+| Realizar clases de preparación de parto | Siempre      | Baja        |
+| Asesorar sobre el plan de parto         | Rara vez     | Media       |
+| Realizar exámenes médicos               | Nunca        | Alta        |
+| Buscar información sobre gestación      | Siempre      | Media       |
+
+Segmento Objetivo 2: Sabrina Paredes (Obstetra)
+
+| Actividades                             | Frecuencia   | Importancia |
+|-----------------------------------------|--------------|-------------|
+| Monitorear signos vitales               | Siempre      | Alta        |
+| Asistencia al médico                    | Rara vez     | Media       |
+| Detectar riesgos y complicaciones       | Siempre      | Alta        |
+| Brindar soporte emocional               | Rara vez     | Media       |
+| Realizar clases de preparación de parto | Rara vez     | Media       |
+| Asesorar sobre el plan de parto         | Siempre      | Alta        |
+| Realizar exámenes médicos               | Siempre      | Alta        |
+| Buscar información sobre gestación      | Rara vez     | Media       |
 
 ### 2.3.3. User Journey Mapping.
 
@@ -474,19 +498,56 @@ Segmento Doctores
 
 ## 2.4. Ubiquitous Language.
 
-Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un 
-equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. 
-Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y 
-procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se 
-utilizarán en el desarrollo de la plataforma HelpMom, junto con sus definiciones y ejemplos de uso.
+El Lenguaje Ubicuo es un pilar esencial dentro del enfoque de Domain-Driven Design (DDD), ya que promueve una comunicación precisa y uniforme entre todos los miembros del equipo y las partes interesadas. Este lenguaje establece una terminología compartida y bien definida sobre los elementos clave del dominio, lo que facilita la colaboración efectiva y asegura que todos estén alineados en la comprensión del sistema.
+A continuación, se describen los principales términos y conceptos definidos específicamente para el proyecto HelpMom
 
-- Historia clínica: Documento legal que recopila los datos relacionados a la salud y los servicios prestados al paciente.
-- Perímetro cefálico: Medición del perímetro de la cabeza de un bebé o niño. Se mide la distancia desde encima de las 
-cejas y de las orejas y alrededor de la parte posterior de la cabeza.
-- Altura uterina: Es la distancia entre el hueso púbico y la parte superior del útero. 
-Es una medida que se utiliza para estimar el tamaño del feto y determinar si su crecimiento es adecuado.
-- Ecografía: Procedimiento en el que se generan imágenes del interior del cuerpo con fines de diagnóstico.
-- Percentil de crecimiento: Porcentaje que mide la velocidad de crecimiento del bebé. 
-- Rangos de normalidad: Rango de porcentil de cremiento que definen un crecimiento normal de un bebé. 
-Los porcentiles adecuados son superiores al 10 y menores al 90.
-- Escala de Silverman-Anderson: Herramienta utilizada para evaluar la dificultad respiratoria de un recién nacido.
+__Conceptos Principales__
+
+* **Servicio:** Representa una función dentro del dominio que encapsula lógica importante sin estar ligada directamente a una entidad u objeto específico. Por ejemplo, agendar una cita médica desde la plataforma HelpMom.
+
+* **Evento de Dominio:** Suceso relevante que refleja un cambio significativo dentro del sistema, como cuando se registra un nuevo control prenatal o se actualiza el historial médico.
+
+* **Repositorio:** Elemento que se encarga de gestionar el almacenamiento y recuperación de datos del dominio, ocultando la complejidad del acceso a la base de datos.
+
+* **Objeto de Valor:** Información que describe atributos o propiedades, sin identidad propia, y que no cambia en el tiempo, como una combinación de fecha y hora para una cita médica.
+
+* **Agregado:** Estructura compuesta por varios objetos que se gestionan como un bloque coherente, normalmente con un punto de entrada central, como el historial de atención de una gestante.
+
+* **Entidad:** Objeto principal dentro del dominio que se distingue por su identidad única, independientemente de los datos que contenga, como una usuaria o una profesional de salud en HelpMom.
+
+__Terminos Especificos__
+
+* **HelpMom:** Es una plataforma cuya función principal es permitir que madres gestantes y primerizas reciban atención médica directa de profesionales especializados a través de la aplicación. Las usuarias pueden elegir al doctor u obstetra que mejor se adapte a sus necesidades, consultando perfiles, tarifas y valoraciones. Además, se genera un historial médico virtual que se actualiza con cada consulta, facilitando un seguimiento continuo del estado de salud de la madre y el bebé.
+
+* **Wireframe:** Es un esquema visual que indica la organización de los elementos dentro de las interfaces de usuario de la plataforma, crucial para la creación del diseño de UI.
+
+* **Landing Page:** Es la página principal que los usuarios ven al acceder al sitio, diseñada para convertir visitantes en usuarios registrados, resaltando las ventajas y beneficios clave de la plataforma.
+
+* **Mock-up:** Son prototipos preliminares de las funcionalidades dentro de la plataforma **HelpMom**, utilizados para la demostración y validación del diseño antes de su implementación final.
+
+* **User Persona:** Son representaciones ficticias de diferentes grupos de usuarios, basadas en datos demográficos, que guían tanto el diseño de la interfaz como el desarrollo de funcionalidades de la plataforma.
+
+* **Sprint Review:** Son reuniones periódicas en las que se presenta el avance del proyecto a los stakeholders, mostrando nuevas características implementadas y revisando las tareas que están en proceso.
+
+__Términos Adicionales del Dominio Específico__
+
+* **Lean UX Canvas:** Herramienta visual que ayuda a definir y organizar los elementos fundamentales del proceso de diseño y desarrollo del producto, incluyendo problemas, soluciones, suposiciones y métricas de éxito.
+
+* **Problem Statements:** Descripciones que identifican los principales desafíos que enfrentan los usuarios y sirven como guía para el diseño y desarrollo del producto.
+
+* **Hypothesis Statements:** Afirmaciones que reflejan creencias sobre cómo resolver los problemas identificados, estableciendo los criterios para medir el éxito del producto.
+
+* **Lean UX Process:** Enfoque de desarrollo centrado en la mejora del producto a través de la validación, el pensamiento y la acción, que incluye la identificación de problemas, suposiciones, hipótesis y el uso de lienzos para organizar ideas y estrategias.
+
+* **Plataforma de Preparación para Entrevistas Técnicas:** Un sistema en línea diseñado para ayudar a los programadores y desarrolladores a mejorar sus habilidades técnicas y prepararse para entrevistas laborales.
+
+* **Entrevistas Técnicas:** Son procesos de evaluación que utilizan las empresas tecnológicas para medir las habilidades técnicas y la idoneidad de los candidatos para un puesto específico.
+
+* **Recursos de Preparación:** Herramientas educativas y materiales que ayudan a mejorar las habilidades técnicas y a prepararse para entrevistas en el ámbito tecnológico.
+
+* **Usuarios Objetivo:** Son los grupos específicos a quienes se dirige el producto, tales como desarrolladores que buscan empleo y estudiantes de informática o carreras relacionadas.
+
+* **Valor Agregado:** Beneficios adicionales que ofrece la plataforma de preparación para entrevistas técnicas, como acceso a contenido exclusivo de empresas tecnológicas, oportunidades de reclutamiento integradas y sesiones de tutoría personalizadas.
+
+
+
