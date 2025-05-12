@@ -1,13 +1,22 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+
+
+Llevamos a cabo este analisis competitivo, para poder darnos cuenta de nuestras ventajas y desventajas dentro del mercado con competidores que cuentan con un modelo de negocio similiar o parecido al nuestro.
 # BabyCenter
+![Logo BabyCenter](../../assets/chapter-2/BabyCenter-logo.png)
+
 BabyCenter es una plataforma en línea centrada en la salud y el bienestar durante el embarazo, el parto y la crianza de los hijos. Ofrece contenido educativo confiable, herramientas de seguimiento del embarazo y desarrollo del bebé, así como foros comunitarios para que los padres intercambien experiencias y consejos. Además, cuenta con una aplicación móvil que proporciona artículos personalizados según la etapa del embarazo o edad del niño. BabyCenter también realiza investigaciones y encuestas que le permiten generar contenido basado en datos reales de su comunidad global.
 
 # Clue
+![logo Clue](../../assets/chapter-2/ClueApp-logo.png)
+
 Clue es una aplicación de salud femenina enfocada en el seguimiento del ciclo menstrual, la ovulación y la fertilidad. Utiliza datos científicos y algoritmos personalizados para ayudar a los usuarios a comprender sus ciclos y síntomas. Ofrece funciones como recordatorios, predicciones de menstruación, PMS y días fértiles. Clue también apuesta por la educación en salud reproductiva y promueve una visión inclusiva y no binaria de la salud menstrual. La plataforma cuenta con una versión gratuita y una opción premium con funciones adicionales de análisis y personalización.
 
 # Ovia Health
+![Logo Ovia Health](../../assets/chapter-2/OviaHealth-logo.png)
+
 Ovia Health es una plataforma de salud digital centrada en el bienestar reproductivo y familiar. Ofrece tres aplicaciones principales: Ovia Fertility, Ovia Pregnancy y Ovia Parenting, diseñadas para cubrir todas las etapas desde la concepción hasta la crianza temprana. La plataforma proporciona herramientas de seguimiento altamente personalizadas, contenido médico validado y acceso a recursos de salud laboral a través de asociaciones con empresas. Además, Ovia recopila datos anónimos para mejorar sus algoritmos y proporcionar información basada en inteligencia artificial y tendencias de salud poblacional.
 
 
