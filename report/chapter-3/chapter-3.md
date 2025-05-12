@@ -2,6 +2,8 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+Durante el desarrollo del mapa "To Be", se llevó a cabo una lluvia de ideas para generar propuestas de mejora. A partir de esta dinámica, se identificaron soluciones viables para abordar los retos y problemas detectados en el mapa "As Is". Luego, se definieron las etapas del proceso como columnas dentro del mapa "To Be", incorporando en cada una las mejoras sugeridas. Entre estas mejoras destacan la incorporación de un sistema de mensajería entre la obstetra y la paciente, un plan semanal para monitorear la evolución del embarazo, y una opción para que la gestante pueda compartir reportes de síntomas directamente con la obstetra.
+
 
 **Segmento objetivo 1:** Madres:
 ![To Be scenario mapping Madres](../../assets/chapter-3/ToBeScenario_1.png)
@@ -15,22 +17,32 @@
 
 Epics de la landing page:
 
-| Epic ID | Título                  |
-|---------|-------------------------|
-| EP1     | Información del Start Up |
-| EP2     | Sobre el Producto        |
-| EP3     | Planes y suscripciones   |
-| EP4     | Preguntas frecuentes     |
-| EP5     | Contacto                 |
+
+
+|**Epic ID**|**Título**| **Descripción**                                                                                                                                                                  | **Relacionado con (User Story ID)**                                                                                                                                                                                                                                                                                                            |
+| :- | :- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|EP01|Información del Start Up | <p>**Como** visitante</p><p>**Quiero** gestionar mi perfil</p><p>**Para** acceder a la aplicación de HelpMom</p>                                                                   | <p>- US01 - Visualización de información de startup</p><p>- US02 - Visualización de foto de startup</p>                                                                                                                                                                                                                                 |
+|EP02|Sobre el Producto   | <p>**Como** visitante</p><p>**Quiero** resguardar mis datos y privacidad</p><p>**Para** poder sentirme seguro al navegar en la aplicación de HelpMom</p>                           | <p>- US03 - Visualización de información del producto</p><p>- US04 - Visualización de foto de producto</p><p>- US05 - Ingreso a la aplicación web</p>                                                                                                                                                                                                         |
+|EP03|Planes y suscripciones | <p>**Como** visitante</p><p>**Quiero** conocer los planes y membresías disponibles</p><p>**Para** poder elegir el que mejor se ajuste a mis necesidades dentro de HelpMom</p>                                 | <p>- HU6 - Visualización de información de planes</p>                                                                                                                                                                                                                                                                                          |
+|EP04|Preguntas frecuentes| <p>**Como** visitante</p><p>**Quiero** acceder a una sección de preguntas frecuentes</p><p>**Para** resolver mis dudas rápidamente al usar HelpMom</p> | <p>- HU7 - Visualización de preguntas frecuentes</p><p>- HU8 - Visualización de imágenes de preguntas frecuentes</p>                                                                                                                                                                                                                                                                     |
+|EP05|Contacto| <p>**Como** visitante</p><p>**Quiero** tener una interfaz intuitiva</p><p>**Para** navegar con comodidad dentro de la aplicación de HelpMom</p>                                    | <p>- US07 - Interfaz sencilla</p><p>- US05 - Visualización de calendario de entrevistas y anotaciones</p><p>- US17 - Visualización de datos de visitante</p><p>- US21 - Ver testimonios de clientes en la landing page</p><p>- US01 – Variedad de idiomas</p><p>- US09 - Visualizar la landing page de la empresa</p> |
+
 
 Epics de la aplicación web:
 
-| Epic ID | Título                   |
-|---------|--------------------------|
-| EP1     | Ingreso de datos médicos |
-| EP2     | Gestionar datos personales |
-| EP3     | Comunicación personalizada |
-| EP4     | Soporte al usuario       |
+| Epic ID | Título                      |
+|---------|-----------------------------|
+| EP6     | Ingreso de datos médicos    |
+| EP7     | Gestionar datos personales  |
+| EP8     | Comunicación personalizada  |
+| EP9     | Soporte al usuario          |
+| EP10    | Monitoreo de bebes          |
+| EP11    | HISTORIAL DE CITAS MEDICAS  |
+| EP12    | Calendario de citas medicas  |
+| EP13    | Gestion de subscripcion |
+
+
+
 
 | Story ID | Título                               | Descripción                                               | Criterios de aceptación |
 |----------|-------------------------------------|-----------------------------------------------------------|-------------------------|
@@ -225,8 +237,11 @@ Epics de la aplicación web:
 Impact Mapping es una técnica visual que facilita la definición clara de los objetivos que queremos alcanzar y cómo estos se relacionan con nuestros usuarios. Esta herramienta nos permite mantener el enfoque y orientar nuestros esfuerzos hacia el cumplimiento del objetivo principal. Al finalizar el mapa, se identifican las funcionalidades y acciones necesarias para desarrollar el proyecto de forma eficiente.
 
 Segmento objetivo #1: Mujer en gestacion
+
 ![madreImpactMaping.jpg](../../assets/chapter-3/madreImpactMaping.jpg)
+
 Segmento objetivo #2: Obstetra
+
 ![docImpactMaping.jpg](../../assets/chapter-3/docImpactMaping.jpg)
 
 
