@@ -84,7 +84,7 @@ En estas primeras pantallas demostramos el uso de los colores y tipografia propi
 
 ## 4.2. Information Architecture.
 
-
+En esta seccion mostramos las decisiones de Arquitectura de Informacion para organizar el contenido de nuestra aplicacion de tal manera que los usuarios puedan tener una experiencia eficiente. Se incluyen las secciones de Organization Systems, Labeling Systems, Navigation Systems y Searching Systems.
 
 ### 4.2.1. Organization Systems.
 En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
