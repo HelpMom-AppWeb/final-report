@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines.
 
+En esta seccion se establecen las bases con las que realizaremos y organizaremos la presentacion de nuestro proyecto. Se incluyen los General Style Guidelines y los Web Style Guidelines.
+
 ### 4.1.1. General Style Guidelines.
 
 ![ColorGuideLine](../../assets/chapter-4/StyleGuidelines/ColorGuidelines.png)
@@ -72,23 +74,17 @@ Este logo no solo representa la identidad visual de la plataforma, sino también
 
 
 ### 4.1.2. Web Style Guidelines.
-A continuación, se presentarán de forma estructurada los elementos de identidad visual que se utilizarán en el diseño de nuestra aplicación, incluyendo el branding, la tipografía, la paleta de colores y los lineamientos de espaciado.
 
-- **#FADADD (Rosa Pastel - Principal):** Este color es fundamental en nuestra identidad visual. El rosa pastel simboliza ternura, amor y sensibilidad, reflejando la conexión especial entre madre e hijo. Se utiliza como color predominante en los fondos y componentes clave para transmitir un ambiente afectivo y empático.
+En esta seccion mostramos la aplicacion de los lineamientos antes descritos en un avance de nuestra solucion web. 
+En estas primeras pantallas demostramos el uso de los colores y tipografia propios de nuestro Branding. Como modo de navegacion principal hemos escogido una barra de navegacion ubicada en la izquierda donde se colocaran las funcionalidades usadas por el usuario.
 
-- **#F79AB0 (Rosa Vivo - Acento):** Un tono más intenso y vibrante que complementa el rosa pastel. Se emplea en botones principales y llamadas a la acción, añadiendo energía sin perder la suavidad emocional característica de la plataforma.
+![m1](../../assets/chapter-4/m3.png)
 
-- **#FFE5DC (Melocotón Claro - Complementario):** Un color cálido y suave utilizado en ilustraciones, etiquetas y elementos secundarios. Ofrece una variación cromática manteniendo la armonía maternal del diseño.
+![m2](../../assets/chapter-4/m4.png)
 
-- **#C24865 (Rosa Intenso – Énfasis emocional):** Este tono profundo y elegante aporta una fuerte carga emocional al diseño. Se utiliza para alertas suaves, destacando citas o recordatorios importantes, sin resultar agresivo, y conservando un contraste atractivo dentro de la paleta cromática.
+## 4.2. Information Architecture.
 
-- **#F5ABE7 (Rosa Lila – Detalles decorativos):** Un tono delicado y juguetón que se utiliza para acentos gráficos, ilustraciones o pequeños detalles decorativos que agregan un toque de fantasía y encanto visual. Es perfecto para secciones informativas o elementos destinados a generar una conexión emocional con las usuarias.
 
-**Brand Overview**:
-Nuestro proyecto tiene como objetivo brindar apoyo a las mujeres que ya tienen un amplio conocimiento sobre el proceso de parto y postparto, ayudándolas a navegar de manera más efectiva esta etapa. Además, buscamos facilitar la conexión entre los especialistas en el área y sus pacientes, proporcionando una plataforma que optimice la comunicación y el acceso a la información## 4.2. Information Architecture.
-
-**Brand Name**:
-El nombre HelpMom viene para 
 
 ### 4.2.1. Organization Systems.
 En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
@@ -262,25 +258,24 @@ User goal: Como madre quiero ver la lista de medicamentos para comprar las recet
 ![wflow4](../../assets/chapter-4/wflow4.png)
 
 User goal: Como doctora quiero anadir el perfil de una paciente para comunicarme con ella.
-![wflow21](../../assets/chapter-4/wflow2_1.png)
+![wflow21](../../assets/chapter-4/wflow5.png)
 
 User goal: Como madre quiero ver el chat de mi paciente para comunicarme con ella.
-![wflow22](../../assets/chapter-4/wflow2_2.png)
+![wflow22](../../assets/chapter-4/wflow2_1.png)
 
 User goal: Como madre quiero ver los signos vitales del bebe de una paciente para monitorear su estado de salud.
-![wflow23](../../assets/chapter-4/wflow2_3.png)
+![wflow23](../../assets/chapter-4/wflow2_2.png)
 
 User goal: Como madre quiero anadir una cita al calendario para asistir a la cita programada.
-![wflow24](../../assets/chapter-4/wflow2_4.png)
+![wflow24](../../assets/chapter-4/wflow2_3.png)
 
 User goal: Como doctora quiero anadir una receta a la lista de medicamentos para informar a mi paciente.
-![wflow25](../../assets/chapter-4/wflow2_5.png)
+![wflow25](../../assets/chapter-4/wflow2_4.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
 Segmento madres:
 
-![m1](../../assets/chapter-4/m1.png)
 ![m2](../../assets/chapter-4/m2.png)
 ![m3](../../assets/chapter-4/m3.png)
 ![m4](../../assets/chapter-4/m4.png)
