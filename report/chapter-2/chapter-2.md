@@ -497,6 +497,8 @@ Segmento objetivo #2: Obstetras
 
 ### 2.3.5. As-is Scenario Mapping.
 
+El presente ejercicio de As-is Scenario Mapping tiene como objetivo comprender y documentar de manera detallada la experiencia actual de los usuarios clave —madres gestantes y obstetras— en relación con el seguimiento del embarazo, antes de la implementación de una solución digital. Esta etapa es fundamental para identificar puntos de fricción, necesidades no satisfechas y oportunidades de mejora en los procesos actuales.
+
 Segmento Madres
 
 ![As-Is Tobe scenario mapping Madres.jpg](../../assets/chapter-2/As-IsTobescenariomappingMadres.jpg)
