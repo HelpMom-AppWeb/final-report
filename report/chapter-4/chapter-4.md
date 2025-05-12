@@ -216,11 +216,14 @@ Dentro del perfil de doctoras:
 
 ## 4.3. Landing Page UI Design.
 
+En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Branding. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
+
 ### 4.3.1. Landing Page Wireframe.
 
 ![Landing page wireframe HomePage](../../assets/chapter-4/Landing_Page_wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up.
+
 El mockup de la landing page sigue un diseño adaptado tanto para Desktop como Mobile, utilizando una paleta de colores rosados suaves como base, reforzando la temática de maternidad y cuidado. Se incorporan toques de verde como color de contraste, aportando frescura y equilibrio visual.
 ![Landing page mock up HomePage](../../assets/chapter-4/Landing_Page_mockup.png)
 
