@@ -229,6 +229,8 @@ El mockup de la landing page sigue un diseño adaptado tanto para Desktop como M
 
 ## 4.4. Web Applications UX/UI Design.
 
+En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra Web Application usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Branding. Ademas, hemos considerado como funcionalidades a las que puede acceder cada segmento la separacion indicada en los Organization y Navigation Systems.
+
 ### 4.4.1. Web Applications Wireframes.
 
 Para los diseños de la aplicación hemos creado una pantalla para cada segmento objetivo.
