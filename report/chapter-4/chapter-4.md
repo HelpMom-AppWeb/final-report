@@ -285,7 +285,6 @@ Segmento madres:
 ![m3](../../assets/chapter-4/m3.png)
 ![m4](../../assets/chapter-4/m4.png)
 ![m5](../../assets/chapter-4/m5.png)
-![m6](../../assets/chapter-4/m6.png)
 
 Segmento Obstetras:
 
