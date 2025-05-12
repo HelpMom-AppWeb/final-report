@@ -135,7 +135,7 @@ Las entrevistas estarán dirigidas a madres gestantes peruanas de 18 a 29 años 
 
 ### 2.2.1. Diseño de entrevistas.
 
-MADRES
+#### Segmento objetivo #1: Gestantes peruanas de entre 18 a 29 años de edad
 
 1. ¿Podría presentarse brevemente? (Nombre, edad, número de hijos y etapa actual: embarazo/postparto).
 2. ¿A dónde suele acudir para informarse sobre el cuidado de su bebé?
@@ -149,7 +149,8 @@ MADRES
 10. ¿Se siente cómoda usando tecnología para temas relacionados con su salud?
 11. ¿Pagaría por una app que le permita compartir datos en tiempo real con su médico?
 
-DOCTORES
+
+#### Segmento objetivo #2: Obstetras peruanas de entre 22 a 40 años de edad
 
 1. ¿Podría presentarse brevemente? (Nombre, profesión, años de experiencia y lugar donde ejerce).
 2. ¿Qué datos clínicos son más relevantes para monitorear en una gestante o madre reciente?
@@ -160,7 +161,7 @@ DOCTORES
 7. ¿Qué funcionalidades debería tener una app ideal para apoyar su trabajo?
 8. ¿Qué características considera importantes en una plataforma dirigida a madres gestantes?
 
-Preguntas de seguimiento, dirigida a ambos segmentos:
+#### Preguntas de seguimiento, dirigida a ambos segmentos:
 
 - En su rutina diaria, ¿qué dispositivos tecnológicos utiliza con mayor frecuencia (celular, computadora, tablet)? ¿Y qué navegadores o aplicaciones prefiere para temas de salud materna o infantil?
 
@@ -444,7 +445,7 @@ finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mappin
 En esta sección se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por las obstetras y mujeres gestantes, junto con su frecuencia e importancia. Esta matriz permite identificar las tareas clave asociadas al proceso de atención y vivencia del embarazo, destacando su relevancia para cada tipo de usuario.
 Para ello, se utilizaron los user personas desarrollados en la sección anterior: Daniela Gómez, correspondiente al segmento 1: Mujer gestante, y Sabrina Paredes, correspondiente al segmento 2: Obstetra.
 
-Segmento Objetivo 1: Daniela Gomez (Mujer gestante)
+#### Segmento objetivo #1: Gestantes peruanas de entre 18 a 29 años de edad
 
 | Actividades                             | Frecuencia   | Importancia |
 |-----------------------------------------|--------------|-------------|
@@ -457,7 +458,7 @@ Segmento Objetivo 1: Daniela Gomez (Mujer gestante)
 | Realizar exámenes médicos               | Nunca        | Alta        |
 | Buscar información sobre gestación      | Siempre      | Media       |
 
-Segmento Objetivo 2: Sabrina Paredes (Obstetra)
+#### Segmento objetivo #2: Obstetras peruanas de entre 22 a 40 años de edad
 
 | Actividades                             | Frecuencia   | Importancia |
 |-----------------------------------------|--------------|-------------|
@@ -474,25 +475,25 @@ Segmento Objetivo 2: Sabrina Paredes (Obstetra)
 
 El User Journey Mapping nos permitirá conocer los objetivos de nuestros usuarios. Respecto al segmento de las madres, abarcaremos el camino desde que descubren la aplicación hasta que registren los datos de sus bebés para su monitoreo por parte de su doctora. Respecto al segmento de los doctores, abarcaremos el camino desde que registran a sus pacientes hasta que monitorean los datos de sus pacientes.
 
-Segmento 1: Madres
+Segmento objetivo #1: Gestantes
 
 ![Journey Map Madres](../../assets/chapter-2/madre-journey-map.png)
 
-Segmento 2: Doctoras
+Segmento objetivo #2: Obstetras
 
 ![Journey Map Doctoras](../../assets/chapter-2/doctor-journey-map.png)
 
 ### 2.3.4. Empathy Mapping.
 
 El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona y a desarrollar una descripción desde su propia perspectiva, comprendiendo mejor sus pensamientos, emociones, necesidades y comportamientos
-                         
-Segmento 1: Mujeres en gestacion
 
-![Empathy Map Madres](../../assets/chapter-2/EmpathyMapMadre.png)
+Segmento objetivo #1: Gestantes
 
-Segmento 2: Médicos especialistas que atienden a mujeres durante el embarazo y en el posparto.
+![Empathy Map Madres](../../assets/chapter-2/EmpathyMap_Madre.png)
 
-![Empathy Map Doctores](../../assets/chapter-2/EmpathyMapDoctora.png)
+Segmento objetivo #2: Obstetras
+
+![Empathy Map Doctores](../../assets/chapter-2/EmpathyMap_Doctora.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
