@@ -105,13 +105,13 @@ En el "Perfil", las usuarias pueden actualizar su información personal, incluye
 
 En "Ajustes", pueden gestionar su cuenta, cambiar la contraseña, revisar los permisos de acceso a sus datos y configurar las alertas automáticas enviadas por la plataforma.
 
-![mujerGestaciondiagram](../../assets/chapter-4/mujerGestaciondiagram.png)
+![OrganizationSystemMadres](../../assets/chapter-4/os-s1.jpg)
 
 **Segmento objetivo 2: Medicos especialistas en atender el proceso de parto**
 
 Al acceder a la plataforma del proyecto HelpMom para profesionales de la salud infantil y maternal, los usuarios (pediatras, médicos generales, enfermeras especializadas y otros profesionales de la salud) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Alertas", "Perfil" y "Ajustes".
 
-![doctordiagram](../../assets/chapter-4/doctordiagram.png)
+![OrganizationSystemsDoctores](../../assets/chapter-4/os-s2.jpg)
 
 ### 4.2.2. Labeling Systems.
 
