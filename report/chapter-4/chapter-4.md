@@ -173,16 +173,11 @@ En esta seccion se mostraran los Meta Tags a usar dentro de nuestra landing page
 <pre>
 <code>
 <title>HelpMom | Plataforma de control durante la maternidad</title>
-
-<meta name=»description» content=»HelpMom es una aplicacion dirigida para madres primerizas que necesitan contactar con su doctora para monitorear la salud de sus hijos.»>
-
-<meta name=”keywords” content= “baby, mother, doctor, application, baby health”>
-
-<meta name="author" content="Camila Reyes, Stephano Espinoza, Gabrel Mamani, Romina Maita, Gabriel Rivera">
+meta name=»description» content=»HelpMom es una aplicacion dirigida para madres primerizas que necesitan contactar con su doctora para monitorear la salud de sus hijos.»>
+meta name=”keywords” content= “baby, mother, doctor, application, baby health”>
+meta name="author" content="Camila Reyes, Stephano Espinoza, Gabrel Mamani, Romina Maita, Gabriel Rivera">
 </code>
 </pre>
-
-
 
 ### 4.2.4. Searching Systems.
 
