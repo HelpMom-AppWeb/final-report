@@ -173,7 +173,7 @@ ENTREVISTA 1
 
 ![Entrevista 1 Mama](../../assets/chapter-2/Screenshot_interview_mom1.png)
 
-link: https://shorturl.at/FNPrB
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
@@ -207,7 +207,7 @@ ENTREVISTA 2
 
 ![Entrevista 2 Mama](../../assets/chapter-2/Screenshot_interview_mom2.png)
 
-link: https://shorturl.at/jIaxB
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
@@ -244,7 +244,7 @@ ENTREVISTA 3
 
 ![Entrevista 3 Mama](../../assets/chapter-2/Screenshot_interview_mom3.png)
 
-link: https://shorturl.at/gaGSh
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
@@ -285,7 +285,7 @@ ENTREVISTA 1
 
 ![Entrevista 1 Doctor](../../assets/chapter-2/Screenshot_interview_doctor1.png)
 
-link: https://shorturl.at/LH2Xu
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
@@ -323,7 +323,7 @@ ENTREVISTA 2
 
 ![Entrevista 2 Doctor](../../assets/chapter-2/Screenshot_interview_doctor2.png)
 
-link: https://shorturl.at/wQ832
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
@@ -360,7 +360,7 @@ ENTREVISTA 3
 
 ![Entrevista 3 Doctor](../../assets/chapter-2/Screenshot_interview_doctor3.png)
 
-link: https://shorturl.at/4fBWU
+link: [entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MtVgsK)
 
 inicia: 0:00
 
