@@ -156,6 +156,34 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 
 - Alianzas con centros médicos o redes de obstetras: Alcanzar al menos 10 alianzas en los primeros seis meses, que permitan escalar el acceso a nuevos perfiles médicos certificados.
 
+### Features Assumptions
+- Soporte médico personalizado
+
+- Chat 24/7 con obstetras y matronas.
+
+- Agenda integrada con disponibilidad médica.
+
+- Evaluaciones post-consulta que garanticen la calidad de atención.
+
+- Herramientas de organización del embarazo
+
+- Recordatorios inteligentes de citas y controles.
+
+- Alertas de vacunas, ecografías, y seguimiento nutricional.
+
+- Calendario sincronizado con cada etapa gestacional.
+
+- Educación y contenidos adaptados
+
+- Consejos semanales según la etapa del embarazo.
+
+- Seguimiento de salud con análisis
+
+- Subida de datos clínicos.
+
+- Gráficas y reportes de presión, peso, glucosa, etc.
+
+- Historial médico compartible con especialistas.
 
 
 
