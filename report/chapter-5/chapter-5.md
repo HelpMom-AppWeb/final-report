@@ -426,14 +426,15 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-🔗 Enlace al repositorio de la Landing Page: https://github.com/Biblioteca-de-Software/landing-page
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|            | main   |           |                |                     |                    |
-|            | main   |           |                |                     |                    |
-|            | main   |           |                |                     |                    |
-
+| Repository                   | Branch | Commit Id                                 | Commit Message                                  | Commit Message Body | Commited on (Date) |
+|------------------------------|--------|-------------------------------------------|-------------------------------------------------|---------------------|--------------------|
+| HelpMom-AppWeb/landing-page  | main   | d822c4402e13fc950c43f25a2915f0f30c59cde3  | feat: added pricing plans.                      |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | 2db6b4c16b4cf4efe120070ad03a8cb6a181377c  | feat: added products, logo, fonts, banner image |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | 50756f6abfdd6d3649061387d2c5281548dda5fe  | feat: add contact.                              |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | e44f89b6f219466c6b48796457b9a890b4b7a777  | feat: added about us section with images        |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | a2d38d2dacd1732a2e1a48d8b888e2f2a1cf9eaf  | feat: add FAQ.                                  |                     | 20/04/2025         |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
