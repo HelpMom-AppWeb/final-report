@@ -110,6 +110,36 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 - El mayor riesgo para nuestro producto es:
   la desconfianza inicial de las usuarias hacia la atención médica digital o una baja tasa de conversión de la prueba gratuita al plan de pago.
 
+### User Assumptions
+- ¿Quién es la usuaria?
+  Mujeres embarazadas o que han dado a luz recientemente, preocupadas por su salud y la de su bebé, que valoran el acompañamiento médico y educativo.
+
+- ¿Dónde encaja nuestro producto en su vida?
+  Encaja en su rutina diaria como una herramienta de seguimiento, planificación médica y consulta rápida para resolver dudas, obtener orientación y recibir alertas relevantes.
+
+- ¿Qué problemas resuelve nuestro producto?
+  Incertidumbre sobre el cuidado prenatal y postnatal, falta de acceso inmediato a especialistas, olvidos en controles médicos y desinformación sobre el desarrollo del embarazo.
+
+- ¿Cuándo y cómo se utiliza nuestro producto?
+  Se usa de forma recurrente durante el embarazo y en los primeros meses de vida del bebé, tanto para consultas médicas como para recibir recordatorios, alertas y contenidos personalizados.
+
+- ¿Qué características son importantes?
+  Chat con especialistas, recordatorios automáticos de citas, recomendaciones semanales personalizadas, visualización del historial médico, facilidad de navegación y seguridad de datos.
+
+- ¿Cómo debería verse y comportarse nuestro producto?
+  Debe ser visualmente cálido y tranquilizador, con una interfaz amigable, accesible para todo nivel tecnológico, y con navegación clara y rápida.
+
+- El valor principal que una usuaria quiere obtener es:
+  sentirse acompañada médica y emocionalmente, sin la necesidad de trasladarse a centros de salud para resolver cada duda o consulta.
+
+- Las usuarias también pueden obtener estos beneficios adicionales:
+  organización de su agenda médica, reducción del estrés, empoderamiento mediante información clara y monitoreo activo de su salud y la de su bebé.
+
+- El mayor riesgo para la usuaria es:
+  que la plataforma no le brinde confianza en los profesionales o que no logre cumplir sus expectativas en cuanto a facilidad de uso o respuesta rápida.
+
+
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
