@@ -347,32 +347,29 @@ Los diagramas de arquitectura de software son herramientas clave para diseñar y
 
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
-![ContextDiagram.png](../../assets/ContextDiagram.png)
+![ContextDiagram.png](../../assets/chapter-4/bc1.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software
-![ContainerDiagram.png](../../assets/ContainerDiagram.png)
+![ContainerDiagram.png](../../assets/chapter-4/bc2.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica
 
-Diagrama de componente de Baby Monitoring
-![ComponentbabyMonitoringBC.png](../../assets/ComponentbabyMonitoringBC.png)
+Diagrama de componente de Appointments
+![ComponentbabyMonitoringBC.png](../../assets/chapter-4/bc4.png)
 
-Diagrama de componente de Billing Subsciption
-![ComponentbillingSubscriptionBC.png](../../assets/ComponentbillingSubscriptionBC.png)
+Diagrama de componente de Chat
+![ComponentbillingSubscriptionBC.png](../../assets/chapter-4/bc3.png)
 
-Diagrama de componente de Managment
-![ComponentcontentManagementBC.png](../../assets/ComponentcontentManagementBC.png)
+Diagrama de componente de Health Monitoring
+![ComponentcontentManagementBC.png](../../assets/chapter-4/bc5.png)
 
-Diagrama de componente de MedicalAssistance
-![ComponentmedicalAssistanceBC.png](../../assets/ComponentmedicalAssistanceBC.png)
+Diagrama de componente de Medication
+![ComponentmedicalAssistanceBC.png](../../assets/chapter-4/bc6.png)
 
-Diagrama de componente de Notification
-![ComponentnotificationBC.png](../../assets/ComponentnotificationBC.png)
-
-Diagrama de cmponente de User Managment
-![ComponentuserManagementBC.png](../../assets/ComponentuserManagementBC.png)
+Diagrama de componente de Patient Management
+![ComponentnotificationBC.png](../../assets/chapter-4/bc7.png)
 
 ## 4.7. Software Object-Oriented Design.
 
