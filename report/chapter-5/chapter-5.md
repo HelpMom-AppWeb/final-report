@@ -259,7 +259,7 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 | Maita Romina                       | RominaMaita     | C                                                    | L                                                      | L                                        |
 | Mamani Gabriel                     | Gabrlel0105     | C                                                    | C                                                      | L                                        |
 
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1.
 
 <table border="1">
   <tr>
@@ -513,28 +513,28 @@ una de las tareas identificadas para el sprint.
     <td colspan="8">Romina Guadalupe Maita Falckenheiner, Gabriel Cristian Mamani Marca, Camila Asuncion Reyes Menacho, Gabriel Alejandro Rivera Ayala, Stephano Jose Espinoza Cueva</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="5">Sprint  2 Review Summary</td>
     <td colspan="8">En este segundo sprint todos los integrantes estuvieron presentes y aceptaron la asignación de tareas de cada uno para las correcciones con respecto al primer entregable. Así mismo, también se establecieron los alcances que tendrá la primera versión del frontend.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
     <td colspan="8">Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido. Siendo el domingo 12/05/2025 la fecha máxima para culminar cada uno su aporte al frontend. </td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="5">Sprint 2 Goal</td>
     <td colspan="8">
 Desarrollar y desplegar una primera versión del frontend con las características más fundamentales con relación al negocio, con la finalidad de que los usuarios puedan interactuar con una interfaz funcional, validar los flujos principales del sistema y brindar retroalimentación temprana que permita ajustar el desarrollo de las siguientes iteraciones. </td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Velocity</td>
-    <td colspan="8">4 story points</td>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8">7 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"> Story Points</td>
+    <td colspan="8"> 7 Story Points</td>
 </tr>
 </table>
 
@@ -559,7 +559,7 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 |            |                                           |                |                                 |                                                                                                                                         |            |                   |                |
 | HU23       | Gestión de citas medicas de los doctores  | UT03           | Formulario de ingreso de citas  | Crear un formulario donde el doctor pueda agregar y editar citas para distintos pacientes                                               | 2h         | Camila Reyes      | Done           |
 | HU24       | Gestión de citas medicas de los pacientes | UT04           | Calendario de citas médicas     | Mostrar las citas próximas del paciente                                                                                                 | 3h         | Camila Reyes      | Done           |
-| HU17       | chat entre obstetra y madre               | UT05           | Envio de mensaje                | Como madre, quiero enviar un mensaje a una doctora para comunicarme con ella.                                                           | 2H         | Gabriel Mamani    | Done           |
+| HU17       | chat entre obstetra y madre               | UT05           | Envío de mensaje                | Como madre, quiero enviar un mensaje a una doctora para comunicarme con ella.                                                           | 2H         | Gabriel Mamani    | Done           |
 |            |                                           |                |                                 |                                                                                                                                         |            |                   |                |
 | HU10       | Ingreso de recetas médicas                | UT06           | Formulario de ingreso de receta | como obstetra quiero dar una receta a la paciente                                                                                       | 2h         | Stephano Espinoza | Done           |
 | HU11       | Añadir instrucciones                      | UT06           | Campo de instrucciones médicas  | Permitir al obstetra añadir instrucciones especificas en la receta medica                                                               | 1h         | Stephano Espinoza | Done           |
@@ -606,7 +606,7 @@ Se configuró el despliegue automático desde Netlify seleccionando la rama deve
 
 Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
 
-🔗 Frontend desplegado en Netlify:
+🔗 Frontend desplegado en Netlify: http://helpmom.netlify.app/
 
 Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
 
