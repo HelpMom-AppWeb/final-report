@@ -622,8 +622,30 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 #### Capturas de Insights del repositorio:
 ![img_9.png](img_9.png)
 
-# Conclusiones
+# Conclusiones 
 
+## Conclusiones
+El proyecto HelpMom, desarrollado por la startup WebExpert, representa una propuesta tecnológica de alto impacto social, orientada a mejorar la calidad de vida de madres gestantes y primerizas mediante una atención médica accesible, oportuna y personalizada. Concebido por estudiantes de la Universidad Peruana de Ciencias Aplicadas, este proyecto nace con una visión clara: utilizar la tecnología para empoderar a personas en situación de dependencia y facilitar su acceso a servicios de salud especializados.
+
+A lo largo de su desarrollo, HelpMom ha evidenciado un enfoque sólido centrado en el usuario y en la mejora continua. La aplicación ofrece funcionalidades clave como el seguimiento de signos vitales, la gestión de citas médicas para pacientes y doctores, un sistema de mensajería en tiempo real entre madres y obstetras, y la emisión y visualización del historial de recetas médicas. Estas características no solo responden a necesidades reales de los usuarios, sino que también potencian la eficiencia de los profesionales de la salud en su labor diaria.
+
+La implementación técnica del proyecto se realizó utilizando Vue.js como framework principal, siguiendo los principios de Domain Driven Design (DDD) para una arquitectura robusta y escalable. La metodología de trabajo adoptada fue Scrum, lo que permitió dividir el proyecto en iteraciones planificadas (sprints) que facilitaron la entrega continua de valor y la colaboración efectiva entre los miembros del equipo.
+
+Cada historia de usuario (HU) fue cuidadosamente desarrollada y validada. Por ejemplo, el seguimiento de signos vitales (HU20) fue abordado mediante formularios interactivos y tarjetas de resumen que muestran datos críticos como ritmo cardíaco, temperatura, peso y saturación de oxígeno. Por otro lado, funcionalidades como la gestión de citas (HU23 y HU24) brindan herramientas tanto para los doctores como para las pacientes, garantizando una agenda organizada y visible desde ambas perspectivas. La incorporación del chat directo entre madres y obstetras (HU17) refuerza el acompañamiento constante, promoviendo un entorno de comunicación fluido y confiable.
+
+La sección de recetas médicas (HU10, HU11 y HU12) permite a los profesionales emitir indicaciones claras y llevar un historial digital accesible, contribuyendo a una atención más segura y documentada.
+
+El equipo de desarrollo demostró un alto grado de compromiso, coordinación y cumplimiento de objetivos. Todas las unidades de trabajo (UT) asignadas fueron completadas dentro del tiempo estimado, lo que refleja una planificación eficiente y un dominio adecuado de las herramientas tecnológicas utilizadas. Asimismo, la claridad en los roles y la adecuada documentación generada durante el proceso fortalecieron la trazabilidad y calidad del producto final.
+
+En conjunto, HelpMom no solo cumple con su objetivo funcional, sino que también se erige como una solución tecnológica innovadora que puede escalar y adaptarse a nuevas necesidades en el ámbito de la salud digital.
+
+## Recomendaciones:
+
+Para optimizar el desempeño del equipo en el proyecto, es crucial adoptar una estrategia de comunicación efectiva. Realizar llamadas regulares y videoconferencias permite mantener al equipo alineado y facilita la resolución de problemas en tiempo real. Este enfoque asegura que todos los miembros estén informados y comprometidos con el progreso del proyecto.
+
+La organización también es clave. Establecer un calendario claro desde el inicio, con hitos bien definidos y plazos específicos, ayuda a cada miembro del equipo a gestionar su tiempo de manera eficiente. Utilizar herramientas de gestión de proyectos facilita la visualización de tareas pendientes y completadas, lo que permite un mejor seguimiento del avance y la identificación temprana de posibles retrasos o cuellos de botella.
+
+Además, es importante realizar revisiones periódicas del trabajo en conjunto. Estas revisiones deben ser constructivas y orientadas a la mejora continua. Cada miembro del equipo debe tener la oportunidad de ofrecer y recibir retroalimentación, lo que no solo ayuda a corregir errores, sino que también promueve un ambiente de respeto y aprendizaje mutuo. Esta práctica mejora la calidad del trabajo entregado y refuerza la cohesión del equipo, creando una atmósfera de colaboración efectiva y apoyo constante.
 
 # Video About-the-Team.
 
