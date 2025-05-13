@@ -78,25 +78,38 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 ¿Cómo podríamos lograr que madres y padres confíen en HelpMom como una solución confiable, intuitiva y segura para acompañar el desarrollo de sus bebés, integrando tecnología y atención médica en su día a día de forma natural?
 
 #### 1.2.2.2. Lean UX Assumptions.
-- **Contexto**: Las mujeres embarazadas y en etapa posparto suelen utilizar diversas plataformas independientes para seguimiento médico, consultas y soporte profesional, lo que puede causar desorganización y estrés.
 
-  **Assumptions**: Una solución integrada que combine monitoreo de salud, contenido confiable y consultas virtuales optimizará la experiencia de las usuarias, disminuyendo su ansiedad al centralizar todos los recursos en un solo lugar.
+### Business Assumptions
+- Creemos que nuestras usuarias tienen la necesidad de:
+  recibir atención médica accesible, confiable y continua durante el embarazo y el posparto, además de orientación organizada para el seguimiento de su salud y la del bebé.
 
-- **Contexto**: La sobreabundancia de información no certificada sobre embarazo y maternidad en internet puede llevar a confusiones y elecciones poco fundamentadas.
+- Estas necesidades se pueden satisfacer con:
+  una plataforma digital que conecte directamente a las gestantes y madres primerizas con profesionales de salud, y les proporcione herramientas inteligentes de acompañamiento médico y educativo.
 
-  **Assumptions**: Al proporcionar información médica respaldada por expertos y seguimiento personalizado, las usuarias podrán manejar su gestación y recuperación posparto con mayor seguridad y basándose en datos verificados.
+- Nuestras usuarias iniciales son (o serán):
+  mujeres gestantes o madres primerizas con acceso a smartphones, que buscan orientación médica, seguimiento personalizado y recordatorios de salud para ellas y sus bebés.
 
-- **Contexto**: La demora en obtener asesoramiento profesional hace que muchas mujeres tomen decisiones críticas sin el respaldo necesario, incrementando posibles complicaciones.
+- El valor principal que una usuaria quiere obtener de nuestro servicio es:
+  tranquilidad y seguridad mediante una atención médica confiable y personalizada desde su hogar.
 
-  **Assumptions**: Facilitar conexiones rápidas con especialistas a través de teleconsulta mejorará la atención médica y ayudará a las usuarias a elegir con mayor conocimiento.
+- Las usuarias también pueden obtener estos beneficios adicionales:
+  ahorro de tiempo en desplazamientos, acceso a contenidos educativos según su etapa, mejor planificación de citas y controles, y soporte profesional en momentos críticos.
 
-- **Contexto**: Existe inquietud sobre la protección de información personal en aplicaciones de salud, particularmente en temas tan sensibles como la maternidad.
+- Adquiriremos a la mayoría de nuestras usuarias a través de:
+  estrategias de marketing digital dirigidas a comunidades de madres, recomendaciones en centros de salud y redes sociales con enfoque en bienestar materno.
 
-  **Assumptions**: Priorizar la seguridad y confidencialidad de los datos aumentará la credibilidad de la plataforma, incentivando su uso constante.
+- Ganaremos dinero mediante:
+  planes de suscripción mensual o anual, así como por la oferta de servicios adicionales dentro del plan premium (consultas especializadas, análisis avanzados, etc.).
 
-- **Contexto**: La complejidad de algunas herramientas digitales representa un obstáculo para usuarias con distintos niveles de familiaridad tecnológica, sobre todo en embarazadas y madres sin experiencia previa.
+- Nuestra competencia principal en el mercado será:
+  aplicaciones genéricas de salud o seguimiento de embarazo que no integran servicios médicos en tiempo real.
 
-  **Assumptions**: Un diseño sencillo y accesible facilitará la adopción de la plataforma, mejorando la retención y el compromiso de las usuarias.
+- Les superaremos debido a:
+  nuestra propuesta centrada en la combinación de atención médica en vivo, asesoría personalizada y recordatorios automatizados dentro de una sola plataforma.
+
+- El mayor riesgo para nuestro producto es:
+  la desconfianza inicial de las usuarias hacia la atención médica digital o una baja tasa de conversión de la prueba gratuita al plan de pago.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
