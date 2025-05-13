@@ -648,6 +648,10 @@ La organización también es clave. Establecer un calendario claro desde el inic
 Además, es importante realizar revisiones periódicas del trabajo en conjunto. Estas revisiones deben ser constructivas y orientadas a la mejora continua. Cada miembro del equipo debe tener la oportunidad de ofrecer y recibir retroalimentación, lo que no solo ayuda a corregir errores, sino que también promueve un ambiente de respeto y aprendizaje mutuo. Esta práctica mejora la calidad del trabajo entregado y refuerza la cohesión del equipo, creando una atmósfera de colaboración efectiva y apoyo constante.
 
 # Video About-the-Team.
+El grupo realizó una recopilación en formato video con relación a sus outcomes y lo logrado en esta entrega.
+![img_17.png](img_17.png)
+
+🔗 Enlace al video: https://acortar.link/W2KQVa
 
 
 ## Bibliografía
