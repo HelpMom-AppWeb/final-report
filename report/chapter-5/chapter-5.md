@@ -644,41 +644,23 @@ Además, es importante realizar revisiones periódicas del trabajo en conjunto. 
 
 # Bibliografía
 
-- Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos.
-- Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*.
-- Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
-- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
-- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
-- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
-- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
+## Bibliografía
+
+- Instituto Nacional de Estadística e Informática. (2023). *Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos*. [https://www.inei.gob.pe](https://www.inei.gob.pe)
+
+- Instituto Nacional de Estadística e Informática. (2021). *Salud Materna*. En D. Bonnet (Ed.), *Encuesta Demográfica y de Salud Familiar*. [https://www.inei.gob.pe](https://www.inei.gob.pe)
+
+- Vue.js. (2024). *Vue.js - The Progressive JavaScript Framework*. [https://vuejs.org/guide/introduction.html](https://vuejs.org/guide/introduction.html)
+
+- PrimeVue. (2024). *PrimeVue - UI Component Library for Vue 3*. [https://www.primevue.org/](https://www.primevue.org/)
+
+- Brown, S. (2020). *The C4 Model for Visualising Software Architecture*. [https://c4model.com](https://c4model.com)
+
+- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley. [https://domainlanguage.com/ddd/](https://domainlanguage.com/ddd/)
+
+- Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley. [https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/](https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/)
+
+- Netlify. (2024). *Netlify Documentation*. [https://docs.netlify.com/](https://docs.netlify.com/)
 
 # Anexos
-
-### VIDEOS:
-
-| Título                  | Descripción                                        | Enlace |
-|-------------------------|----------------------------------------------------|--------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |  
-
-### DIAGRAMAS:
-**Anexo B: Diagrama de clases**<br>
-
-| Título                    | Descripción                                                 | Enlace                       |
-|---------------------------|-------------------------------------------------------------|------------------------------|
-| Diagrama de base de datos | Enlace al diagrama de base de datos realizado en Lucidchart | https://acortar.link/kMZcZN  | 
-| Diagrama de clases        | Enlace al diagrama clases realizado en Lucidchart           | https://acortar.link/xGf9sy  | 
-
-### UX/UI
-| Título | Descripción                                                                                                | Enlace                       |
-|--------|------------------------------------------------------------------------------------------------------------|------------------------------|
-| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/osskj2  | 
-
-### GITHUB
-
-| Título       | Descripción                            | Enlace                                              |
-|--------------|----------------------------------------|-----------------------------------------------------|
-| Reporte      | Enlace al repositorio del reporte      | https://github.com/HelpMom-AppWeb/final-report      |
-| Landing Page | Enlace al repositorio del Landing Page | https://github.com/HelpMom-AppWeb/landing-page      |
-| Frontend     | Enlace al repositorio del frontend     | https://github.com/HelpMom-AppWeb/HelpMom-frontend  |
 
