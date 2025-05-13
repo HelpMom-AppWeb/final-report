@@ -2,31 +2,31 @@
 
 ## 5.1. Software Configuration Management.
 
-Para gestionar la configuración de software de nuestra app, nos enfocaremos en tres puntos clave: el control del código fuente, que incluye manejar versiones y organizar el código; la configuración del entorno de desarrollo, para asegurar herramientas uniformes en el equipo; y la configuración de implementación, que gestiona el despliegue en producción. Estas acciones aseguran consistencia y eficiencia durante todo el ciclo de vida de la aplicación.
+En esta sección se muestran las decisiones y convenciones que permitirán mantener consistencia durante el ciclo de vida del proyecto.
 
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección, detallaremos y explicaremos los productos utilizados en el proyecto digital, así como su propósito y cómo se accede a cada uno de ellos y siguiendo las restricciones establecidas.
 
-1. P**roject Management:**
-   Para gestionar el proyecto, se emplearon herramientas de comunicación y control de versiones. Se configuró una organización en GitHub para administrar el código y las versiones del software. Para las reuniones y la comunicación interna, se usaron Google Meet y Discord.
-   - Github: https://github.com/
-   - Google Meet: https://meet.google.com/
-   - Discord: https://discord.com/download
+En esta sección, se incluirá los productos de software que se usaron en el proyecto.
+Los enlaces a cada una de las herramientas se encuentran disponibles en los anexos.
 
-2. **Gestión de Requisitos**, La gestión de requisitos se realizó mediante herramientas personalizadas que facilitaron la recopilación, organización y priorización de los requerimientos del proyecto. Se empleó Trello para gestionar visualmente los requisitos mediante tableros personalizados, permitiendo la creación de Task Boards.
-   - Trello: https://trello.com/es
+##### Project Management:
+- Trello: Herramienta de gestión de proyectos basada en Kanban, utilizada para planificar tareas y asignar responsabilidades al equipo.
 
-3. **Diseño UX/UI del Producto**. Para el diseño de la experiencia de usuario (UX) y la interfaz (UI), se utilizó Figma, herramienta que permitió crear wireframes, mockups y prototipos interactivos para validar el diseño antes de su implementación. Adicionalmente, se emplearon:
-   - Figma: https://www.figma.com/downloads/
-   - UXPressia: https://uxpressia.com/
-   - Miro: https://miro.com/es/
+##### Product UX/UI Design:
+- Figma: Herramienta colaborativa para crear prototipos interactivos de interfaces.
+- Lucidchart: Para creación de diagramas de flujo.
+- Uxpressia: Para elaboración de mapas de empatía y recorridos del usuario.
+- Structurizr: Para modelado de arquitectura de software.
 
-4.  **Desarrollo de Software** El desarrollo de software se implementó con HTML5, CSS3 y JavaScript para la Landing Page. Para la Web Application se utilizó Vue.js en el Frontend y ASP.NET Core con C# en el Backend. Como entorno de desarrollo principal se emplearon las herramientas del IDE JetBrains Toolbox, que proporcionan un entorno integrado con funcionalidades avanzadas para el desarrollo web.
-    - jetBrains Toolbox: https://www.jetbrains.com/toolbox-app/
+#### Software Development
+- IntelliJ IDEA: IDE para desarrollo backend en Java. Para el primer y segundo sprint se utilizó para la redacción del informe del proyecto.
+- WebStorm: IDE especializado para el desarrollo frontend. Se utilizó para el desarrollo de la Landing Page y frontend de la aplicación.
+- Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+- GitHub: Plataforma de control de versiones y colaboración.
 
-5. **Documentación del Software**, La documentación se gestionó en GitHub, aprovechando su sistema de control de versiones y alojamiento de información técnica. Se utilizaron archivos Markdown para facilitar la edición colaborativa en repositorios dedicados.
-    - GitHub: https://github.com/
-
+#### Software Deployment
+- GitHub Pages: Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
+- Netlify: Plataforma de despliegue continuo que permite publicar aplicaciones web estáticas y JAMstack. Fue utilizada para el despliegue del frontend.
 
 ### 5.1.2. Source Code Management.
 
@@ -34,29 +34,50 @@ En esta sección, detallaremos y explicaremos los productos utilizados en el pro
 En este proyecto, utilizamos GitHub como plataforma principal para el control de versiones y gestión colaborativa del código fuente bajo una organización dedicada.
 
 **Repositorios** en GitHub
-- **Organización**: [HelpMom-AppWeb](https://github.com/HelpMom-AppWeb)
-- **Landing Page**: [Repositorio](https://github.com/HelpMom-AppWeb/landing-page)
-- **Informe Final**: [Repositorio](https://github.com/HelpMom-AppWeb/final-report)
+- **Organización**: [https://github.com/HelpMom-AppWeb](https://github.com/HelpMom-AppWeb)
+- **Landing Page**: [https://github.com/HelpMom-AppWeb/landing-page](https://github.com/HelpMom-AppWeb/landing-page)
+- **Informe Final**: [https://github.com/HelpMom-AppWeb/final-report](https://github.com/HelpMom-AppWeb/final-report)
+- **Frontend**: [https://github.com/HelpMom-AppWeb/HelpMom-frontend.git](https://github.com/HelpMom-AppWeb/HelpMom-frontend.git)
 
-**Flujo de Trabajo GitFlow**:
-Implementamos el modelo **GitFlow** para garantizar una gestión ordenada del desarrollo, siguiendo estas convenciones:
+#### Modelo de ramificación: GitFlow
 
-**Ramas Principales**:
-1. **`main`/`master`**
-   - Contiene únicamente código estable y versiones liberadas.
-2. **`dev`**:
-   - Rama de integración para nuevas funcionalidades y mejoras.
+Para el modelo de desarrollo, se decidió usar GitFlow como modelo de ramificación. Este modelo permite una gestión eficiente de las ramas y facilita la colaboración entre los desarrolladores.
 
-**Ramas de Desarrollo**:
-- **Feature Branches**:  
-  Creamos 5 ramas de características (una por cada capítulo del informe), donde se realizan los commits correspondientes antes de fusionarlas con `dev` una vez completadas.
+Para el repositorio del informe final se crearon las siguientes ramas:
+- **dev:** Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
+- **chapter-1:** Rama para el desarrollo del capítulo 1 del informe.
+- **chapter-2:** Rama para el desarrollo del capítulo 2 del informe.
+- **chapter-3:** Rama para el desarrollo del capítulo 3 del informe.
+- **chapter-4:** Rama para el desarrollo del capítulo 4 del informe.
+- **chapter-5:** Rama para el desarrollo del capítulo 5 del informe.
 
-**Conventional** Commits
-Adoptamos el estándar **Conventional Commits** para mensajes de commit, asegurando:
-- **Estructura clara**: Descripción precisa de los cambios.
-- **Automatización**: Facilita la generación de changelogs y el seguimiento del historial.
+Para el repositorio de Landing Page se crearon las siguientes ramas:
+- **main:** Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
 
-Estas prácticas nos permitieron mantener un desarrollo organizado, colaborativo y documentado dentro de la organización en GitHub.
+Para el repositorio del Fronted se crearon las siguientes ramas:
+- **develop**: Rama principal donde una vez concluida la programación de un bounded context se hace un merge a esta rama.
+- **feature/patient-management**: Rama donde se desarrolla el bounded context
+- **feature/medication**: Rama donde se desarrolla el bounded context
+- **feature/baby-monitoring**: Rama donde se desarrolla el bounded context
+- **feature/chat**: Rama donde se desarrolla el bounded context
+- **feature/appointments**: Rama donde se desarrolla el bounded context
+- 
+#### Estilo de commits: Conventional Commits
+Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
+
+- `feat: add search by name functionality`
+- `fix: correct form validation error`
+- `docs: update installation instructions`
+- `refactor: simplify calculation logic`
+
+El prefijo de categorías se define de la siguiente forma:
+- `feat`: A new feature
+- `fix`: A bug fix
+- `docs`: Documentation only changes
+- `style`: Changes that do not affect the meaning of the code (formatting, missing semicolons, etc.)
+- `refactor`: A code change that neither fixes a bug nor adds a feature
+- `test`: Adding missing tests or correcting existing ones
+- `chore`: Changes to the build process or auxiliary tools
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -136,6 +157,9 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 - Configurar cualquier dependencia adicional, como bibliotecas de JavaScript o imágenes.
 - Verificar que la Landing Page se cargue correctamente en el navegador.
 
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
+🔗 Enlace a la Landing Page desplegada: https://helpmom-appweb.github.io/landing-page/
+
 2. Web Services (API):
 - Preparar el código fuente del servicio web, asegurando que esté correctamente estructurado y documentado.
 - Configurar un entorno de desarrollo o pruebas para realizar pruebas exhaustivas del servicio antes del despliegue.
@@ -150,11 +174,23 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 - Si es necesario, se deben configurar las rutas en el servidor de aplicaciones para que coincidan con las rutas esperadas por las aplicaciones frontend.
   re redacta esto siguiendo el mismo formato
 
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+🔗 Enlace al Frontend desplegado: 
+
 ## 5.2. Landing Page, Services & Applications Implementation.
+En esta sección se detalla y evidencia la implementación de cada entregable de HelpMom.
 
-### 5.2.1. Sprint n
+#### Landing page:
+La landing page fue realizada de manera grupal y desplegada debidamente con la herramienta GitHub Pages.
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación de la Landing Page.
 
-#### 5.2.1.1. Sprint Planning n.
+#### Frontend:
+El frontend fue realizado de manera grupal utilizando el framework Vue.
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del frontend.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1.
 
 Para este primer sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
@@ -204,15 +240,16 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Velocity</td>
-    <td colspan="8">4 story points</td>
+    <td colspan="8">7 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">4 Story Points</td>
+    <td colspan="8">7 Story Points</td>
 </tr>
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
@@ -387,114 +424,239 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del Landing Page de la organización de GitHub.
 
-Para la entrega de este primer Sprint, se completó el desarrollo de la Landing Page. No obstante, no se llevaron a cabo pruebas relacionadas con la misma en esta entrega.
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
+
+| Repository                   | Branch | Commit Id                                 | Commit Message                                  | Commit Message Body | Commited on (Date) |
+|------------------------------|--------|-------------------------------------------|-------------------------------------------------|---------------------|--------------------|
+| HelpMom-AppWeb/landing-page  | main   | d822c4402e13fc950c43f25a2915f0f30c59cde3  | feat: added pricing plans.                      |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | 2db6b4c16b4cf4efe120070ad03a8cb6a181377c  | feat: added products, logo, fonts, banner image |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | 50756f6abfdd6d3649061387d2c5281548dda5fe  | feat: add contact.                              |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | e44f89b6f219466c6b48796457b9a890b4b7a777  | feat: added about us section with images        |                     | 20/04/2025         |
+| HelpMom-AppWeb/landing-page  | main   | a2d38d2dacd1732a2e1a48d8b888e2f2a1cf9eaf  | feat: add FAQ.                                  |                     | 20/04/2025         |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 Durante el desarrollo del sprint se lograron completar todos los puntos planteados.
 A continuación se muestran evidencias del landing page logrado.
 
-![l1](../../assets/l1.jpeg)
-
-![l2](../../assets\l2.jpeg)
-
-![l3](../../assets\l3.jpeg)
-
-![l4](../../assets\l4.jpeg)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png) 
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En este sprint solo realizamos el landing page
+Como se mencionó previamente, Este sprint solo tuvo como objetivo el desarrollo de Landing Page. Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para el despliegue de la Landing Page, utilizamos GitHub Pages como herramienta para realizar el deployment. Creamos un repositorio donde almacenamos el código de nuestra Landing Page.
+Durante este Sprint, se completó el desarrollo de la Landing Page y se realizó su despliegue utilizando GitHub Pages como plataforma de publicación gratuita. El objetivo fue contar con una primera versión accesible en línea del producto digital para revisión y retroalimentación.
 
-### Final-Report
-![ReportFinal.jpg](../../assets/ReportFinal.jpg)
+Actividades realizadas:
+Se creó el repositorio en GitHub: https://github.com/HelpMom-AppWeb/landing-page
 
-### Landing-Page
-![LandingPage.jpg](../../assets/LandingPage.jpg)
+Se subió el código fuente de la Landing Page, incluyendo los archivos HTML, CSS necesarios.
 
-Una vez creado el repositorio, accedimos a la configuración y seleccionamos la sección de Pages. En este apartado, ingresamos los datos necesarios, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporcionó un enlace y publicó nuestra Landing Page en la web.
+Se configuró GitHub Pages desde la pestaña Settings > Pages, seleccionando la rama principal y la carpeta raíz.
 
-### Final-Report-Pages
-![FinalReportPages.jpg](../../assets/FinalReportPages.jpg)
+Se verificó la correcta publicación de la Landing Page en la siguiente URL:
 
-### Landing-Page-Pages
-![LandingPagePages.jpg](../../assets/LandingPagePages.jpg)
+🔗 Landing Page desplegada: https://helpmom-appweb.github.io/landing-page/
+
+**Evidencia del despliegue:**
+![img.png](img.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 
-A continuación se adjuntara las evidencias de trabajo en equipo que tuvimos durante esta TB1:
+🔗 Repositorio de Landing Page: https://github.com/HelpMom-AppWeb/landing-page
 
-![Grafico commits.jpg](../../assets/GraficoCommits.jpg)
+#### Capturas de Insights del repositorio:
+![img_1.png](img_1.png)
 
-![Grafico personal de commits.jpg](../../assets/GraficoPersonalCommits.jpg)
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+Para este segundo sprint nos enfocaremos en los tasks para la
+elaboración del frontend. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-05</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Alejandro Rivera Ayala</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Romina Guadalupe Maita Falckenheiner, Gabriel Cristian Mamani Marca, Camila Asuncion Reyes Menacho, Gabriel Alejandro Rivera Ayala, Stephano Jose Espinoza Cueva</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En este segundo sprint todos los integrantes estuvieron presentes y aceptaron la asignación de tareas de cada uno para las correcciones con respecto al primer entregable. Así mismo, también se establecieron los alcances que tendrá la primera versión del frontend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido. Siendo el domingo 12/05/2025 la fecha máxima para culminar cada uno su aporte al frontend. </td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">
+Desarrollar y desplegar una primera versión del frontend con las características más fundamentales con relación al negocio, con la finalidad de que los usuarios puedan interactuar con una interfaz funcional, validar los flujos principales del sistema y brindar retroalimentación temprana que permita ajustar el desarrollo de las siguientes iteraciones. </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"> Story Points</td>
+</tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: UX/UI Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend Leader (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | L                                             | C                                              | C                                                | C                                       |
+| Reyes Camila                       | dakuma-ai       | C                                                    | C                                             | C                                              | C                                                | L                                       |
+| Cueva Stephano                     | Stephanoescu    | C                                                    | C                                             | L                                              | C                                                | C                                       |
+| Maita Romina                       | RominaMaita     | C                                                    | C                                             | C                                              | L                                                | C                                       |
+| Mamani Gabriel                     | Gabrlel0105     | L                                                    | C                                             | C                                              | C                                                | C                                       |
+
+
+#### 5.2.2.3. Sprint Backlog 2.
+| User Story ID | Title                          | Task ID | Title | Description | Estimation | Assigned to | Status (To-do) |
+|---------------|--------------------------------|---------|-------|-------------|------------|-------------|----------------|
+|               | Ingreso de recetas médicas     |         |       |             |            |             | Done           |
+|               | Añadir instrucciones a recetas |         |       |             |            |             | Done           |
+|               | Historial de recetas           |         |       |             |            |             | Done           |
+|               |                                |         |       |             |            |             | Done           |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias del frontend.
+
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Netlify como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
+
+Actividades realizadas:
+Se creó una cuenta en Netlify y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se subió el código fuente del frontend al repositorio de GitHub:
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+Se configuró el despliegue automático desde Netlify seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
+
+Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
+
+🔗 Frontend desplegado en Netlify:
+
+Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
+
+#### Evidencias de despliegue:
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+#### Capturas de Insights del repositorio:
+![img_9.png](img_9.png)
 
 # Conclusiones
 
 
-
-El proyecto HelpMom, desarrollado por la startup WebExpert, representa una propuesta tecnológica de alto impacto social, orientada a mejorar la calidad de vida de madres gestantes y primerizas mediante una atención médica accesible, oportuna y personalizada. Concebido por estudiantes de la Universidad Peruana de Ciencias Aplicadas, este proyecto nace con una visión clara: utilizar la tecnología para empoderar a personas en situación de dependencia y facilitar su acceso a servicios de salud especializados.
-
-A lo largo de su desarrollo, HelpMom ha evidenciado un enfoque sólido centrado en el usuario y en la mejora continua. La aplicación ofrece funcionalidades clave como el seguimiento de signos vitales, la gestión de citas médicas para pacientes y doctores, un sistema de mensajería en tiempo real entre madres y obstetras, y la emisión y visualización del historial de recetas médicas. Estas características no solo responden a necesidades reales de los usuarios, sino que también potencian la eficiencia de los profesionales de la salud en su labor diaria.
-
-La implementación técnica del proyecto se realizó utilizando Vue.js como framework principal, siguiendo los principios de Domain Driven Design (DDD) para una arquitectura robusta y escalable. La metodología de trabajo adoptada fue Scrum, lo que permitió dividir el proyecto en iteraciones planificadas (sprints) que facilitaron la entrega continua de valor y la colaboración efectiva entre los miembros del equipo.
-
-Cada historia de usuario (HU) fue cuidadosamente desarrollada y validada. Por ejemplo, el seguimiento de signos vitales (HU20) fue abordado mediante formularios interactivos y tarjetas de resumen que muestran datos críticos como ritmo cardíaco, temperatura, peso y saturación de oxígeno. Por otro lado, funcionalidades como la gestión de citas (HU23 y HU24) brindan herramientas tanto para los doctores como para las pacientes, garantizando una agenda organizada y visible desde ambas perspectivas. La incorporación del chat directo entre madres y obstetras (HU17) refuerza el acompañamiento constante, promoviendo un entorno de comunicación fluido y confiable.
-
-La sección de recetas médicas (HU10, HU11 y HU12) permite a los profesionales emitir indicaciones claras y llevar un historial digital accesible, contribuyendo a una atención más segura y documentada.
-
-El equipo de desarrollo demostró un alto grado de compromiso, coordinación y cumplimiento de objetivos. Todas las unidades de trabajo (UT) asignadas fueron completadas dentro del tiempo estimado, lo que refleja una planificación eficiente y un dominio adecuado de las herramientas tecnológicas utilizadas. Asimismo, la claridad en los roles y la adecuada documentación generada durante el proceso fortalecieron la trazabilidad y calidad del producto final.
-
-En conjunto, HelpMom no solo cumple con su objetivo funcional, sino que también se erige como una solución tecnológica innovadora que puede escalar y adaptarse a nuevas necesidades en el ámbito de la salud digital
-
-
-Recomendaciones
-
-Para optimizar el desempeño del equipo en el proyecto, es crucial adoptar una estrategia de comunicación efectiva. Realizar llamadas regulares y videoconferencias permite mantener al equipo alineado y facilita la resolución de problemas en tiempo real. Este enfoque asegura que todos los miembros estén informados y comprometidos con el progreso del proyecto.
-
-La organización también es clave. Establecer un calendario claro desde el inicio, con hitos bien definidos y plazos específicos, ayuda a cada miembro del equipo a gestionar su tiempo de manera eficiente. Utilizar herramientas de gestión de proyectos facilita la visualización de tareas pendientes y completadas, lo que permite un mejor seguimiento del avance y la identificación temprana de posibles retrasos o cuellos de botella.
-
-Además, es importante realizar revisiones periódicas del trabajo en conjunto. Estas revisiones deben ser constructivas y orientadas a la mejora continua. Cada miembro del equipo debe tener la oportunidad de ofrecer y recibir retroalimentación, lo que no solo ayuda a corregir errores, sino que también promueve un ambiente de respeto y aprendizaje mutuo. Esta práctica mejora la calidad del trabajo entregado y refuerza la cohesión del equipo, creando una atmósfera de colaboración efectiva y apoyo constante.
 # Video About-the-Team.
-
-
 
 # Bibliografía
 
-
-
-- Instituto Nacional de Estadística e Informática. (2023). *Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos*. [https://www.inei.gob.pe](https://www.inei.gob.pe)
-
-- Instituto Nacional de Estadística e Informática. (2021). *Salud Materna*. En D. Bonnet (Ed.), *Encuesta Demográfica y de Salud Familiar*. [https://www.inei.gob.pe](https://www.inei.gob.pe)
-
-- Vue.js. (2024). *Vue.js - The Progressive JavaScript Framework*. [https://vuejs.org/guide/introduction.html](https://vuejs.org/guide/introduction.html)
-
-- PrimeVue. (2024). *PrimeVue - UI Component Library for Vue 3*. [https://www.primevue.org/](https://www.primevue.org/)
-
-- Brown, S. (2020). *The C4 Model for Visualising Software Architecture*. [https://c4model.com](https://c4model.com)
-
-- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley. [https://domainlanguage.com/ddd/](https://domainlanguage.com/ddd/)
-
-- Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley. [https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/](https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/)
-
-- Netlify. (2024). *Netlify Documentation*. [https://docs.netlify.com/](https://docs.netlify.com/)
+- Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos.
+- Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*.
+- Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
+- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
 
 # Anexos
 
-- Enlace para acceder a la landing page: [Ver enlace](https://helpmom-appweb.github.io/landing-page/)
-- Enlace para acceder la aplicación web: [Ver enlace](http://helpmom.netlify.app/)
-- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u201921442_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201921442%5Fupc%5Fedu%5Fpe%2FDocuments%2FWebApp%5Fentrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9b7e7706%2D0faa%2D450f%2D9845%2D868a913c548f)
-- Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/EdKLWsomPGdBqh83-87y5KABLk2a2FeA2el5nmr4EPXRkA?e=kQ5cY4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Video exposición TP: [Ver enlace]()
-- Enlace del proyecto en Github: [Ver enlace](https://github.com/HelpMom-AppWeb)
-- Repositorio GitHub Informes: [Ver enlace](https://github.com/HelpMom-AppWeb/final-report)
-- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/HelpMom-AppWeb/landing-page)
-- Repositorio GitHub Aplicacion Frontend: [Ver enlace](https://github.com/HelpMom-AppWeb/HelpMom-frontend)
-- Enlace para acceder al figma de Aplicacion Web y LandingPage: [Ver enlace](https://www.figma.com/design/CgL9dyaLJIA5rMKlIDgF4v/UX-UI-DESIGN-WEB?node-id=0-1&t=7P3YK776qURrpcW3-1)
+### VIDEOS:
 
+| Título                  | Descripción                                        | Enlace |
+|-------------------------|----------------------------------------------------|--------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |  
 
+### DIAGRAMAS:
+**Anexo B: Diagrama de clases**<br>
+
+| Título                    | Descripción                                                 | Enlace                       |
+|---------------------------|-------------------------------------------------------------|------------------------------|
+| Diagrama de base de datos | Enlace al diagrama de base de datos realizado en Lucidchart | https://acortar.link/kMZcZN  | 
+| Diagrama de clases        | Enlace al diagrama clases realizado en Lucidchart           | https://acortar.link/xGf9sy  | 
+
+### UX/UI
+| Título | Descripción                                                                                                | Enlace                       |
+|--------|------------------------------------------------------------------------------------------------------------|------------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/osskj2  | 
+
+### GITHUB
+
+| Título       | Descripción                            | Enlace                                              |
+|--------------|----------------------------------------|-----------------------------------------------------|
+| Reporte      | Enlace al repositorio del reporte      | https://github.com/HelpMom-AppWeb/final-report      |
+| Landing Page | Enlace al repositorio del Landing Page | https://github.com/HelpMom-AppWeb/landing-page      |
+| Frontend     | Enlace al repositorio del frontend     | https://github.com/HelpMom-AppWeb/HelpMom-frontend  |
 
