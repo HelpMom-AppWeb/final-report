@@ -397,6 +397,8 @@ Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df24
 
 ## 4.8. Database Design.
 
+En esta seccion especificaremos la especificacion de la organizacion para la base de datos de nuestra solucion.
+
 ### 4.8.1. Database Diagram.
 ![Database Diagram](../../assets/chapter-4/Diagrama_DB.png)
 
