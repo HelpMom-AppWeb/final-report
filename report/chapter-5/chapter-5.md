@@ -551,12 +551,19 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 
 
 #### 5.2.2.3. Sprint Backlog 2.
-| User Story ID | Title                          | Task ID | Title | Description | Estimation | Assigned to | Status (To-do) |
-|---------------|--------------------------------|---------|-------|-------------|------------|-------------|----------------|
-|               | Ingreso de recetas médicas     |         |       |             |            |             | Done           |
-|               | Añadir instrucciones a recetas |         |       |             |            |             | Done           |
-|               | Historial de recetas           |         |       |             |            |             | Done           |
-|               |                                |         |       |             |            |             | Done           |
+| User Story |                                           | Work-item/task |                                 |                                                                                                                                         |            |                   |                |
+|------------|-------------------------------------------|----------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|
+| ID         | Title                                     | ID             | Title                           | Description                                                                                                                             | Estimation | Assigned to       | Status (To-do) |
+| HU20       | Seguimiento de signos vitales             | UT01           | Formulario de ingreso de datos  | Crear un formulario con los campos requeridos (ritmo cardiaco, temperatura, peso, saturación de oxígeno) y validar ingreso de los datos | 1h         | Romina            | Done           |
+|            |                                           | UT02           | Diseño de tarjeta de resumen    | Mostrar la información que el paciente ingresa a través de un card.                                                                     | 1h         | Romina            | Done           |
+|            |                                           |                |                                 |                                                                                                                                         |            |                   |                |
+| HU23       | Gestión de citas medicas de los doctores  | UT03           | Formulario de ingreso de citas  | Crear un formulario donde el doctor pueda agregar y editar citas para distintos pacientes                                               | 2h         | Camila Reyes      | Done           |
+| HU24       | Gestión de citas medicas de los pacientes | UT04           | Calendario de citas médicas     | Mostrar las citas próximas del paciente                                                                                                 | 3h         | Camila Reyes      | Done           |
+| HU17       | chat entre obstetra y madre               | UT05           | Envio de mensaje                | Como madre, quiero enviar un mensaje a una doctora para comunicarme con ella.                                                           | 2H         | Gabriel Mamani    | Done           |
+|            |                                           |                |                                 |                                                                                                                                         |            |                   |                |
+| HU10       | Ingreso de recetas médicas                | UT06           | Formulario de ingreso de receta | como obstetra quiero dar una receta a la paciente                                                                                       | 2h         | Stephano Espinoza | Done           |
+| HU11       | Añadir instrucciones                      | UT06           | Campo de instrucciones médicas  | Permitir al obstetra añadir instrucciones especificas en la receta medica                                                               | 1h         | Stephano Espinoza | Done           |
+| HU12       | Historial de recetas                      | UT06           | Modulo de historial de recetas  | Mostrar un historial de todas las recetas emitidas a cada paciente                                                                      | 2h         | Stephano Espinoza | Done           |
 
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
@@ -565,13 +572,13 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
+| Repository                       | Branch                     | Commit Id                                 | Commit Message                                            | Commit Message Body | Commited on (Date) |
+|----------------------------------|----------------------------|-------------------------------------------|-----------------------------------------------------------|---------------------|--------------------|
+| HelpMom-AppWeb/HelpMom-frontend  | feature/patient-management | e3bf8e78879fb3d11a25920253f0770fc2530ca3  | feat: added add-patient component                         |                     | 10/05/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/medication         | a6f7b56924f4d7005f1de8a18908464ab556b21f  | feat: Medication front                                    |                     | 10/05/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/chat               | 76872b9d5f18d330513296116f34a15f26940273  | feat:chat mother                                          |                     | 10/05/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/baby-monitoring    | e12f1dab0cf585c8ef8332889951edbc8819e115  | feat(health-monitoring): add health monitoring component. |                     | 10/05/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/appointments       | 8cca0766099d592ed644d436b48bc7290a4586bc  | feat: add: patient appointments                           |                     | 10/05/2025         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
