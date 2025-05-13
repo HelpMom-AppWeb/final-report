@@ -175,7 +175,7 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
   re redacta esto siguiendo el mismo formato
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
-🔗 Enlace a la Landing Page desplegada:
+🔗 Enlace al Frontend desplegado: 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 En esta sección se detalla y evidencia la implementación de cada entregable de HelpMom.
@@ -240,15 +240,16 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Velocity</td>
-    <td colspan="8">4 story points</td>
+    <td colspan="8">7 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">4 Story Points</td>
+    <td colspan="8">7 Story Points</td>
 </tr>
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
@@ -424,7 +425,7 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
-Estos commits provienen del repositorio del frontend de la organización de GitHub.
+Estos commits provienen del repositorio del Landing Page de la organización de GitHub.
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
 
@@ -477,7 +478,145 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 #### Capturas de Insights del repositorio:
 ![img_1.png](img_1.png)
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+Para este segundo sprint nos enfocaremos en los tasks para la
+elaboración del frontend. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-05</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Alejandro Rivera Ayala</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Romina Guadalupe Maita Falckenheiner, Gabriel Cristian Mamani Marca, Camila Asuncion Reyes Menacho, Gabriel Alejandro Rivera Ayala, Stephano Jose Espinoza Cueva</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En este segundo sprint todos los integrantes estuvieron presentes y aceptaron la asignación de tareas de cada uno para las correcciones con respecto al primer entregable. Así mismo, también se establecieron los alcances que tendrá la primera versión del frontend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido. Siendo el domingo 12/05/2025 la fecha máxima para culminar cada uno su aporte al frontend. </td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">
+Desarrollar y desplegar una primera versión del frontend con las características más fundamentales con relación al negocio, con la finalidad de que los usuarios puedan interactuar con una interfaz funcional, validar los flujos principales del sistema y brindar retroalimentación temprana que permita ajustar el desarrollo de las siguientes iteraciones. </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"> Story Points</td>
+</tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: UX/UI Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend Leader (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | L                                             | C                                              | C                                                | C                                       |
+| Reyes Camila                       | dakuma-ai       | C                                                    | C                                             | C                                              | C                                                | L                                       |
+| Cueva Stephano                     | Stephanoescu    | C                                                    | C                                             | L                                              | C                                                | C                                       |
+| Maita Romina                       | RominaMaita     | C                                                    | C                                             | C                                              | L                                                | C                                       |
+| Mamani Gabriel                     | Gabrlel0105     | L                                                    | C                                             | C                                              | C                                                | C                                       |
+
+
+#### 5.2.2.3. Sprint Backlog 2.
+| User Story ID | Title                          | Task ID | Title | Description | Estimation | Assigned to | Status (To-do) |
+|---------------|--------------------------------|---------|-------|-------------|------------|-------------|----------------|
+|               | Ingreso de recetas médicas     |         |       |             |            |             | Done           |
+|               | Añadir instrucciones a recetas |         |       |             |            |             | Done           |
+|               | Historial de recetas           |         |       |             |            |             | Done           |
+|               |                                |         |       |             |            |             | Done           |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+|            |        |           |                |                     |                    |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias del frontend.
+
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Netlify como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
+
+Actividades realizadas:
+Se creó una cuenta en Netlify y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se subió el código fuente del frontend al repositorio de GitHub:
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+Se configuró el despliegue automático desde Netlify seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
+
+Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
+
+🔗 Frontend desplegado en Netlify:
+
+Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
+
+#### Evidencias de despliegue:
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+#### Capturas de Insights del repositorio:
+![img_9.png](img_9.png)
+
 # Conclusiones
+
 
 # Video About-the-Team.
 
@@ -485,6 +624,11 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 
 - Instituto Nacional de Estadística e Informática. (2023) Estadísticas Vitales: Nacimientos, Defunciones, Matrimonios y Divorcios, 2022. Registros Administrativos.
 - Instituto Nacional de Estadística e Informática. (2021) Salud Materna. En D. Bonnet (2021), *Encuesta Demográfica y de Salud Familiar*.
+- Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
+- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
 
 # Anexos
 
