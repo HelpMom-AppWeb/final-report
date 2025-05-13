@@ -138,6 +138,24 @@ El desafío principal que enfrentamos es generar confianza en madres y padres pr
 - El mayor riesgo para la usuaria es:
   que la plataforma no le brinde confianza en los profesionales o que no logre cumplir sus expectativas en cuanto a facilidad de uso o respuesta rápida.
 
+### User Outcomes
+- Apoyo médico accesible y confiable: Las usuarias podrán resolver dudas médicas y recibir orientación directa desde su celular, lo que les dará mayor seguridad durante el embarazo.
+
+- Seguimiento personalizado y preventivo: Las gestantes podrán planificar mejor sus controles, evitando omisiones que puedan afectar su salud o la del bebé.
+
+- Educación clara y contextualizada: Recibirán consejos adaptados a su etapa gestacional, lo que facilitará una mejor preparación para el parto y el cuidado neonatal.
+
+- Reducción de ansiedad y estrés: El acompañamiento constante mediante notificaciones, recordatorios y acceso al historial reducirá la incertidumbre.
+
+### Business Outcomes
+- Conversión de prueba gratuita a planes pagos: Se espera que al menos un 30% de las usuarias que inicien la prueba gratuita se conviertan en suscriptoras del Plan Cuidado Integral tras 14 días de uso.
+
+-  mensual mayor al 50% en el primer semestre: El objetivo es lograr una base sólida de usuarias que renueven su suscripción mensualmente gracias a una experiencia positiva.
+
+-  como plataforma confiable: Que el 80% de las usuarias calificadas afirmen que usarían HelpMom nuevamente en otro embarazo o lo recomendarían a otras madres.
+
+- Alianzas con centros médicos o redes de obstetras: Alcanzar al menos 10 alianzas en los primeros seis meses, que permitan escalar el acceso a nuevos perfiles médicos certificados.
+
 
 
 
