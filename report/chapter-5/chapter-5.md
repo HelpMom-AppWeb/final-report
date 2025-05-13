@@ -671,3 +671,32 @@ Además, es importante realizar revisiones periódicas del trabajo en conjunto. 
 
 # Anexos
 
+### VIDEOS:
+
+| Título                  | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://upcedupe-my.sharepoint.com/personal/u202220659_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202220659_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4395-webexperts-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6f410bfd-87bb-4d31-bcc6-00010b70203d |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/EaKJm3yMbr1Hjs1ISZUNhQkB_Htp8AnBuX3x71Bw7ap7WQ?e=e9ZcA6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                                                                                                                                     |  
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?e=FSuHrp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                                                                                                                                     |  
+
+### DIAGRAMAS:
+**Anexo B: Diagrama de clases**<br>
+
+| Título                    | Descripción                                                 | Enlace                       |
+|---------------------------|-------------------------------------------------------------|------------------------------|
+| Diagrama de base de datos | Enlace al diagrama de base de datos realizado en Lucidchart | https://acortar.link/TOZzG4  | 
+| Diagrama de clases        | Enlace al diagrama clases realizado en Lucidchart           | https://acortar.link/TOZzG4  | 
+
+### UX/UI
+| Título | Descripción                                                                                                | Enlace                                                                                                 |
+|--------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://www.figma.com/design/CgL9dyaLJIA5rMKlIDgF4v/UX-UI-DESIGN-WEB?node-id=0-1&t=7P3YK776qURrpcW3-1  | 
+
+### GITHUB
+
+| Título       | Descripción                            | Enlace                                             |
+|--------------|----------------------------------------|----------------------------------------------------|
+| Organización | Enlace al la organización HelpMom      | https://github.com/HelpMom-AppWeb/final-report     |
+| Reporte      | Enlace al repositorio del reporte      | https://github.com/HelpMom-AppWeb/final-report     |
+| Landing Page | Enlace al repositorio del Landing Page | https://github.com/HelpMom-AppWeb/HelpMom-frontend |
+| Frontend     | Enlace al repositorio del frontend     | https://github.com/HelpMom-AppWeb/landing-page     |
