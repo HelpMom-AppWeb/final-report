@@ -649,7 +649,6 @@ Además, es importante realizar revisiones periódicas del trabajo en conjunto. 
 
 # Video About-the-Team.
 
-# Bibliografía
 
 ## Bibliografía
 
