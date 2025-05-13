@@ -377,7 +377,10 @@ Diagrama de cmponente de User Managment
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-![Class Diagrams](../../assets/chapter-4/Diagrama_clase.png)
+![Class Diagrams](../../assets/chapter-4/cd1.png)
+![Class Diagrams](../../assets/chapter-4/cd2.png)
+![Class Diagrams](../../assets/chapter-4/cd3.png)
+![Class Diagrams](../../assets/chapter-4/cd4.png)
 
 Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=355%2C-1059%2C5568%2C2702%2COMP.TpOaBXWe&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
 
