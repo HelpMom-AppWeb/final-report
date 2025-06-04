@@ -510,56 +510,34 @@ Segmento Doctores
 
 ## 2.4. Ubiquitous Language.
 
-El Lenguaje Ubicuo es un pilar esencial dentro del enfoque de Domain-Driven Design (DDD), ya que promueve una comunicación precisa y uniforme entre todos los miembros del equipo y las partes interesadas. Este lenguaje establece una terminología compartida y bien definida sobre los elementos clave del dominio, lo que facilita la colaboración efectiva y asegura que todos estén alineados en la comprensión del sistema.
-A continuación, se describen los principales términos y conceptos definidos específicamente para el proyecto HelpMom
+- Patient (Paciente): Mujer gestante o madre primeriza que utiliza la plataforma para recibir atención médica, registrar información relacionada a su embarazo o estado postnatal, y monitorear la salud de su bebé.
 
-__Conceptos Principales__
+- Doctor (Doctor): Profesional de la salud (obstetra, matrona u otro especialista) encargado del seguimiento clínico de los pacientes. Puede agendar citas, emitir recetas, revisar signos vitales del bebé y comunicarse directamente con las madres a través del chat.
 
-* **Servicio:** Representa una función dentro del dominio que encapsula lógica importante sin estar ligada directamente a una entidad u objeto específico. Por ejemplo, agendar una cita médica desde la plataforma HelpMom.
+- Appointment (Cita): Espacio de tiempo programado para la atención entre el paciente y el doctor. Las citas pueden ser virtuales y están asociadas al historial médico.
 
-* **Evento de Dominio:** Suceso relevante que refleja un cambio significativo dentro del sistema, como cuando se registra un nuevo control prenatal o se actualiza el historial médico.
+- Medical History (Historial Médico): Registro acumulativo de la salud de la madre y el bebé, incluyendo parámetros vitales, evolución del embarazo, diagnósticos, recetas, y observaciones médicas.
 
-* **Repositorio:** Elemento que se encarga de gestionar el almacenamiento y recuperación de datos del dominio, ocultando la complejidad del acceso a la base de datos.
+- Signs (Signos Vitales): Indicadores clínicos del bebé monitoreados desde el sistema (frecuencia cardíaca, temperatura, respiración, etc.). Estos datos son accesibles tanto para el paciente como para el doctor.
 
-* **Objeto de Valor:** Información que describe atributos o propiedades, sin identidad propia, y que no cambia en el tiempo, como una combinación de fecha y hora para una cita médica.
+- Fetal Development (Desarrollo Fetal): Información sobre el crecimiento del feto, etapa gestacional y parámetros clave, disponible en el historial médico.
 
-* **Agregado:** Estructura compuesta por varios objetos que se gestionan como un bloque coherente, normalmente con un punto de entrada central, como el historial de atención de una gestante.
+- Fetal Heart Rate (Frecuencia Cardíaca Fetal): Registro específico del ritmo cardíaco del feto, útil para evaluar su bienestar. Se muestra en tiempo real o mediante reportes.
 
-* **Entidad:** Objeto principal dentro del dominio que se distingue por su identidad única, independientemente de los datos que contenga, como una usuaria o una profesional de salud en HelpMom.
+- Summary of Parameters (Resumen de Parámetros): Vista consolidada de los datos del bebé o la gestante, incluyendo signos vitales, desarrollo fetal y otros indicadores médicos clave.
 
-__Terminos Especificos__
+- Medication (Medicación): Tratamientos prescritos por el doctor. Se incluye el nombre del medicamento, dosis, frecuencia, y recordatorios asociados.
 
-* **HelpMom:** Es una plataforma cuya función principal es permitir que madres gestantes y primerizas reciban atención médica directa de profesionales especializados a través de la aplicación. Las usuarias pueden elegir al doctor u obstetra que mejor se adapte a sus necesidades, consultando perfiles, tarifas y valoraciones. Además, se genera un historial médico virtual que se actualiza con cada consulta, facilitando un seguimiento continuo del estado de salud de la madre y el bebé.
+- Prescription (Receta): Documento generado por el doctor con las indicaciones del tratamiento. Forma parte del historial médico del paciente.
 
-* **Wireframe:** Es un esquema visual que indica la organización de los elementos dentro de las interfaces de usuario de la plataforma, crucial para la creación del diseño de UI.
+- Chat (Chat Médico): Canal de comunicación directa entre paciente y doctor para resolver dudas, emitir recomendaciones o realizar seguimiento entre citas.
 
-* **Landing Page:** Es la página principal que los usuarios ven al acceder al sitio, diseñada para convertir visitantes en usuarios registrados, resaltando las ventajas y beneficios clave de la plataforma.
+- Reminder (Recordatorio): Notificación automática que alerta al paciente sobre citas, controles médicos, vacunas o toma de medicamentos.
 
-* **Mock-up:** Son prototipos preliminares de las funcionalidades dentro de la plataforma **HelpMom**, utilizados para la demostración y validación del diseño antes de su implementación final.
+- Health Tips (Consejos de Salud): Contenido personalizado según la etapa del embarazo o postparto, brindando orientación médica, emocional y práctica.
 
-* **User Persona:** Son representaciones ficticias de diferentes grupos de usuarios, basadas en datos demográficos, que guían tanto el diseño de la interfaz como el desarrollo de funcionalidades de la plataforma.
+- Monitoring (Monitoreo): Proceso continuo de seguimiento de los signos vitales del bebé, evolución del embarazo, y adherencia al tratamiento médico.
 
-* **Sprint Review:** Son reuniones periódicas en las que se presenta el avance del proyecto a los stakeholders, mostrando nuevas características implementadas y revisando las tareas que están en proceso.
+- Doctor Dashboard (Panel del Doctor): Vista general del sistema donde los doctores pueden revisar pacientes, consultar historial médico, acceder al chat, emitir recetas y gestionar citas.
 
-__Términos Adicionales del Dominio Específico__
-
-* **Lean UX Canvas:** Herramienta visual que ayuda a definir y organizar los elementos fundamentales del proceso de diseño y desarrollo del producto, incluyendo problemas, soluciones, suposiciones y métricas de éxito.
-
-* **Problem Statements:** Descripciones que identifican los principales desafíos que enfrentan los usuarios y sirven como guía para el diseño y desarrollo del producto.
-
-* **Hypothesis Statements:** Afirmaciones que reflejan creencias sobre cómo resolver los problemas identificados, estableciendo los criterios para medir el éxito del producto.
-
-* **Lean UX Process:** Enfoque de desarrollo centrado en la mejora del producto a través de la validación, el pensamiento y la acción, que incluye la identificación de problemas, suposiciones, hipótesis y el uso de lienzos para organizar ideas y estrategias.
-
-* **Plataforma de Preparación para Entrevistas Técnicas:** Un sistema en línea diseñado para ayudar a los programadores y desarrolladores a mejorar sus habilidades técnicas y prepararse para entrevistas laborales.
-
-* **Entrevistas Técnicas:** Son procesos de evaluación que utilizan las empresas tecnológicas para medir las habilidades técnicas y la idoneidad de los candidatos para un puesto específico.
-
-* **Recursos de Preparación:** Herramientas educativas y materiales que ayudan a mejorar las habilidades técnicas y a prepararse para entrevistas en el ámbito tecnológico.
-
-* **Usuarios Objetivo:** Son los grupos específicos a quienes se dirige el producto, tales como desarrolladores que buscan empleo y estudiantes de informática o carreras relacionadas.
-
-* **Valor Agregado:** Beneficios adicionales que ofrece la plataforma de preparación para entrevistas técnicas, como acceso a contenido exclusivo de empresas tecnológicas, oportunidades de reclutamiento integradas y sesiones de tutoría personalizadas.
-
-
-
+- Patient Profile (Perfil del Paciente): Información personal y médica básica del paciente, incluyendo nombre, etapa gestacional, condiciones previas y detalles de contacto.
