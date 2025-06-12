@@ -625,20 +625,37 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 # Conclusiones 
 
 ## Conclusiones
-El proyecto HelpMom, desarrollado por la startup WebExpert, representa una propuesta tecnológica de alto impacto social, orientada a mejorar la calidad de vida de madres gestantes y primerizas mediante una atención médica accesible, oportuna y personalizada. Concebido por estudiantes de la Universidad Peruana de Ciencias Aplicadas, este proyecto nace con una visión clara: utilizar la tecnología para empoderar a personas en situación de dependencia y facilitar su acceso a servicios de salud especializados.
+1. Alta demanda y pertinencia social: Existe una necesidad creciente de soluciones tecnológicas en salud materna, y HelpMom responde eficazmente a este contexto, con potencial de expansión a otras áreas de la salud digital.
 
-A lo largo de su desarrollo, HelpMom ha evidenciado un enfoque sólido centrado en el usuario y en la mejora continua. La aplicación ofrece funcionalidades clave como el seguimiento de signos vitales, la gestión de citas médicas para pacientes y doctores, un sistema de mensajería en tiempo real entre madres y obstetras, y la emisión y visualización del historial de recetas médicas. Estas características no solo responden a necesidades reales de los usuarios, sino que también potencian la eficiencia de los profesionales de la salud en su labor diaria.
+2. Propuesta diferenciada frente a competidores: A diferencia de muchas soluciones actuales, HelpMom ofrece un sistema integral con manejo eficiente de datos médicos, comunicación directa con especialistas y herramientas de seguimiento clínico.
 
-La implementación técnica del proyecto se realizó utilizando Vue.js como framework principal, siguiendo los principios de Domain Driven Design (DDD) para una arquitectura robusta y escalable. La metodología de trabajo adoptada fue Scrum, lo que permitió dividir el proyecto en iteraciones planificadas (sprints) que facilitaron la entrega continua de valor y la colaboración efectiva entre los miembros del equipo.
+3. Base académica con visión tecnológica clara: Desarrollado por estudiantes universitarios, el proyecto se sustenta en una visión clara: empoderar mediante la tecnología a mujeres gestantes y primerizas, en situaciones muchas veces vulnerables.
 
-Cada historia de usuario (HU) fue cuidadosamente desarrollada y validada. Por ejemplo, el seguimiento de signos vitales (HU20) fue abordado mediante formularios interactivos y tarjetas de resumen que muestran datos críticos como ritmo cardíaco, temperatura, peso y saturación de oxígeno. Por otro lado, funcionalidades como la gestión de citas (HU23 y HU24) brindan herramientas tanto para los doctores como para las pacientes, garantizando una agenda organizada y visible desde ambas perspectivas. La incorporación del chat directo entre madres y obstetras (HU17) refuerza el acompañamiento constante, promoviendo un entorno de comunicación fluido y confiable.
+4. Investigación centrada en el usuario: A lo largo del proceso, se demostró una preocupación genuina por entender a fondo las necesidades de usuarias y médicos, lo que guió decisiones clave de diseño y funcionalidad.
 
-La sección de recetas médicas (HU10, HU11 y HU12) permite a los profesionales emitir indicaciones claras y llevar un historial digital accesible, contribuyendo a una atención más segura y documentada.
+5. Funcionalidades prácticas y bien priorizadas:
 
-El equipo de desarrollo demostró un alto grado de compromiso, coordinación y cumplimiento de objetivos. Todas las unidades de trabajo (UT) asignadas fueron completadas dentro del tiempo estimado, lo que refleja una planificación eficiente y un dominio adecuado de las herramientas tecnológicas utilizadas. Asimismo, la claridad en los roles y la adecuada documentación generada durante el proceso fortalecieron la trazabilidad y calidad del producto final.
+- Registro y visualización de signos vitales.
 
-En conjunto, HelpMom no solo cumple con su objetivo funcional, sino que también se erige como una solución tecnológica innovadora que puede escalar y adaptarse a nuevas necesidades en el ámbito de la salud digital.
+- Gestión de citas médicas desde ambas perspectivas (médico y paciente).
 
+- Comunicación en tiempo real con obstetras.
+
+- Emisión y seguimiento de recetas médicas.
+
+6. Desarrollo ágil y planificado: Se aplicó la metodología Scrum con una buena distribución de user stories por sprint, permitiendo entregas ordenadas, evitando sobrecargas y mejorando el ritmo de desarrollo.
+
+7. Uso efectivo de herramientas tecnológicas: El uso de GitHub y Vue.js permitió una colaboración fluida, control de versiones eficiente y una arquitectura escalable basada en Domain Driven Design (DDD).
+
+8. Consistencia visual y experiencia de usuario: El proyecto mantuvo una coherencia visual sólida gracias al uso de guías de estilo, lo que contribuye a una experiencia más intuitiva y confiable para los usuarios.
+
+9. Compromiso y cumplimiento del equipo: Todas las tareas fueron ejecutadas dentro del tiempo previsto, lo que refleja una planificación realista, responsabilidad compartida y un ambiente de trabajo colaborativo.
+
+10. Adaptabilidad y escalabilidad: HelpMom no solo cumple su propósito inicial, sino que puede evolucionar fácilmente para abordar nuevas problemáticas o integrarse con otros sistemas de salud.
+
+11. Retroalimentación y mejora continua: Las reuniones periódicas y validaciones constantes permitieron incorporar mejoras durante el desarrollo, ajustando tanto aspectos técnicos como funcionales en función de la experiencia de los usuarios.
+
+12. Gestión de imprevistos y tareas pendientes: Se mostró capacidad de adaptación ante tareas no planificadas, estimando tiempos adicionales sin comprometer la entrega global del proyecto.
 ## Recomendaciones:
 
 Para optimizar el desempeño del equipo en el proyecto, es crucial adoptar una estrategia de comunicación efectiva. Realizar llamadas regulares y videoconferencias permite mantener al equipo alineado y facilita la resolución de problemas en tiempo real. Este enfoque asegura que todos los miembros estén informados y comprometidos con el progreso del proyecto.
