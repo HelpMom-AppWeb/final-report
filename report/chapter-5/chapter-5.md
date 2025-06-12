@@ -261,7 +261,7 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 
 #### 5.2.1.3. Sprint Backlog 1.
 
-<table border="1">
+<table   border="1">
   <tr>
     <th colspan="3">Sprint 1</th>
     <th colspan="10">Sprint 1</th>
@@ -688,6 +688,8 @@ El grupo realizó una recopilación en formato video con relación a sus outcome
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley. [https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/](https://www.oreilly.com/library/view/implementing-domain-driven/9780133039900/)
 
 - Netlify. (2024). *Netlify Documentation*. [https://docs.netlify.com/](https://docs.netlify.com/)
+
+- W3Schools. (2025). *C# Tutorial*. https://www.w3schools.com/cs/index.php
 
 # Anexos
 
