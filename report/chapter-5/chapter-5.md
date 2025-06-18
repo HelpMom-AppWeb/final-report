@@ -622,6 +622,45 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 #### Capturas de Insights del repositorio:
 ![img_9.png](img_9.png)
 
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de entrevistas
+
+#### 5.3.2. Registro de entrevistas
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+##### SITE A EVALUAR:
+
+Help-Mom
+
+##### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1.  Visualización de página.
+2.  Manejo de la pagina.
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                  |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     |              |
+| 2     |  |
+| 3     |         |
+| 4     |              |
+
+##### TABLA RESUMEN:
+
+| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                         |
+|---|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| 1 |  |              |       |
+| 2 |                 |              | |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+
 # Conclusiones 
 
 ## Conclusiones
