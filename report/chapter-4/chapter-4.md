@@ -6,6 +6,9 @@ En esta seccion se establecen las bases con las que realizaremos y organizaremos
 
 ### 4.1.1. General Style Guidelines.
 
+Esta sección define los lineamientos visuales fundamentales del proyecto, incluyendo la paleta de colores, tipografías y elementos gráficos.
+
+
 ![ColorGuideLine](../../assets/chapter-4/StyleGuidelines/ColorGuidelines.png)
 
 #### Colores cromáticos:
@@ -181,6 +184,8 @@ meta name="author" content="Camila Reyes, Stephano Espinoza, Gabrel Mamani, Romi
 
 ### 4.2.4. Searching Systems.
 
+Esta sección presenta el sistema de búsqueda implementado en la plataforma, diseñado para ser accesible y centrado en las necesidades del usuario.
+
 ***1. ¿Qué se busca?***
 
   Tiene como objetivo proporcionar soluciones tecnológicas accesibles y eficientes para personas en situación de dependencia, tales como mujeres embarazadas, personas de la tercera edad y personas con movilidad reducida. La búsqueda está orientada a mejorar la calidad de vida de los usuarios, brindándoles autonomía, seguridad y acceso a ayuda personalizada mediante una aplicación web que sea intuitiva y fácil de usar.
@@ -219,6 +224,9 @@ Dentro del perfil de doctoras:
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Branding. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
 
 ### 4.3.1. Landing Page Wireframe.
+
+Esta sección presenta el esquema visual inicial de la landing page en baja fidelidad, definiendo la disposición básica de los elementos clave como encabezado, secciones informativas, navegación y llamado a la acción, alineados con la identidad del proyecto.
+
 
 ![Landing page wireframe HomePage](../../assets/chapter-4/Landing_Page_wireframe.png)
 
@@ -289,6 +297,9 @@ User goal: Como doctora quiero anadir una receta a la lista de medicamentos para
 ![wflow25](../../assets/chapter-4/wflow2_4.png)
 
 ### 4.4.2. Web Applications Mock-ups.
+
+Esta sección muestra los diagramas de flujo visual que conectan wireframes entre sí, representando las rutas que siguen los usuarios dentro de la aplicación web según sus objetivos.
+
 
 Segmento madres:
 
@@ -373,7 +384,13 @@ Diagrama de componente de Patient Management
 
 ## 4.7. Software Object-Oriented Design.
 
+Esta sección presenta el diseño orientado a objetos del sistema, definiendo las clases principales, sus atributos y relaciones.
+
+
 ### 4.7.1. Class Diagrams.
+
+Presentamos nuestro diagrama de clases del sistema, donde se representa visualmente las entidades claves, sus atributos, métodos y relaciones.
+
 
 ![Class Diagrams](../../assets/chapter-4/cd2.png)
 
@@ -384,6 +401,9 @@ Diagrama de componente de Patient Management
 Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=355%2C-1059%2C5568%2C2702%2COMP.TpOaBXWe&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
 
 ### 4.7.2. Class Dictionary.
+
+Esta sección presenta un glosario detallado de las clases utilizadas en el sistema, especificando su propósito y los datos que manejan.
+
 * **Class Mother:** Representa a las madres en el sistema, con información como fecha de nacimiento y estado de embarazo.
 * **Class MedicalDocument:** Representa los documentos médicos subidos al sistema, como informes o análisis.
 * **Class Subscription:** Representa las suscripciones activas de los usuarios en la plataforma.
