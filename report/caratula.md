@@ -79,15 +79,18 @@ Para la realización de la Single Page Application, después de organizarnos a t
 
 Analíticos de colaboración:
 
-![](../assets/Insights_2_1.png)
-
-![](../assets/Insights_2_2.png)
+![img.png](img.png)
 
 Algunos commits realizados por los integrantes del equipo:
+![img_1.png](img_1.png)
 
-![](../assets/Insights_2_3.png)
+Entrega TB2:
+Para la realización del informe final, se asignaron las secciones del informe a cada integrante del equipo. Se realizaron reuniones diarias para discutir los avances y se utilizó el canal de discord para comunicarnos y resolver dudas.
 
-![](../assets/Insights_2_4.png)
+Analíticos de colaboración:
+
+
+Algunos commits realizados por los integrantes del equipo:
 
 # Contenido
 
