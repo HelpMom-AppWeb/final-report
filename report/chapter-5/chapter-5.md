@@ -796,6 +796,7 @@ Se presenta la documentación técnica de la API del sistema. La imagen muestra 
 ![img_25.png](img_25.png)
 ![img_26.png](img_26.png)
 ![img_27.png](img_27.png)
+![img_29.png](img_29.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se muestra la prueba de que el software fue desplegado exitosamente en el ambiente de producción. Se incluye tanto la confirmación del despliegue como el registro técnico del proceso.
