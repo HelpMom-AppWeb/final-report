@@ -726,8 +726,15 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 | Mamani Gabriel                     | Gabrlel0105     | C                                                  | C                                             | C                                           | C                                                   | L                                     |
 
 
+
+
 #### 5.2.3.3. Sprint Backlog 3.
+Para este sprint lo que usamos para organizaros mejor y no tener complicaciones fue trello:
+![img_trello](https://media.discordapp.net/attachments/1357524959861145633/1385323423429038120/image.png?ex=6855a67a&is=685454fa&hm=56a0e80c4158c6f7fdb31da0efa2658d6b85b73cb4105dd4574a73cdb541ef2c&=&format=webp&quality=lossless&width=1719&height=855)
+
 A continuación se muestra el Sprint Backlog del tercer sprint, donde se detallan las historias de usuario y los tasks asignados a cada integrante del equipo.
+
+
 
 | User Story |                                                                                                                           | Work-item/task |                                                               |                                                                                                                                                                                                                                                                                                                    |            |                   |                |
 |------------|---------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|
