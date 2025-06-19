@@ -179,8 +179,6 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 - Configurar la seguridad y la autenticación según los requisitos del sistema.
 - Documentar la API utilizando OpenAPI Specification para facilitar su integración y uso por parte de otros sistemas.
 
-🔗 Enlace a la backend deplegado: https://help-mom-platform.azurewebsites.net/swagger
-
 3. Frontend Web Applications:
 - Clonar repositorio desde GitHub.
 - Compilar y empaquetar las aplicaciones frontend. En nuestro caso, utilizamos el framework Vue.js, por lo que se debe ejecutar los comandos de construcción (`npm run build`) para generar los archivos estáticos.
@@ -707,11 +705,11 @@ Nuestro enfoque está en desarrollar una plataforma integral que facilite la int
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
-    <td colspan="8">15 story points</td>
+    <td colspan="8">8 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">15  Story Points</td>
+    <td colspan="8">8  Story Points</td>
 </tr>
 </table>
 
