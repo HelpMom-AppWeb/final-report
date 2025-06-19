@@ -168,6 +168,7 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 - Verificar que la Landing Page se cargue correctamente en el navegador.
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
+
 🔗 Enlace a la Landing Page desplegada: https://helpmom-appweb.github.io/landing-page/
 
 2. Web Services (API):
@@ -185,8 +186,19 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
   re redacta esto siguiendo el mismo formato
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
-🔗 Enlace al Frontend desplegado: 
 
+🔗 Enlace al Frontend desplegado: https://helpmom.netlify.app/
+
+4. Backend Web Applications:
+- Clonar el repositorio desde GitHub.
+- Configurar el entorno de desarrollo o producción, asegurando que todas las dependencias estén instaladas y configuradas correctamente.
+- Compilar el código fuente del backend, asegurándose de que no haya errores de compilación.
+- Desplegar el código compilado en un servidor adecuado, como un servidor web o un contenedor Docker.
+- Configurar la base de datos y cualquier otro servicio necesario para el funcionamiento del backend.
+
+🔗 Enlace al repositorio del Backend: https://github.com/HelpMom-AppWeb/HelpMom-Platform.git
+
+🔗 Enlace al Backend desplegado: 
 ## 5.2. Landing Page, Services & Applications Implementation.
 En esta sección se detalla y evidencia la implementación de cada entregable de HelpMom.
 
