@@ -90,7 +90,7 @@ Para la realización del informe final, se asignaron las secciones del informe a
 Analíticos de colaboración:
 
 ###### Reporte del proyecto en GitHub:
-
+![img_6.png](img_6.png)
 
 ###### Landing Page:
 ![img_3.png](img_3.png)
@@ -187,6 +187,30 @@ Analíticos de colaboración:
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 1](#521-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#521-sprint-3)
+      - [5.2.2.1. Sprint Planning 3](#5211-sprint-planning-3)
+      - [5.2.2.2. Sprint Backlog 3](#5212-sprint-backlog-3)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#523-validation-interviews) 
+      - [5.3.1. Diseño de Entrevistas](#5231-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#5232-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas](#5233-evaluaciones-segun-heuristicas)
+  - [5.4. Video About-the-Product.](#524-video-about-the-product)
+
 
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
