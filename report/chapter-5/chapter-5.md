@@ -942,6 +942,10 @@ Recomendación:
 * Implementar lógica de validación de horarios.
 * Mensaje claro: "El doctor ya tiene una cita programada en ese horario".
 
+# 5.4 Video About-the-Product
+![fondoproduct.jpeg](fondoproduct.jpeg)
+
+[Link del About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/EUuXaxj_drhCkyk-8uxlf-MB1yt1fSYTF6CkQI25aC77aw?e=4XqU1T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 # Conclusiones 
 
 1. Alta demanda y pertinencia social: Existe una necesidad creciente de soluciones tecnológicas en salud materna, y HelpMom responde eficazmente a este contexto, con potencial de expansión a otras áreas de la salud digital.
