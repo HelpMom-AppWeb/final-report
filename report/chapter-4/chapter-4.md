@@ -422,6 +422,6 @@ Esta sección presenta un glosario detallado de las clases utilizadas en el sist
 En esta seccion especificaremos la especificacion de la organizacion para la base de datos de nuestra solucion.
 
 ### 4.8.1. Database Diagram.
-![Database Diagram](../../assets/chapter-4/Diagrama_DB.png)
+![img_1.png](img_1.png)
 
-Link for LucidChart: https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=-3800%2C-3824%2C6488%2C3148%2C_OP.s7PTPVPg&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
+Link for LucidChart: https://lucid.app/lucidspark/b37a3b6c-0585-43dd-9dc1-a7749215e74d/edit?invitationId=inv_a7041472-ecb7-4d1e-a4fc-025532467388
