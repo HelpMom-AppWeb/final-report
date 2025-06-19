@@ -442,11 +442,11 @@ Estos commits provienen del repositorio del Landing Page de la organización de 
 Durante el desarrollo del sprint se lograron completar todos los puntos planteados.
 A continuación se muestran evidencias del landing page logrado.
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png) 
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![img_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_2.png?raw=true)
+![img_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_3.png?raw=true)
+![img_4.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_4.png?raw=true) 
+![img_5.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_5.png?raw=true)
+![img_6.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_6.png?raw=true)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
