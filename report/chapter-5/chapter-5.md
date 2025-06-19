@@ -625,10 +625,37 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 
 ### 5.3. Validation Interviews
 
+Para poder hacer una validación de nuestras entrevistas se empleará los siguientes recursos:
+
+#### Landing Page
+
+![landing_page.png](/assets/LandingPage_SS.png)
+
+#### FrontEnd Web Application
+![frontend.png](/assets/Frontend_SS.png)
+
 #### 5.3.1. Diseño de entrevistas
+
+Preguntas que se realizaran a los entrevistados:
+
+1. Después de ver nuestra Landing Page, ¿te dio curiosidad nuestro producto?
+2. ¿Te parece que la interfaz es amigable y fácil de usar?
+3. ¿Qué puntos o secciones de la página web llamaron más tu atención?
+4. ¿Qué aspectos del producto o de la página crees que se podrían mejorar?
+5. Para finalizar, ¿cuál es el mayor atractivo de nuestro producto para ti?
+
 
 #### 5.3.2. Registro de entrevistas
 
+      Entrevistada: Valeria Reyes
+        Fecha: 17 de Junio de 2025
+        Hora: 8:00 PM
+        Tuvimos la oportunidad de entrevistar a una madre usuaria de nuestro producto, quien destacó aspectos clave de su experiencia. Encontró la interfaz amigable y dinámica, con colores y diseño adecuados para el público materno.
+        Valoró especialmente funciones como el registro del peso del bebé y el calendario de citas médicas, que facilitan el seguimiento del embarazo. Sugirió añadir notificaciones personalizadas ("¿Cómo te sientes?") con posibilidad de interacción médica, lo que mejoraría el acompañamiento.
+        Destacó que la aplicación es accesible para madres de todas las edades y reúne en un solo lugar todas las herramientas necesarias. Agradecemos sus comentarios, que nos ayudarán a seguir mejorando el producto.
+        Nota clave: La usuaria enfatizó la importancia de un diseño intuitivo y funciones que brinden seguridad y organización durante el embarazo.
+
+**Video de validación de entrevista:**: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/ETdA2k-j82REltSFFyIsYVsBU_T3alHu67j5mgjrhA27vg?e=t9akZM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 #### 5.3.3. Evaluaciones según heurísticas
 
 ##### SITE A EVALUAR:
