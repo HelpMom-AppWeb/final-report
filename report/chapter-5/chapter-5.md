@@ -852,28 +852,71 @@ Help-Mom
 ##### TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.  Visualización de página.
-2.  Manejo de la pagina.
+1. Visualización de página. 
+2. Manejo de la página.
+3. Registro de datos del embarazo
+4. Uso de la sección "Seguimiento fetal"
+5. Programación y gestión de citas prenatales
+6. Chat entre doctores y pacientes
+7. Registro de recetas médicas
+8. Registro de pacientes nuevos
 
 ##### ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-| Nivel | Descripción                                                                                                                                                                                  |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     |              |
-| 2     |  |
-| 3     |         |
-| 4     |              |
+| Nivel | Descripción                                                                                                                                                                                |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: Fácilmente superable por el usuario o de ocurrencia mínima. No requiere corrección inmediata.          |
+| 2     | Problema menor: Frecuencia moderada o dificultad baja para el usuario. Prioridad baja en próximas actualizaciones.|
+| 3     | Problema mayor: Frecuente o difícil de resolver para el usuario. Prioridad alta para corrección.     |
+| 4     | Problema crítico: Impide el flujo del usuario. Debe corregirse antes del lanzamiento.           |
 
 ##### TABLA RESUMEN:
 
-| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                         |
-|---|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1 |  |              |       |
-| 2 |                 |              | |
+| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                        |
+|---|-------------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1 | El calendario de citas no sincroniza con Google Calendar/Outlook. | 3                   |    Compatibilidad con el mundo real   |
+| 2 | El chat médico no notifica mensajes no leídos.               | 3                   |Retroalimentación |
+| 3 | El registro de pacientes nuevos no valida datos en tiempo real | 3                   | Control y libertad del usuario                                                                                                                       |
+| 4 | El sistema no valida cruce de horarios al agendar citas | 3                   |               Control y libertad del usuario|
+
 
 ##### DESCRIPCIÓN DE PROBLEMAS:
 
+**Problema N°1:**
+
+Descripción: El calendario de citas no se sincroniza con herramientas externas (Google Calendar).
+Severidad: 3
+Heurística violada: Compatibilidad con el mundo real (Integración con flujos existentes).
+Recomendación:
+* Implementar integración con Google Calendar y Outlook.
+
+**Problema N°2:**
+
+Descripción: El chat médico no muestra notificaciones de mensajes no leídos.
+Severidad: 3
+Heurística violada: Retroalimentación (Usuarios deben saber cuándo hay respuestas).
+Recomendación:
+* Notificaciones en tiempo real (sonido, badge en el ícono del chat).
+* Historial de conversaciones con marca de "leído/no leído".
+
+**Problema N°3:**
+
+Descripción: El registro de pacientes nuevos no valida datos críticos (correo duplicado, RFC inválido).
+Severidad: 3
+Heurística violada: Control y libertad del usuario (Evitar errores irreversibles).
+Recomendación:
+* Validación en tiempo real con base de datos.
+* Mensajes claros: "Este correo ya está registrado".
+
+**Problema N°4:**
+
+Descripción: El sistema no valida el cruce de horarios al agendar citas médicas.
+Severidad: 3
+Heurística violada: Control y libertad del usuario (Evitar errores irreversibles).
+Recomendación:
+* Implementar lógica de validación de horarios.
+* Mensaje claro: "El doctor ya tiene una cita programada en ese horario".
 
 # Conclusiones 
 
