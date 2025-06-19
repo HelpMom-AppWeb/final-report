@@ -629,10 +629,10 @@ Para poder hacer una validación de nuestras entrevistas se empleará los siguie
 
 #### Landing Page
 
-![landing_page.png](/assets/LandingPage_SS.png)
+![landing_page.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/assets/LandingPage_SS.png?raw=true)
 
 #### FrontEnd Web Application
-![frontend.png](/assets/Frontend_SS.png)
+![frontend.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/assets/FrontEnd_SS.png?raw=true)
 
 #### 5.3.1. Diseño de entrevistas
 
@@ -647,6 +647,8 @@ Preguntas que se realizaran a los entrevistados:
 
 #### 5.3.2. Registro de entrevistas
 
+Entrevista 1:
+
       Entrevistada: Valeria Reyes
         Fecha: 17 de Junio de 2025
         Hora: 8:00 PM
@@ -655,7 +657,19 @@ Preguntas que se realizaran a los entrevistados:
         Destacó que la aplicación es accesible para madres de todas las edades y reúne en un solo lugar todas las herramientas necesarias. Agradecemos sus comentarios, que nos ayudarán a seguir mejorando el producto.
         Nota clave: La usuaria enfatizó la importancia de un diseño intuitivo y funciones que brinden seguridad y organización durante el embarazo.
 
-**Video de validación de entrevista:**: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/ETdA2k-j82REltSFFyIsYVsBU_T3alHu67j5mgjrhA27vg?e=t9akZM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Entrevista 2:
+
+      Entrevistada: Laura Mendez
+        Fecha: 18 de Junio de 2025
+        Hora: 8:00 PM
+         Se entrevisto a Laura Méndez, ginecóloga de 35 años, quien evaluó nuestra plataforma desde su perspectiva profesional. Destacó el enfoque integrado del producto, diseñado para facilitar el manejo del cuidado parental y el seguimiento médico durante el embarazo.
+         La doctora encontró la interfaz intuitiva y bien organizada, resaltando funcionalidades clave como los gráficos de desarrollo fetal, la gestión de citas médicas y la trazabilidad completa de los controles prenatales. Estas herramientas, según mencionó, optimizan el tiempo de los profesionales y mejoran la atención clínica.
+         Como sugerencias de mejora, propuso incorporar videoconsultas integradas y alertas más detalladas basadas en protocolos médicos, lo que enriquecería la experiencia tanto para médicos como para pacientes.
+         Agradecemos sus valiosos comentarios, que nos ayudarán a seguir perfeccionando la plataforma.
+         Nota clave: La profesional destacó la importancia de una plataforma eficiente, con herramientas claras y organizadas, que permitan a los médicos dedicar más tiempo a la atención directa de sus pacientes.
+
+
+**Video de validación de entrevista:**: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EXcncLBZFmNMmkwecAqRMlcB4tYEFfjvY8jIbK6ybQJQZA?e=fbKYMU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 #### 5.3.3. Evaluaciones según heurísticas
 
 ##### SITE A EVALUAR:
