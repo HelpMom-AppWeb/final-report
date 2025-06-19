@@ -4,7 +4,7 @@
 ## Aplicaciones Web - Presencial
 ## PROFESOR: Ángel Augusto
 ## Sección: 1ASI0730
-## INFORME TP
+## INFORME TB2
 ## START UP: WebExperts
 ## PRODUCTO: HelpMom
 
@@ -47,11 +47,11 @@ Ciclo 2025-01
 
 # Registro de versiones del informe
 
-| Versión | Fecha      | Autor          | Descripción de modificación                                                                                                                                                        |
-|---------|------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 2025/04/23 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita | Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.                                                                                           |
-| TP      | 2025/04/26 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita | Realizamos correcciones con respecto al primer entregable y se avanzó con el Sprint 2, donde incluimos la finalización del Landing Page y la primera versión del Web Application.  |
-
+| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                                                                                       |
+|---------|------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 2025/04/23 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.                                                                                          |
+| TP      | 2025/04/26 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones con respecto al primer entregable y se avanzó con el Sprint 2, donde incluimos la finalización del Landing Page y la primera versión del Web Application. |
+| TB2     | 2025/06/18 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones sobre el trabajo parcial y se agregó la documentación de las entrevistas de validación y                                                                  |                                                                                                                                                                                   |
 
 # Project Report Collaboration Insights
 
