@@ -219,7 +219,7 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 El backend fue realizado de manera grupal utilizando el framework ASP.NET Core.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
 
-![backEndDeploy_1.png](/report/chapter-5/Deploy_Base_1.png)
+![backEndDeploy_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Deploy_Base_1.png?raw=true)
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
