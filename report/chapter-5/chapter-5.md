@@ -788,15 +788,17 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
-
+Se demuestra que la aplicación y su base de datos están funcionando correctamente. Se observan consultas de datos exitosas y la consola del servidor confirma que el sistema está activo.
+![img_28.png](img_28.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Se presenta la documentación técnica de la API del sistema. La imagen muestra una lista clara de todos los servicios disponibles y sus funciones, facilitando su uso y integración.
 ![img_25.png](img_25.png)
 ![img_26.png](img_26.png)
 ![img_27.png](img_27.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-
+Se muestra la prueba de que el software fue desplegado exitosamente en el ambiente de producción. Se incluye tanto la confirmación del despliegue como el registro técnico del proceso.
 - Deployment  frontend
 
 ![img_22.png](img_22.png)
