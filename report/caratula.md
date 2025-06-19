@@ -89,8 +89,17 @@ Para la realización del informe final, se asignaron las secciones del informe a
 
 Analíticos de colaboración:
 
+###### Reporte del proyecto en GitHub:
 
-Algunos commits realizados por los integrantes del equipo:
+
+###### Landing Page:
+![img_3.png](img_3.png)
+
+###### Frontend:
+![img_5.png](img_5.png)
+
+###### Backend:
+![img_4.png](img_4.png)
 
 # Contenido
 
