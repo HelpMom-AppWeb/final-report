@@ -198,7 +198,10 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 
 🔗 Enlace al repositorio del Backend: https://github.com/HelpMom-AppWeb/HelpMom-Platform.git
 
-🔗 Enlace al Backend desplegado: 
+🔗 Enlace al Backend desplegado: https://help-mom-platform.azurewebsites.net
+
+🔗 Enlace al host de la base de datos del Backend: https://help-mom.cfwowsciyx5s.us-east-2.rds.amazonaws.com
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 En esta sección se detalla y evidencia la implementación de cada entregable de HelpMom.
 
