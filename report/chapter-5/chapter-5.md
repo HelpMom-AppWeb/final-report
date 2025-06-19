@@ -38,6 +38,7 @@ En este proyecto, utilizamos GitHub como plataforma principal para el control de
 - **Landing Page**: [https://github.com/HelpMom-AppWeb/landing-page](https://github.com/HelpMom-AppWeb/landing-page)
 - **Informe Final**: [https://github.com/HelpMom-AppWeb/final-report](https://github.com/HelpMom-AppWeb/final-report)
 - **Frontend**: [https://github.com/HelpMom-AppWeb/HelpMom-frontend.git](https://github.com/HelpMom-AppWeb/HelpMom-frontend.git)
+- **Backend**: [https://github.com/HelpMom-AppWeb/HelpMom-Platform.git](https://github.com/HelpMom-AppWeb/HelpMom-Platform.git)
 
 #### Modelo de ramificación: GitFlow
 
@@ -61,7 +62,16 @@ Para el repositorio del Fronted se crearon las siguientes ramas:
 - **feature/baby-monitoring**: Rama donde se desarrolla el bounded context
 - **feature/chat**: Rama donde se desarrolla el bounded context
 - **feature/appointments**: Rama donde se desarrolla el bounded context
-- 
+
+Para el repositorio del backend se crearon las siguientes ramas:
+- **main**: Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
+- **develop**: Rama de desarrollo donde se integrarán las nuevas características y correcciones de errores antes de ser fusionadas a la rama principal.
+- **appointments**: Rama donde se desarrolla el bounded context de citas médicas.
+- **chats**: Rama donde se desarrolla el bounded context de chats.
+- **health-monitoring**: Rama donde se desarrolla el bounded context de monitoreo de salud.
+- **medications**: Rama donde se desarrolla el bounded context de medicamentos.
+- **patient-management**: Rama donde se desarrolla el bounded context de gestión de pacientes.
+- **user-management**: Rama donde se desarrolla el bounded context de gestión de usuarios.
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
 
@@ -158,6 +168,7 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
 - Verificar que la Landing Page se cargue correctamente en el navegador.
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/landing-page
+
 🔗 Enlace a la Landing Page desplegada: https://helpmom-appweb.github.io/landing-page/
 
 2. Web Services (API):
@@ -175,7 +186,21 @@ A continuación se detallan los pasos para desplegar cada componente de nuestra 
   re redacta esto siguiendo el mismo formato
 
 🔗 Enlace al repositorio de la Landing Page: https://github.com/HelpMom-AppWeb/HelpMom-frontend
-🔗 Enlace al Frontend desplegado: 
+
+🔗 Enlace al Frontend desplegado: https://helpmom.netlify.app/
+
+4. Backend Web Applications:
+- Clonar el repositorio desde GitHub.
+- Configurar el entorno de desarrollo o producción, asegurando que todas las dependencias estén instaladas y configuradas correctamente.
+- Compilar el código fuente del backend, asegurándose de que no haya errores de compilación.
+- Desplegar el código compilado en un servidor adecuado, como un servidor web o un contenedor Docker.
+- Configurar la base de datos y cualquier otro servicio necesario para el funcionamiento del backend.
+
+🔗 Enlace al repositorio del Backend: https://github.com/HelpMom-AppWeb/HelpMom-Platform.git
+
+🔗 Enlace al Backend desplegado: https://help-mom-platform.azurewebsites.net
+
+🔗 Enlace al host de la base de datos del Backend: https://help-mom.cfwowsciyx5s.us-east-2.rds.amazonaws.com
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 En esta sección se detalla y evidencia la implementación de cada entregable de HelpMom.
@@ -187,6 +212,12 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 #### Frontend:
 El frontend fue realizado de manera grupal utilizando el framework Vue.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del frontend.
+![img_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-1.png?raw=true)
+![img_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-2.png?raw=true)
+![img_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-3.png?raw=true)
+#### Backend:
+El backend fue realizado de manera grupal utilizando el framework ASP.NET Core.
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
 
 ### 5.2.1. Sprint 1
 
@@ -442,11 +473,11 @@ Estos commits provienen del repositorio del Landing Page de la organización de 
 Durante el desarrollo del sprint se lograron completar todos los puntos planteados.
 A continuación se muestran evidencias del landing page logrado.
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png) 
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![img_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_2.png?raw=true)
+![img_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_3.png?raw=true)
+![img_4.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_4.png?raw=true) 
+![img_5.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_5.png?raw=true)
+![img_6.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/img_6.png?raw=true)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
