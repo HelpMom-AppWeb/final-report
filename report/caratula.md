@@ -4,8 +4,9 @@
 ## Aplicaciones Web - Presencial
 ## PROFESOR: Ángel Augusto
 ## Sección: 1ASI0730
-## INFORME TB1
-## START UP: HELP MOM
+## INFORME TB2
+## START UP: WebExperts
+## PRODUCTO: HelpMom
 
 ### INTEGRANTES:
 <table>
@@ -17,24 +18,24 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Reyes Menacho, Camila Asuncion</td>
+      <td>u201921442</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Rivera Ayala, Gabriel Alejandro</td>
+      <td>u202223279</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Espinoza Cueva, Stephano Jose</td>
+      <td>u202218590</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Mamani Marca, Gabriel Cristian</td>
+      <td>u202220659</td>
     </tr>
     <tr>
       <td>Maita Falckenheiner, Romina Guadalupe</td>
-      <td>U202213765</td>
+      <td>u202213765</td>
     </tr>
   </tbody>
 </table>
@@ -46,12 +47,59 @@ Ciclo 2025-01
 
 # Registro de versiones del informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| TB1     |       |       |                             |
-
+| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                                                                                       |
+|---------|------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 2025/04/23 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.                                                                                          |
+| TP      | 2025/04/26 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones con respecto al primer entregable y se avanzó con el Sprint 2, donde incluimos la finalización del Landing Page y la primera versión del Web Application. |
+| TB2     | 2025/06/18 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones sobre el trabajo parcial y se agregó la documentación de las entrevistas de validación y                                                                  |                                                                                                                                                                                   |
 
 # Project Report Collaboration Insights
+
+Repositorio de este informe en GitHub: https://github.com/HelpMom-AppWeb/final-report
+
+Entrega TB1:
+
+Para cada sección del informe se asignó un responsable, el cual se encargó de realizar la investigación y redacción de la sección. Se realizó una reunion para discutir los avances y se asignaron tareas a cada miembro del equipo. Se utilizó el canal de discord para comunicarnos y resolver dudas.
+
+Analíticos de colaboración:
+
+![](../assets/Insights_1_1.png)
+
+![](../assets/Insights_1_2.png)
+
+Algunos commits realizados por los integrantes del equipo:
+
+![](../assets/Insights_1_3.png)
+
+![](../assets/Insights_1_4.png)
+
+Entrega TP:
+
+Para la realización de la Single Page Application, después de organizarnos a través de reuniones y el uso de WhatsApp, se asignaron la elaboracion de cada Bounded Context a cada integrante.
+
+Analíticos de colaboración:
+
+![img.png](img.png)
+
+Algunos commits realizados por los integrantes del equipo:
+![img_1.png](img_1.png)
+
+Entrega TB2:
+Para la realización del informe final, se asignaron las secciones del informe a cada integrante del equipo. Se realizaron reuniones diarias para discutir los avances y se utilizó el canal de discord para comunicarnos y resolver dudas.
+
+Analíticos de colaboración:
+
+###### Reporte del proyecto en GitHub:
+
+
+###### Landing Page:
+![img_3.png](img_3.png)
+
+###### Frontend:
+![img_5.png](img_5.png)
+
+###### Backend:
+![img_4.png](img_4.png)
 
 # Contenido
 
@@ -147,8 +195,17 @@ Ciclo 2025-01
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|                     |                     |              |
-|                     |                     |              |
+ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+| Criterio específico| Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                           |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | TB1: <br>- Romina Maita:</br> En esta entrega logre hacer uso de mi liderazgo para organizar tareas. <br>- Mamani Marca Gabriel:</br>  Ayude a organizar y repartir temas a cada miembro del equipo.Tambien,ayude en resolver cualquier duda de mis compañeros <br>- Stephano: </br> ayude con la organización de los temas para cada integrante y ayude en puntos que faltaba en el informe    <br> Reyes Menacho, Camila Asuncion </br> Aporte en el apartado de entrevistas y análisis de estas. <br> Rivera Ayala Gabriel:</br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br/> TP: <br/> Gabriel Mamani: Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion del chat a la aplicacion frontend  <br/><br/> Romina Maita: Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo.  <br/> <br/> Stephano Espinoza: El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. Además, ayudé con la implementación de la "LISTA DE RECETAS", se me asignaron diversas tareas, lo que me ayudó a poder hacerlo todo de una manera buena y activa, y así poder reforzar lo aprendido en cursos anteriores. Esta experiencia me permitió consolidar mis habilidades en la construcción de interfaces dinámicas y componentes modulares usando Vue.js, fortaleciendo mi competencia en el desarrollo front.   <br/> Camila Reyes: En esta entrega tuvimos reuniones cosntantes y nos mantuvimos al tanto del trabajo del otro para llegar a nuestras metas a tiempo. Mejoramos el informe y desarrollamos el inicio del frontend de nuestro proyecto  <br/> TB2:<br/> Romina Maita: Durante este sprint trabaje en equipo y lideré el sprint, asignando tareas, fechas límite y estando pendiente del progreso de cada intengrante. También apoyé en código a cada uno en caso no sabian hacer alguna función, me presentaba en llamada vía discord para ayudar. Además, constantemente actualizaba las tareas pendientes en Trello.<br></br>  Gabriel Mamani: Apoyé en el sprint 3 y colaboré con algunas correcciones del informe, además de optimizar el frontend y realizar el backend para el chat,donde el doctor y paciente podrá tener comunicación. También,realice la coneccion del backend con la base de datos y posteriormente el frontend con el backend <br></br>  Stephano Espinoza: el proyecto afianzó mis conocimientos en el desarrollo de aplicaciones web. La colaboración activa con mi equipo, a través de reuniones tanto presenciales como virtuales, fue clave para impulsar mi participación y mejorar mi desempeño en la creación.<br></br> Camila Reyes: Este proyecto me ayudó a mejorar mucho en el desarrollo web. Usamos Discord para comunicarnos diariamente, Trello para organizar las tareas y siempre nos apoyamos entre todos cuando alguien necesitaba ayuda. Fue un trabajo en equipo donde cada uno aportaba lo que sabía. <br></br> Gabriel Rivera: Este proyecto fue clave para fortalecer mi capacidad de trabajo en equipo. La comunicación constante con mis compañeros y la organización conjunta a través de herramientas como Discord y Trello me permitieron desarrollar una colaboración más efectiva. Aprendí a coordinar tareas, a escuchar diferentes perspectivas y a contribuir activamente al avance del proyecto, lo que mejoró mi habilidad para adaptarme y aportar dentro de un entorno colaborativo. | En conclusion la realizacion de este informe no fue facil puesto que el equipo no se comunica. En este punto se entiende el ambiente, dado que cada miembro recien se esta conociendo  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1: <br> Romina Maita:</br> Establecímetas y organicé los puntos por capítulo que le tocaban a cada integrante. <br> Mamani Marca Gabriel:</br> Despues de realizar comunicacion constante ya  sabiamos el tema que ibamos a escoger y el enfoque que ibamos a tomar relacionado al mismo, hubo colaboración constante, sin embargo creo que debimos organizarnos mejor<br> Stephano:</br> tambien tuve una buena comunicación con mis compañeros de equipo ya que tuvimos una buen planificación   <br> Camila:</br> En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual. <br>   TP: <br/> Gabriel Mamani: En esta entrega tuvimos reuniones en grupo de las cuales se designaron las actividades para cada uno, por lo cual me toco actualizar los diagramas c4,user stories e implementar el apartado de chat entre usuarios a la aplicacion web <br/> <br/>  Romina Maita: Durante el desarrollo de este segundo entregable establecí metas y fechas límites para el progreso del trabajo con la finalidad de hacer el trabajo con tiempo. <br/> Stephano Espinoza:   <br/>  Esta experiencia me permitió consolidar mis habilidades en la construcción de interfaces dinámicas y componentes modulares usando Vue.js, fortaleciendo mi competencia en el desarrollo front.<br/> Camila Reyes: Esta entrega implemente las citas medicas, o "appointments" donde los doctores pueden crear y editar las citas medicas, mientras que los pacientes pueden ver las citas que tienen planeadas <br/>   <br>TB2:</br> Romina Maita: Coordiné con el grupo los objetivos a alcanzar y las tareas que se debían lograr para dicho objetivo, estuve al pendiente del avance de cada integrante y apoyándolos en cada aspecto ya sea frontend, backend o reporte. Considero que esto generó que el grupo sea más ordenado. <br></br> Gabriel Mamani: Coordiné mejoras en la vista de "i18n" para una visualización clara y detallada. En equipo, monitoreamos los avances en cada bounded context y realicé el video  de "about the project" para tener una buena presentación del proyecto y que el usuario conozca el plan de negocio de HelpMom <br></br> Stephano Espinoza: Mi involucramiento en este proyecto contribuyó significativamente a mi expertise en aplicaciones web. Las dinámicas de equipo, marcadas por reuniones constantes y participativas, potenciaron mi rol y mi capacidad para contribuir eficazmente en cada etapa del desarrollo. <br></br> Camila Reyes: Gracias al apoyo de mi equipo mejore mi conocimiento de programacion. Las constantes reuniones y el feedback entre nosotros hicieron que el proyecto saliera adelante y que yo ganara más confianza en mis habilidades. <br></br> Gabriel Rivera: Gracias a la interacción constante con mis compañeros, logré consolidar mis habilidades de programación. Las reuniones periódicas y el intercambio de retroalimentación fueron esenciales para el avance del proyecto, reforzando mi participación y permitiéndome evolucionar como desarrollador dentro de un equipo comprometido.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+|                                                                                                                                                                                        |
 
