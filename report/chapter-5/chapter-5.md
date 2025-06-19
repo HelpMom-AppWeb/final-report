@@ -788,10 +788,22 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+swagger
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+- Deployment  frontend
+
+![img_22.png](img_22.png)
+
+![img_23.png](img_23.png)
+
+![img_24.png](img_24.png)
+
+- Deployment  backend
+![img_21.png](img_21.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 En esta sección se muestran los insights de colaboración del equipo durante el sprint, obtenidos a través de la herramienta de gestión de proyectos utilizada por el equipo.
