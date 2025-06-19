@@ -38,6 +38,7 @@ En este proyecto, utilizamos GitHub como plataforma principal para el control de
 - **Landing Page**: [https://github.com/HelpMom-AppWeb/landing-page](https://github.com/HelpMom-AppWeb/landing-page)
 - **Informe Final**: [https://github.com/HelpMom-AppWeb/final-report](https://github.com/HelpMom-AppWeb/final-report)
 - **Frontend**: [https://github.com/HelpMom-AppWeb/HelpMom-frontend.git](https://github.com/HelpMom-AppWeb/HelpMom-frontend.git)
+- **Backend**: [https://github.com/HelpMom-AppWeb/HelpMom-Platform.git](https://github.com/HelpMom-AppWeb/HelpMom-Platform.git)
 
 #### Modelo de ramificación: GitFlow
 
@@ -61,7 +62,16 @@ Para el repositorio del Fronted se crearon las siguientes ramas:
 - **feature/baby-monitoring**: Rama donde se desarrolla el bounded context
 - **feature/chat**: Rama donde se desarrolla el bounded context
 - **feature/appointments**: Rama donde se desarrolla el bounded context
-- 
+
+Para el repositorio del backend se crearon las siguientes ramas:
+- **main**: Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
+- **develop**: Rama de desarrollo donde se integrarán las nuevas características y correcciones de errores antes de ser fusionadas a la rama principal.
+- **appointments**: Rama donde se desarrolla el bounded context de citas médicas.
+- **chats**: Rama donde se desarrolla el bounded context de chats.
+- **health-monitoring**: Rama donde se desarrolla el bounded context de monitoreo de salud.
+- **medications**: Rama donde se desarrolla el bounded context de medicamentos.
+- **patient-management**: Rama donde se desarrolla el bounded context de gestión de pacientes.
+- **user-management**: Rama donde se desarrolla el bounded context de gestión de usuarios.
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
 
