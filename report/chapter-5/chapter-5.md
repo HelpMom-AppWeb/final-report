@@ -797,6 +797,7 @@ Se presenta la documentación técnica de la API del sistema. La imagen muestra 
 ![img_25.png](img_25.png)
 ![img_26.png](img_26.png)
 ![img_27.png](img_27.png)
+![img_29.png](img_29.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se muestra la prueba de que el software fue desplegado exitosamente en el ambiente de producción. Se incluye tanto la confirmación del despliegue como el registro técnico del proceso.
@@ -949,7 +950,7 @@ Recomendación:
 El grupo realizó una recopilación en formato video con relación a los avances del proyecto y lo logrado en esta entrega.
 En este video se demuestra la colaboración del equipo, la funcionalidad del producto con la finalidad de generar confianza a los visitantes de la Landing Page para generar interacción e interés en el producto.
 
-![img_29.png](img_29.png)
+![img_30.png](img_30.png)
 🔗 Enlace al video en YouTube: https://youtu.be/zfcvrVdAqbg
 
 # Conclusiones 
