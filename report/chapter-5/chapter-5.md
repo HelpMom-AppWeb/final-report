@@ -212,13 +212,14 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 #### Frontend:
 El frontend fue realizado de manera grupal utilizando el framework Vue.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del frontend.
-![img_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-1.png?raw=true)
-![img_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-2.png?raw=true)
-![img_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-3.png?raw=true)
+![frontEndDeploy_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-1.png?raw=true)
+![frontEndDeploy_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-2.png?raw=true)
+![frontEndDeploy_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-3.png?raw=true)
 #### Backend:
 El backend fue realizado de manera grupal utilizando el framework ASP.NET Core.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
 
+![backEndDeploy_1.png](/report/chapter-5/Deploy_Base_1.png)
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
