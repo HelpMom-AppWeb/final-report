@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Imp lementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
 
@@ -796,7 +796,14 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 En esta sección se muestran los insights de colaboración del equipo durante el sprint, obtenidos a través de la herramienta de gestión de proyectos utilizada por el equipo.
 
+- Reporte insights de colaboración del equipo durante el sprint:
+![img_20.png](img_20.png)
 
+- Frontend insights de colaboración del equipo durante el sprint:
+![img_19.png](img_19.png)
+
+- backend insights de colaboración del equipo durante el sprint:
+![img_18.png](img_18.png)
 
 ### 5.3. Validation Interviews
 
