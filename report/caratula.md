@@ -1,19 +1,28 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+<div align="center">
 
-## Carrera: Ingeniería de Software
-## Aplicaciones Web - Presencial
-## PROFESOR: Ángel Augusto
-## Sección: 1ASI0730
-## INFORME TB2
-## START UP: WebExperts
+<img src="../assets/UPC_logo_transparente.png" alt="UPC Logo" width="200"/>
+
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+### Carrera: Ingeniería de Software
+### Aplicaciones Web - Presencial (1ASI0730)
+### Profesor: Ángel Augusto Velasquez Nuñez
+### NRC: 4395
+
+## INFORME - Trabajo Final
+## STARTUP: WebExperts
 ## PRODUCTO: HelpMom
 
-### INTEGRANTES:
-<table>
+---
+
+### INTEGRANTES
+
+<div align="center">
+
+<table style="text-align: center;">
   <thead>
     <tr>
-      <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
-      <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+      <th style="background-color: #333; color: #fff; padding: 8px;">Apellidos y Nombres</th>
+      <th style="background-color: #333; color: #fff; padding: 8px;">Código de Alumno</th>
     </tr>
   </thead>
   <tbody>
@@ -40,18 +49,33 @@
   </tbody>
 </table>
 
---- 
+</div>
 
-Ciclo 2025-01
+---
+
+### Ciclo 2025-10
+
+</div>
+
+
+
+
+
+
+
+
+
 
 
 # Registro de versiones del informe
 
-| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                                                                                       |
-|---------|------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 2025/04/23 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.                                                                                          |
-| TP      | 2025/04/26 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones con respecto al primer entregable y se avanzó con el Sprint 2, donde incluimos la finalización del Landing Page y la primera versión del Web Application. |
-| TB2     | 2025/06/18 | Camila Reyes. Gabriel Rivera. Stephano Espinoza. Gabriel Mamani. Romina Maita  | Realizamos correcciones sobre el trabajo parcial y se agregó la documentación de las entrevistas de validación y                                                                  |                                                                                                                                                                                   |
+
+| Versión | Fecha      | Autor                                                                 | Descripción de modificación |
+|---------|------------|------------------------------------------------------------------------|------------------------------|
+| TB1     | 2025/04/23 | Camila Reyes, Gabriel Rivera, Stephano Espinoza, Gabriel Mamani, Romina Maita | - Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br>- Avance de Conclusiones, Bibliografía y Anexos<br>- Avance del Landing Page |
+| TP      | 2025/04/26 | Camila Reyes, Gabriel Rivera, Stephano Espinoza, Gabriel Mamani, Romina Maita | - Realizamos correcciones con respecto al primer entregable<br>- Avance del Sprint 2, incluyendo la finalización del Landing Page y la primera versión del Web Application<br>- Capítulo V: Sprint Planning 2<br>- Capítulo V: Líderes de Aspecto y Colaboradores<br>- Capítulo V: Sprint Backlog 2<br>- Capítulo V: Evidencia de Desarrollo para Sprint Review<br>- Capítulo V: Evidencia de Ejecución para Sprint Review<br>- Capítulo V: Evidencia de Documentación de Servicios para Sprint Review<br>- Capítulo V: Evidencia de Despliegue de Software para Sprint Review<br>- Capítulo V: Reflexiones sobre la Colaboración del Equipo durante el Sprint |
+| TB2     | 2025/06/18 | Camila Reyes, Gabriel Rivera, Stephano Espinoza, Gabriel Mamani, Romina Maita | - Capítulo V: Sprint Planning 3<br>- Capítulo V: Líderes de Aspecto y Colaboradores<br>- Capítulo V: Sprint Backlog 3<br>- Capítulo V: Evidencia de Desarrollo para Sprint Review<br>- Capítulo V: Evidencia de Ejecución para Sprint Review<br>- Capítulo V: Evidencia de Documentación de Servicios para Sprint Review<br>- Capítulo V: Evidencia de Despliegue de Software para Sprint Review<br>- Capítulo V: Reflexiones sobre la Colaboración del Equipo durante el Sprint<br>- Capítulo V: Entrevistas de Validación<br>- Capítulo V: Diseño de Entrevistas<br>- Capítulo V: Registro de Entrevistas<br>- Capítulo V: Evaluaciones según heurísticas<br>- Capítulo V: Video About-the-Product |
+
 
 # Project Report Collaboration Insights
 
@@ -92,14 +116,6 @@ Analíticos de colaboración:
 ###### Reporte del proyecto en GitHub:
 ![img_6.png](img_6.png)
 
-###### Landing Page:
-![img_3.png](img_3.png)
-
-###### Frontend:
-![img_5.png](img_5.png)
-
-###### Backend:
-![img_4.png](img_4.png)
 
 # Contenido
 
