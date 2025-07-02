@@ -1005,7 +1005,8 @@ Además, es importante realizar revisiones periódicas del trabajo en conjunto. 
 El grupo realizó una recopilación en formato video con relación a sus outcomes y lo logrado en esta entrega.
 ![img_17.png](img_17.png)
 
-🔗 Enlace al video: https://acortar.link/W2KQVa
+🔗 Enlace al video Stream: https://acortar.link/W2KQVa
+🔗 Enlace al video Youtube: https://youtu.be/8Ct7yY58dGk
 
 
 ## Bibliografía
