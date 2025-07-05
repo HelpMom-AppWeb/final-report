@@ -7,13 +7,14 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 
 - Misión: Desarrollar soluciones tecnológicas accesibles y eficientes que ayuden a las personas en situación de dependencia, mediante plataformas intuitivas y con facil uso
 - Visión: En un futuro cercano, WebExpert se destacará como una empresa líder en desarrollo de soluciones tecnológicas que ayuden a las personas que más lo necesitan.Asimismo, se le reconocerá por su compromiso con la accesibilidad,innovación social y la mejora continua de la calidad de vida de las personas en situación de dependencia.
+
 - Logo de la Startup:
 
-  ![Startup Logo](../../assets/LogoStartup.png)
+  <img src="../../assets/LogoStartup.png" alt="Startup Logo" width="200"/>
 
- - Logo de la aplicacion web
+- Logo de la aplicacion web
 
-  ![Product Logo](../../assets/HelpMom.png)
+  <img src="../../assets/HelpMom.png" alt="Product Logo" width="230"/>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
