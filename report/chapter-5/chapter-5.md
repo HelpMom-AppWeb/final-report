@@ -959,6 +959,7 @@ En este video se demuestra la colaboración del equipo, la funcionalidad del pro
 
 ![img_30.png](img_30.png)
 🔗 Enlace al video en YouTube: https://youtu.be/zfcvrVdAqbg
+🔗 Enlace al video en Stream: https://acortar.link/fLFb7Z
 
 # Conclusiones 
 
