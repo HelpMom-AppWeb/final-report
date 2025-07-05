@@ -662,8 +662,8 @@ A continuación se muestra el acta de la reunión de planificación del tercer s
 
 <table>
 <tr>
-    <th colspan="5">Sprint 2</th>
-    <th colspan="9">Sprint 2</th>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
