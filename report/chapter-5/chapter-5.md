@@ -894,7 +894,27 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 
 ### 5.2.4.7. Deployment Evidence
 
-[Evidencia del despliegue final en producción]
+Deployment de la API:
+1. Crear “Recurso” dentro de Microsoft Azure. Usar Web App para crear una aplicación .NET.
+![deployment (4).png](deployment%20%284%29.png)
+2. Descargar perfil de publicación de la API, para obtener las credenciales y datos necesarios para acceder a la API desde un repositorio de GitHub.
+- Habilitar autenticación básica: Settings -> Configuration -> -> SCM Basic Auth = On
+- Luego: Overview -> Get publish profile
+![deployment (1).png](deployment%20%281%29.png)
+3. Agregar el perfil de publicación al repostiorio de GitHub, para que el repositorio tenga acceso a la API en Azure.
+En el repositorio:
+Settings -> Secrets -> Actions -> New repository secret
+-	Colocar como nombre AZURE_WEBAPP_PUBLISH_PROFILE
+-	Colocar como valor el contenido del perfil de publicación.
+4. Crear workflow GitHub Actions para subir automáticamente los cambios de la rama “master” al deployment
+![deployment (2).png](deployment%20%282%29.png)
+5. Agregar ConnectionString
+![deployment (3).png](deployment%20%283%29.png)
+Creación de la base de datos
+1.	Crear clúster en Amazon Web Services RDS (Aurora)
+![deployment (5).png](deployment%20%285%29.png)
+2.	Obtener el connection string en “Conectividad y Seguridad”
+![deployment (6).png](deployment%20%286%29.png)
 
 ### 5.2.4.8. Team Collaboration
 
