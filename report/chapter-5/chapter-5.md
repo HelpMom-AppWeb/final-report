@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Imp lementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
 
@@ -27,6 +27,7 @@ Los enlaces a cada una de las herramientas se encuentran disponibles en los anex
 #### Software Deployment
 - GitHub Pages: Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
 - Netlify: Plataforma de despliegue continuo que permite publicar aplicaciones web estáticas y JAMstack. Fue utilizada para el despliegue del frontend.
+- Microsoft Azure: Plataforma en la nube que ofrece una amplia gama de servicios para el desarrollo y alojamiento de aplicaciones. Se utilizó Azure App Service para realizar el despliegue del backend desarrollado con .NET 9. Esta herramienta permitió alojar la API de manera segura, con escalabilidad automática y soporte integrado para entornos de desarrollo continuo, facilitando así su disponibilidad desde cualquier parte del mundo.
 
 ### 5.1.2. Source Code Management.
 
@@ -212,13 +213,14 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 #### Frontend:
 El frontend fue realizado de manera grupal utilizando el framework Vue.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del frontend.
-![img_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-1.png?raw=true)
-![img_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-2.png?raw=true)
-![img_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-3.png?raw=true)
+![frontEndDeploy_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-1.png?raw=true)
+![frontEndDeploy_2.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-2.png?raw=true)
+![frontEndDeploy_3.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Implementacion-Front-3.png?raw=true)
 #### Backend:
 El backend fue realizado de manera grupal utilizando el framework ASP.NET Core.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
 
+![backEndDeploy_1.png](https://github.com/HelpMom-AppWeb/final-report/blob/chapter-5/report/chapter-5/Deploy_Base_1.png?raw=true)
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
@@ -660,8 +662,8 @@ A continuación se muestra el acta de la reunión de planificación del tercer s
 
 <table>
 <tr>
-    <th colspan="5">Sprint 2</th>
-    <th colspan="9">Sprint 2</th>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
@@ -699,7 +701,7 @@ A continuación se muestra el acta de la reunión de planificación del tercer s
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
     <td colspan="8">
-Nuestro enfoque está en desarrollar una plataforma integral que facilite la interacción entre doctores y pacientes a través de funcionalidades clave como chat en tiempo real, gestión de recetas médicas, control de citas y monitoreo de salud. En el módulo de chat, buscamos permitir el envío, visualización y eliminación de mensajes, facilitando una comunicación fluida entre los usuarios. En la gestión de recetas médicas, tanto desde el frontend como desde el backend, implementamos interfaces intuitivas y endpoints robustos para que doctores y pacientes puedan crear, actualizar, visualizar y eliminar recetas, medicamentos, prescripciones y notas asociadas, asegurando validaciones estrictas y un control adecuado del estado de las recetas (abiertas o cerradas). En el módulo de citas médicas, proporcionamos endpoints para agendar, modificar, cancelar y visualizar consultas, optimizando la organización y garantizando disponibilidad y flexibilidad. Finalmente, en el módulo de monitoreo de salud, ofrecemos una interfaz para registrar y consultar signos vitales, junto a endpoints que permitan almacenar y recuperar esta información, lo cual mejora el seguimiento del estado de salud de las madres durante la gestación. Todo esto se confirmará cuando cada funcionalidad permita registrar y gestionar sus datos correctamente, brinde retroalimentación clara ante errores, y ofrezca una experiencia de usuario coherente, segura y eficaz. </td>
+ Desarrollamos una plataforma integral que facilita la interacción entre médicos y pacientes mediante chat en tiempo real, gestión de recetas, control de citas y monitoreo de salud, especialmente para madres gestantes. Esto incluye la capacidad de enviar y gestionar mensajes, crear y controlar recetas con validaciones estrictas, agendar y modificar citas, y registrar signos vitales para un seguimiento de salud más preciso. Nos aseguramos de que cada función registre y gestione los datos correctamente, ofrezca retroalimentación clara ante errores y brinde una experiencia de usuario coherente, segura y eficaz.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
@@ -724,8 +726,16 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 | Mamani Gabriel                     | Gabrlel0105     | C                                                  | C                                             | C                                           | C                                                   | L                                     |
 
 
+
+
 #### 5.2.3.3. Sprint Backlog 3.
+Para este sprint lo que usamos para organizaros mejor y no tener complicaciones fue trello:
+![img_trello](https://media.discordapp.net/attachments/1357524959861145633/1385323423429038120/image.png?ex=6855a67a&is=685454fa&hm=56a0e80c4158c6f7fdb31da0efa2658d6b85b73cb4105dd4574a73cdb541ef2c&=&format=webp&quality=lossless&width=1719&height=855)
+
 A continuación se muestra el Sprint Backlog del tercer sprint, donde se detallan las historias de usuario y los tasks asignados a cada integrante del equipo.
+
+
+
 | User Story |                                                                                                                           | Work-item/task |                                                               |                                                                                                                                                                                                                                                                                                                    |            |                   |                |
 |------------|---------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|
 | ID         | Title                                                                                                                     | ID             | Title                                                         | Description                                                                                                                                                                                                                                                                                                        | Estimation | Assigned to       | Status (To-do) |
@@ -737,37 +747,37 @@ A continuación se muestra el Sprint Backlog del tercer sprint, donde se detalla
 |            |                                                                                                                           | TSK6           | Validar existencia del registro a actualizar                  | Verificar que el id de signos vitales recibido en la URL corresponde a un registro existente. Si no existe, retornar una respuesta 404 Not Found con el mensaje "Signos vitales no encontrados."                                                                                                                   | 3h         |                   |                |
 |            |                                                                                                                           | TSK7           | Validar campos obligatorios al actualizar                     | Asegurar que todos los campos requeridos (ritmoCardiaco, temperatura, peso, saturacionOxigeno) estén presentes en la solicitud PUT. Si falta alguno, retornar 400 Bad Request con un mensaje como: "El campo temperatura es obligatorio."                                                                          | 3h         | Romina            |                |
 | TS3        | Agregar metodo <br>de comunicacion entre <br>doctora y mujer en gestacion,<br>mediente un chat a traves de un Restful API | TSK8           | Crear modelo de datos para el chat                            | Diseñar y definir las entidades necesarias para el sistema de mensajería, que facilite la comunicación entre doctoras y madres en gestación.                                                                                                                                                                       | 6h         | Gabriel Mamani    |                |
-| TS4        |                                                                                                                           | TSK9           | Crear Endpoint POST /api/v1/chat/messages                     | Crear un endpoint para que tanto la doctora y paciente tengan las posibilidad de enviar mensajes entre si                                                                                                                                                                                                          | 7h         | Gabriel Mamani    |                |
-| TS5        |                                                                                                                           | TSK10          | Crear Endpoint GET /api/v1/chat/conversations/{user_id}       | Obtener todas las conversaciones en las que participa un usuario (ya sea doctora o madre). Este endpoint permite listar las conversaciones activas del usuario, mostrando información clave como el ID de la conversación, los participantes y el último mensaje enviado.                                          | 8h         | Gabriel Mamani    |                |
-| TS6        |                                                                                                                           | TSK11          | Crear endpoint PUT /api/v1/chat/messages/{id}/read            | Marcar un mensaje específico como leído. Es útil para actualizar el estado de lectura una vez que el receptor ha visto el mensaje en la interfaz.                                                                                                                                                                  | 9h         | Gabriel Mamani    |                |
-| TS7        | Agregar cita médica a través de RESTful API                                                                               | TSK12          | Crear modelo de datos para citas médicas                      | Diseñar entidad Cita con campos: id, fechaHora, duracion, motivo, embarazadaId, doctorId, estado (activa/cancelada). Validar tipos y relaciones.                                                                                                                                                                   | 3h         | Camila Reyes      |                |
-| TS8        |                                                                                                                           | TSK13          | Crear modelo de datos para citas médicas                      | Crear endpoint para registrar citas, con validaciones de campos obligatorios y formato correcto. Retornar 201 Created con datos de la cita creada.                                                                                                                                                                 | 5h         | Camila Reyes      |                |
-| TS9        |                                                                                                                           | TSK14          | Validar disponibilidad del doctor                             | Verificar que el doctor no tenga citas superpuestas en la misma fecha/hora. Si hay conflicto, retornar 409 Conflict con mensaje: "El doctor ya tiene una cita programada en ese horario."                                                                                                                          | 4h         | Camila Reyes      |                |
-| TS10       |                                                                                                                           | TSK15          | Validar existencia de embarazada y doctor                     | Antes de crear la cita, verificar que embarazadaId y doctorId existan en la base de datos. Si no, retornar 404 Not Found con mensaje correspondiente.                                                                                                                                                              | 3h         | Camila Reyes      |                |
-| TS11       | Eliminar cita médica a través de RESTful API                                                                              | TSK16          | Implementar endpoint DELETE /api/v1/appointments/{id}         | Desarrollar lógica para eliminar citas (soft delete o borrado físico). Retornar 204 No Content si es exitoso.                                                                                                                                                                                                      | 4h         | Camila Reyes      |                |
-| TS12       |                                                                                                                           | TSK17          | Validar estado de la cita antes de eliminar                   | Si la cita ya está cancelada, retornar 410 Gone con mensaje: "La cita ya fue cancelada anteriormente."                                                                                                                                                                                                             | 2h         | Camila Reyes      |                |
-| TS13       |                                                                                                                           | TSK18          | Manejar errores de ID inválido                                | Validar que el id en DELETE sea un UUID válido. Si no, retornar 400 Bad Request con mensaje: "ID de cita inválido."                                                                                                                                                                                                | 2h         | Camila Reyes      |                |
-| TS14       |                                                                                                                           | TSK19          | Actualizar calendario en tiempo real                          | Integrar WebSocket o notificaciones para reflejar cambios (añadir/eliminar citas) en el frontend sin necesidad de recargar.                                                                                                                                                                                        | 6h         | Camila Reyes      |                |
-| TS15       | Visualizar informacion de un paciente a traves de un RESTful API                                                          | TSK20          | Implementar endpoint GET /api/v1/patients/{id}                | Desarrollar el endpoint que permita acceder a la informacion de un paciente según su Id, asegurarse de recibir una respuesta con código 200 y los datos del paciente.                                                                                                                                              | 6h         | Gabriel Rivera    |                |
-| TS16       | Visualizar lista de paciente a traves de un RESTful API                                                                   | TSK21          | Implementar endpoint GET /api/v1/patients                     | Desarrollar el endpoint que permita acceder a la informacion de una lista de pacientes, asegurarse de recibir una respuesta con código 200 y los datos de todos los recursos disponibles en el endpoint.                                                                                                           | 6h         | Gabriel Rivera    |                |
-| TS17       | Agregar Paciente a traves de un RESTful API                                                                               | TSK22          | Implementar endpoint POST /api/v1/patients/add                | Desarrollar el endpoint que permita recibir una operación POST y almacene los datos de un paciente. Asegurarse de recibir un código 201 Created.                                                                                                                                                                   | 4h         | Gabriel Rivera    |                |
-| TS18       | Agregar receta a traves de un RESTful API                                                                                 | TSK23          | Crear modelo de datos para Recetas                            | Diseñar y definir la entidad Receta con los campos necesarios como: medicamentos, instrucciones, IdPaciente (para relacionar con un paciente). Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                      | 4h         | Stephano Espinoza |                |
-| TS19       |                                                                                                                           | TSK24          | Crear endpoint POST /api/v1/recipes                           | Implementar el endpoint RESTful que permita recibir una solicitud POST con datos de una receta y los almacene correctamente en la base de datos. Asegurarse de devolver una respuesta con el recurso creado, incluyendo su id y los datos enviados.                                                                | 6h         | Stephano Espinoza |                |
-| TS20       |                                                                                                                           | TSK25          | Validar campos obligatorios en Receta                         | Agregar validaciones para que campos como, medicamentos, prescripción sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo Prescripción es obligatorio."                                                                       | 3h         | Stephano Espinoza |                |
-| TS21       |                                                                                                                           | TSK26          | Validar existencia del paciente en Receta                     | Antes de registrar una receta, verificar que el idPaciente proporcionado existe en el sistema. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Paciente no encontrado                                                                                                                    |            | Stephano Espinoza |                |
-| TS22       | Eliminar una receta a traves de un RESTful API                                                                            | TSK27          | Crear endpoint DELETE /api/v1/recipes/{id}                    | Implementar el endpoint RESTful que permita recibir una solicitud DELETE con el id de una receta y la elimine de la base de datos. En caso de éxito, devolver una respuesta 204 No Content.                                                                                                                        | 4h         | Stephano Espinoza |                |
-| TS23       |                                                                                                                           | TSK28          | Validar existencia de la receta a eliminar                    | Antes de intentar eliminar una receta, verificar que el id proporcionado corresponde a una receta existente. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Receta no encontrada."                                                                                                      | 2h         | Stephano Espinoza |                |
-| TS24       | Agregar medicamento a traves de un RESTful API                                                                            | TSK29          | Crear modelo de datos para Medicamentos                       | Diseñar y definir la entidad Medicamento con los campos:, Preescripcion, dosisRecomendada, unidadDosis,. Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                                                            | 4h         | Stephano Espinoza |                |
-| TS25       |                                                                                                                           | TSK30          | Crear endpoint POST /api/v1/medications                       | mplementar el endpoint RESTful que permita recibir una solicitud POST con datos de un medicamento y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                                      | 6h         | Stephano Espinoza |                |
-| TS26       |                                                                                                                           | TSK31          | Validar campos obligatorios en Medicamento                    | Agregar validaciones para que campos como dosisRecomendada sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo nombre es obligatorio."                                                                                        | 3h         | Stephano Espinoza |                |
-| TS27       | Eliminar medicamento a traves de un RESTful api                                                                           | TSK32          | Crear endpoint DELETE /api/v1/medications/{id}                | Implementar el endpoint RESTful que permita recibir una solicitud DELETE con el id de un medicamento y lo elimine de la base de datos. En caso de éxito, devolver una respuesta 204 No Content.                                                                                                                    | 4h         | Stephano Espinoza |                |
-| TS28       |                                                                                                                           | TSK33          | Validar existencia del medicamento a eliminar                 | Antes de intentar eliminar un medicamento, verificar que el id proporcionado corresponde a un medicamento existente. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Medicamento no encontrado."                                                                                         | 2h         | Stephano Espinoza |                |
-| TS29       | Agregar preescripcion de medicamento a traves de un RESTful API                                                           | TSK34          | Crear modelo de datos para Prescripción de Medicamento        | Diseñar y definir la entidad PrescripcionMedicamento con los campos: idMedicamento, idPaciente, dosisPrescrita, frecuencia, duracionDias. Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                           | 5h         | Stephano Espinoza |                |
-| TS30       |                                                                                                                           | TSK35          | Crear endpoint POST /api/v1/prescriptions                     | mplementar el endpoint RESTful que permita recibir una solicitud POST con datos de una prescripción de medicamento y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                     | 7h         | Stephano Espinoza |                |
-| TS31       |                                                                                                                           | TSK36          | Validar campos obligatorios en Prescripción                   | Agregar validaciones para que campos como idMedicamento, idPaciente, dosisPrescrita y frecuencia sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo idMedicamento es obligatorio."                                           | 4h         | Stephano Espinoza |                |
-| TS32       |                                                                                                                           | TSK37          | Validar existencia del medicamento y paciente en Prescripción | Antes de registrar una prescripción, verificar que idPaciente existe en el sistema. Si alguno no se encuentra, retornar una respuesta 404 Not Found con el mensaje correspondiente: "Medicamento no encontrado." o "Paciente no encontrado."                                                                       | 4h         | Stephano Espinoza |                |
-| TS33       | Agregar una Nota a traves de un RESTful API                                                                               | TSK38          | Crear modelo de datos para Notas                              | Diseñar y definir la entidad Nota con los campos:, contenido . Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                                                                                                      | 4h         | Stephano Espinoza |                |
-| TS34       |                                                                                                                           | TSK39          | Crear endpoint POST /api/v1/notes                             | Implementar el endpoint RESTful que permita recibir una solicitud POST con datos de una nota y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                                           | 6h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK9           | Crear Endpoint POST /api/v1/chat/messages                     | Crear un endpoint para que tanto la doctora y paciente tengan las posibilidad de enviar mensajes entre si                                                                                                                                                                                                          | 7h         | Gabriel Mamani    |                |
+|            |                                                                                                                           | TSK10          | Crear Endpoint GET /api/v1/chat/conversations/{user_id}       | Obtener todas las conversaciones en las que participa un usuario (ya sea doctora o madre). Este endpoint permite listar las conversaciones activas del usuario, mostrando información clave como el ID de la conversación, los participantes y el último mensaje enviado.                                          | 8h         | Gabriel Mamani    |                |
+|            |                                                                                                                           | TSK11          | Crear endpoint PUT /api/v1/chat/messages/{id}/read            | Marcar un mensaje específico como leído. Es útil para actualizar el estado de lectura una vez que el receptor ha visto el mensaje en la interfaz.                                                                                                                                                                  | 9h         | Gabriel Mamani    |                |
+| TS4        | Agregar cita médica a través de RESTful API                                                                               | TSK12          | Crear modelo de datos para citas médicas                      | Diseñar entidad Cita con campos: id, fechaHora, duracion, motivo, embarazadaId, doctorId, estado (activa/cancelada). Validar tipos y relaciones.                                                                                                                                                                   | 3h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK13          | Crear modelo de datos para citas médicas                      | Crear endpoint para registrar citas, con validaciones de campos obligatorios y formato correcto. Retornar 201 Created con datos de la cita creada.                                                                                                                                                                 | 5h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK14          | Validar disponibilidad del doctor                             | Verificar que el doctor no tenga citas superpuestas en la misma fecha/hora. Si hay conflicto, retornar 409 Conflict con mensaje: "El doctor ya tiene una cita programada en ese horario."                                                                                                                          | 4h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK15          | Validar existencia de embarazada y doctor                     | Antes de crear la cita, verificar que embarazadaId y doctorId existan en la base de datos. Si no, retornar 404 Not Found con mensaje correspondiente.                                                                                                                                                              | 3h         | Camila Reyes      |                |
+| TS5        | Eliminar cita médica a través de RESTful API                                                                              | TSK16          | Implementar endpoint DELETE /api/v1/appointments/{id}         | Desarrollar lógica para eliminar citas (soft delete o borrado físico). Retornar 204 No Content si es exitoso.                                                                                                                                                                                                      | 4h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK17          | Validar estado de la cita antes de eliminar                   | Si la cita ya está cancelada, retornar 410 Gone con mensaje: "La cita ya fue cancelada anteriormente."                                                                                                                                                                                                             | 2h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK18          | Manejar errores de ID inválido                                | Validar que el id en DELETE sea un UUID válido. Si no, retornar 400 Bad Request con mensaje: "ID de cita inválido."                                                                                                                                                                                                | 2h         | Camila Reyes      |                |
+|            |                                                                                                                           | TSK19          | Actualizar calendario en tiempo real                          | Integrar WebSocket o notificaciones para reflejar cambios (añadir/eliminar citas) en el frontend sin necesidad de recargar.                                                                                                                                                                                        | 6h         | Camila Reyes      |                |
+| TS6        | Visualizar informacion de un paciente a traves de un RESTful API                                                          | TSK20          | Implementar endpoint GET /api/v1/patients/{id}                | Desarrollar el endpoint que permita acceder a la informacion de un paciente según su Id, asegurarse de recibir una respuesta con código 200 y los datos del paciente.                                                                                                                                              | 6h         | Gabriel Rivera    |                |
+| TS7        | Visualizar lista de paciente a traves de un RESTful API                                                                   | TSK21          | Implementar endpoint GET /api/v1/patients                     | Desarrollar el endpoint que permita acceder a la informacion de una lista de pacientes, asegurarse de recibir una respuesta con código 200 y los datos de todos los recursos disponibles en el endpoint.                                                                                                           | 6h         | Gabriel Rivera    |                |
+| TS8        | Agregar Paciente a traves de un RESTful API                                                                               | TSK22          | Implementar endpoint POST /api/v1/patients/add                | Desarrollar el endpoint que permita recibir una operación POST y almacene los datos de un paciente. Asegurarse de recibir un código 201 Created.                                                                                                                                                                   | 4h         | Gabriel Rivera    |                |
+| TS9        | Agregar receta a traves de un RESTful API                                                                                 | TSK23          | Crear modelo de datos para Recetas                            | Diseñar y definir la entidad Receta con los campos necesarios como: medicamentos, instrucciones, IdPaciente (para relacionar con un paciente). Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                      | 4h         | Stephano Espinoza |                |
+| TS10       |                                                                                                                           | TSK24          | Crear endpoint POST /api/v1/recipes                           | Implementar el endpoint RESTful que permita recibir una solicitud POST con datos de una receta y los almacene correctamente en la base de datos. Asegurarse de devolver una respuesta con el recurso creado, incluyendo su id y los datos enviados.                                                                | 6h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK25          | Validar campos obligatorios en Receta                         | Agregar validaciones para que campos como, medicamentos, prescripción sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo Prescripción es obligatorio."                                                                       | 3h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK26          | Validar existencia del paciente en Receta                     | Antes de registrar una receta, verificar que el idPaciente proporcionado existe en el sistema. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Paciente no encontrado                                                                                                                    |            | Stephano Espinoza |                |
+| TS11       | Eliminar una receta a traves de un RESTful API                                                                            | TSK27          | Crear endpoint DELETE /api/v1/recipes/{id}                    | Implementar el endpoint RESTful que permita recibir una solicitud DELETE con el id de una receta y la elimine de la base de datos. En caso de éxito, devolver una respuesta 204 No Content.                                                                                                                        | 4h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK28          | Validar existencia de la receta a eliminar                    | Antes de intentar eliminar una receta, verificar que el id proporcionado corresponde a una receta existente. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Receta no encontrada."                                                                                                      | 2h         | Stephano Espinoza |                |
+| TS12       | Agregar medicamento a traves de un RESTful API                                                                            | TSK29          | Crear modelo de datos para Medicamentos                       | Diseñar y definir la entidad Medicamento con los campos:, Preescripcion, dosisRecomendada, unidadDosis,. Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                                                            | 4h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK30          | Crear endpoint POST /api/v1/medications                       | mplementar el endpoint RESTful que permita recibir una solicitud POST con datos de un medicamento y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                                      | 6h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK31          | Validar campos obligatorios en Medicamento                    | Agregar validaciones para que campos como dosisRecomendada sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo nombre es obligatorio."                                                                                        | 3h         | Stephano Espinoza |                |
+| TS13       | Eliminar medicamento a traves de un RESTful api                                                                           | TSK32          | Crear endpoint DELETE /api/v1/medications/{id}                | Implementar el endpoint RESTful que permita recibir una solicitud DELETE con el id de un medicamento y lo elimine de la base de datos. En caso de éxito, devolver una respuesta 204 No Content.                                                                                                                    | 4h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK33          | Validar existencia del medicamento a eliminar                 | Antes de intentar eliminar un medicamento, verificar que el id proporcionado corresponde a un medicamento existente. Si no se encuentra, retornar una respuesta 404 Not Found con el mensaje: "Medicamento no encontrado."                                                                                         | 2h         | Stephano Espinoza |                |
+| TS14       | Agregar preescripcion de medicamento a traves de un RESTful API                                                           | TSK34          | Crear modelo de datos para Prescripción de Medicamento        | Diseñar y definir la entidad PrescripcionMedicamento con los campos: idMedicamento, idPaciente, dosisPrescrita, frecuencia, duracionDias. Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                           | 5h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK35          | Crear endpoint POST /api/v1/prescriptions                     | mplementar el endpoint RESTful que permita recibir una solicitud POST con datos de una prescripción de medicamento y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                     | 7h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK36          | Validar campos obligatorios en Prescripción                   | Agregar validaciones para que campos como idMedicamento, idPaciente, dosisPrescrita y frecuencia sean obligatorios. En caso de ausencia de algún campo, retornar una respuesta 400 Bad Request con un mensaje descriptivo como: "El campo idMedicamento es obligatorio."                                           | 4h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK37          | Validar existencia del medicamento y paciente en Prescripción | Antes de registrar una prescripción, verificar que idPaciente existe en el sistema. Si alguno no se encuentra, retornar una respuesta 404 Not Found con el mensaje correspondiente: "Medicamento no encontrado." o "Paciente no encontrado."                                                                       | 4h         | Stephano Espinoza |                |
+| TS15       | Agregar una Nota a traves de un RESTful API                                                                               | TSK38          | Crear modelo de datos para Notas                              | Diseñar y definir la entidad Nota con los campos:, contenido . Asegurar la validación de tipos y rangos básicos en el modelo.                                                                                                                                                                                      | 4h         | Stephano Espinoza |                |
+|            |                                                                                                                           | TSK39          | Crear endpoint POST /api/v1/notes                             | Implementar el endpoint RESTful que permita recibir una solicitud POST con datos de una nota y los almacene correctamente. Asegurarse de devolver una respuesta 201 Created con el recurso creado incluyendo su id y los datos enviados.                                                                           | 6h         | Stephano Espinoza |                |
 
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
@@ -786,13 +796,236 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+Se demuestra que la aplicación y su base de datos están funcionando correctamente. Se observan consultas de datos exitosas y la consola del servidor confirma que el sistema está activo.
+![img_28.png](img_28.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Se presenta la documentación técnica de la API del sistema. La imagen muestra una lista clara de todos los servicios disponibles y sus funciones, facilitando su uso y integración.
+![img_25.png](img_25.png)
+![img_26.png](img_26.png)
+![img_27.png](img_27.png)
+![img_doctores](https://media.discordapp.net/attachments/1357524959861145633/1385298995026333746/Screenshot_2.png?ex=68558fba&is=68543e3a&hm=b34f75b9d6b990f79cddfadc393142864cff8c32fec2d46fcb6354865a4b308e&=&format=webp&quality=lossless)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Se muestra la prueba de que el software fue desplegado exitosamente en el ambiente de producción. Se incluye tanto la confirmación del despliegue como el registro técnico del proceso.
+- Deployment  frontend
+
+![img_22.png](img_22.png)
+
+![img_23.png](img_23.png)
+
+![img_24.png](img_24.png)
+
+- Deployment  backend
+![img_21.png](img_21.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 En esta sección se muestran los insights de colaboración del equipo durante el sprint, obtenidos a través de la herramienta de gestión de proyectos utilizada por el equipo.
+
+- Reporte insights de colaboración del equipo durante el sprint:
+![img_20.png](img_20.png)
+
+- Frontend insights de colaboración del equipo durante el sprint:
+![img_19.png](img_19.png)
+
+- backend insights de colaboración del equipo durante el sprint:
+![img_18.png](img_18.png)
+
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+| **Sprint 4**              | **Sprint 4**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Date                      | 2025-07-07                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Time                      | 8:30 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Location                  | Via Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Prepared By               | Romina Maita Falckenheiner                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Attendees                 | Romina Guadalupe Maita Falckenheiner, Gabriel Cristian Mamani Marca, Camila Asuncion Reyes Menacho, Gabriel Alejandro Rivera Ayala, Stephano Jose Espinoza Cueva                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sprint Review Summary** | En este cuarto sprint nos enfocaremos en la integración final entre frontend y backend, optimización de la experiencia de usuario y preparación para el despliegue final.                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Retrospective Summary** | Los integrantes mencionaron la importancia de realizar pruebas exhaustivas de integración y pulir los últimos detalles de la interfaz antes del lanzamiento final.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint Goal & User Stories**                             |
+| Sprint Goal               | El objetivo principal es integrar de manera fluida y eficiente el frontend con el backend, garantizando que todas las funcionalidades clave de la aplicación operen sin problemas y ofrezcan una experiencia de usuario coherente. A la par, se busca optimizar la usabilidad, haciendo la interfaz más intuitiva, ágil y atractiva, eliminando cualquier barrera que pueda afectar la interacción. Todo esto culminará en la preparación del producto para su implementación final, asegurando que esté listo para ofrecer un rendimiento óptimo y una experiencia satisfactoria desde el primer uso. |
+| Sprint Velocity           | 8 story points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Sum of Story Points       | 8 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Backend Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend Leader (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|-------------------------------------------------|------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | L                                               | C                                              | C                                                | C                                       |
+| Reyes Camila                       | dakuma-ai       | L                                                    | C                                               | C                                              | C                                                | C                                       |
+| Cueva Stephano                     | Stephanoescu    | C                                                    | C                                               | L                                              | C                                                | C                                       |
+| Maita Romina                       | RominaMaita     | C                                                    | C                                               | C                                              | L                                                | C                                       |
+| Mamani Gabriel                     | Gabrlel0105     | C                                                    | C                                               | C                                              | C                                                | L                                       |
+
+### 5.2.4.3. Sprint Backlog 4
+
+
+| User Story                            | ID  | Título                                        | Descripción                                                                                 | Estimación | Asignado a         | Estado |
+|---------------------------------------|-----|-----------------------------------------------|---------------------------------------------------------------------------------------------|------------|---------------------|--------|
+| TS29 - Gestión de citas médicas       | 01  | Integrar calendario frontend-backend       | Conectar el calendario para operaciones en tiempo real.                                    | 2h         | Camila Reyes        | Done   |
+|                                       | 02  | Implementar vista mensual de citas            | Añadir pestaña/filtro para visualizar citas agrupadas por mes.                             | 3h         | Camila Reyes        | Done   |
+| TS24 - Chat                           | 04  | Juntar chat con el frontend, backend         | El doctor podrá ver su lista de pacientes y abrir un chat con ellos.                       | 5h         | Gabriel Mamani      | Done   |
+|                                       | 05  | Juntar backend con la base de datos          | Que los mensajes enviados por el doctor lleguen en tiempo real al paciente.                | 3h         | Gabriel Mamani      | Done   |
+| HU12 - Lista de medicación            | 06  | Mejorar frontend                            | Mejorar el diseño y permitir guardar la receta para mejor visualización.                  | 1h         | Stephano Espinoza   | Done   |
+|                                       | 07  | Juntar backend con frontend                  | Guardar recetas con ID identificable.                                                       | 3h         | Stephano Espinoza   | Done   |
+| HU24 - Administración de pacientes    | 08  | Cambiar nombres de endpoints                | Mejorar el nombre de los endpoints.                                                         | 1h         | Gabriel Rivera       | Done   |
+|                                       | 09  | Adaptar endpoint desplegado en frontend      | Asegurar correcta integración backend-frontend.                                             | 1h         | Gabriel Rivera       | Done   |
+| HU20 - Registro de historial de salud | 10  | Agregar cards historial de salud           | Renderizar en frontend los registros desde Get All health data.                            | 3h         | Romina Maita        | Done   |
+|                                       | 11  | Botón para actualizar estado de salud        | Crear endpoint PUT para actualizar el último registro.                                     | 4h         | Romina Maita        | Done   |
+### 5.2.4.4. Development Evidence
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+🔗 Enlace al repositorio de la backend: https://github.com/HelpMom-AppWeb/HelpMom-Platform
+
+| Repository                       | Branch                     | Commit Id                                 | Commit Message                                            | Commit Message Body | Commited on (Date) |
+|----------------------------------|----------------------------|-------------------------------------------|-----------------------------------------------------------|---------------------|--------------------|
+| HelpMom-AppWeb/HelpMom-frontend  | feature/patient-management | bbde77fd8b8139ca8b85ec3bc6b1edb6d5fd6b80 |fix: fixed CommandsServices and Queries Services Interfaces and Implementations                    |                     | 18/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/medication         | 9c037f3e5accb5a656f5edffd9bc424819095925  | feat: add constructor to Medication for CreateMedicationCommand                                  |                     | 18/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/chat               | b81eaf53902d9a0f78b7aa8a7889b64040d0377c |feat:update chat component                                     |                     | 15/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/baby-monitoring    | a31f40c9f87674fcabfa2bfd66388573ea967562  | feat(health-monitoring): include CreatedDate and UpdatedDate in HealthDataResource assembly |                     | 03/07/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/appointments       | 1a1fcf704ec280dca6ec9328e640249d24e3154d  | feat: add Appointment Queries                     |                     | 18/06/2025         |
+
+### 5.2.4.5. Execution Evidence
+En esta sección se evidencia la ejecución de las tareas del sprint 4, mostrando los avances realizados en la implementación de las funcionalidades y mejoras planificadas.
+
+- Aca se puede ver el site Health monitoring donde se puede ver el monitoreo de salud de una madre embarazada o del bebé, donde se pueden registrar los datos de salud y ver el historial de datos.
+![EV1.jpg](EV1.jpg)
+- Aca se puede ver el site de chat donde se puede ver el chat entre el doctor y el paciente, donde se pueden enviar mensajes y ver el historial de mensajes.
+![EV2.jpg](EV2.jpg)
+![EV3.jpg](EV3.jpg)
+- Podemos ver el site de appoinments donde se puede ver el calendario de citas médicas, donde se pueden agregar citas y ver el historial de citas.
+![EV4.jpg](EV4.jpg)
+![EV5.jpg](EV5.jpg)
+![EV6.jpg](EV6.jpg)
+![EV7.jpg](EV7.jpg)
+- Aca se puede ver el site de la lista de pacientes donde se puede ver la lista de pacientes, donde se pueden agregar pacientes y ver el historial de pacientes.
+![EV8.jpg](EV8.jpg)
+![EV9.jpg](EV9.jpg)
+- Por ultimo podemos ver el site de medication donde se puede ver la lista de medicamentos, donde se pueden agregar medicamentos y ver el historial de medicamentos.
+![EV10.jpg](EV10.jpg)
+
+### 5.2.4.6. Services Documentation
+
+Se presenta la documentación técnica de la API del sistema. La imagen muestra una lista clara de todos los servicios disponibles y sus funciones, facilitando su uso y integración.
+
+![Backend (1).png](Backend%20%281%29.png)
+![Backend (2).png](Backend%20%282%29.png)
+![Backend (3).png](Backend%20%283%29.png)
+
+Los endpoints de la API funcionan de la siguiente manera:
+
+#### DoctorPatients (Pacientes de un médico)
+- **`GET /api/v1/doctors/{doctorId}/patients`**  
+  Obtiene la lista de pacientes asignados a un médico específico mediante su ID.
+
+#### Doctors (Médicos)
+- **`GET /api/v1/doctors/{doctorId}`**  
+  Obtiene los detalles de un médico específico mediante su ID.  
+- **`POST /api/v1/doctors`**  
+  Crea un nuevo registro de médico en el sistema.  
+- **`GET /api/v1/doctors`**  
+  Obtiene una lista de todos los médicos registrados.  
+
+#### Patients (Pacientes)
+- **`GET /api/v1/patients/{patientId}`**  
+  Obtiene los detalles de un paciente específico mediante su ID.  
+- **`POST /api/v1/patients`**  
+  Crea un nuevo registro de paciente.  
+
+#### Chat (Mensajes)
+- **`GET /api/v1/chat/messages/{patientId}`**  
+  Obtiene el historial de mensajes asociados a un paciente.  
+- **`POST /api/v1/chat/messages`**  
+  Envía un nuevo mensaje en el chat (requiere cuerpo del mensaje).  
+
+#### Appointment (Citas)
+- **`GET /api/v1/appointment/{id}`**  
+  Obtiene los detalles de una cita específica.  
+- **`GET /api/v1/appointment`**  
+  Obtiene todas las citas registradas.  
+- **`POST /api/v1/appointment`**  
+  Crea una nueva cita médica.  
+
+#### Health Data (Datos de Salud)
+- **`GET /api/v1/health-data/{id}`**  
+  Obtiene datos de salud específicos.  
+- **`PUT /api/v1/health-data/{id}`**  
+  Actualiza datos de salud existentes.  
+- **`POST /api/v1/health-data`**  
+  Crea nuevos registros de datos de salud.  
+- **`GET /api/v1/health-data`**  
+  Obtiene todos los registros de datos de salud.  
+- **`GET /api/v1/health-data/patientid`**  
+  Obtiene datos de salud asociados a un paciente (requiere parámetro `patientId`).  
+
+#### Medication (Medicamentos)
+- **`GET /api/v1/medication/{id}`**  
+  Obtiene información detallada de un medicamento.  
+- **`GET /api/v1/medication`**  
+  Obtiene todos los medicamentos registrados.  
+- **`POST /api/v1/medication`**  
+  Crea un nuevo registro de medicamento.  
+- **`GET /api/v1/medication/prescription/{prescriptionId}`**  
+  Obtiene medicamentos asociados a una prescripción.  
+
+### 5.2.4.7. Deployment Evidence
+
+Deployment de la API:
+1. Crear “Recurso” dentro de Microsoft Azure. Usar Web App para crear una aplicación .NET.
+![deployment (4).png](deployment%20%284%29.png)
+2. Descargar perfil de publicación de la API, para obtener las credenciales y datos necesarios para acceder a la API desde un repositorio de GitHub.
+- Habilitar autenticación básica: Settings -> Configuration -> -> SCM Basic Auth = On
+- Luego: Overview -> Get publish profile
+![deployment (1).png](deployment%20%281%29.png)
+3. Agregar el perfil de publicación al repostiorio de GitHub, para que el repositorio tenga acceso a la API en Azure.
+En el repositorio:
+Settings -> Secrets -> Actions -> New repository secret
+-	Colocar como nombre AZURE_WEBAPP_PUBLISH_PROFILE
+-	Colocar como valor el contenido del perfil de publicación.
+4. Crear workflow GitHub Actions para subir automáticamente los cambios de la rama “master” al deployment
+![deployment (2).png](deployment%20%282%29.png)
+5. Agregar ConnectionString
+![deployment (3).png](deployment%20%283%29.png)
+Creación de la base de datos
+1.	Crear clúster en Amazon Web Services RDS (Aurora)
+![deployment (5).png](deployment%20%285%29.png)
+2.	Obtener el connection string en “Conectividad y Seguridad”
+![deployment (6).png](deployment%20%286%29.png)
+
+### 5.2.4.8. Team Collaboration
+
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+Capturas de Insights del repositorio del Backend:
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
+
+![frontendTeamCOllab Sprint 4 Frontend.png](frontendTeamCOllab%20Sprint%204%20Frontend.png)
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-Platform
+
+Durante las últimas semanas, el equipo ha avanzado significativamente en la consolidación de la infraestructura del backend de la plataforma HelpMom. Esto implicó un extenso trabajo en las configuraciones del contexto de la base de datos para la gestión de pacientes, el chat y el monitoreo de salud, asegurando un flujo de datos y relaciones adecuados.
+Funcionalidades clave como la gestión de medicamentos y las citas vieron una implementación detallada de sus respectivos dominios, incluyendo entidades, comandos, consultas y repositorios. Es crucial destacar que los esfuerzos se centraron en refinar los endpoints de la API, corregir errores en los controladores y mejorar el acceso a Swagger para el entorno de producción.
+
+
+   Capturas de Insights del repositorio del frontend:
+
+   En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+![frontendTeamCOllab Sprint 4 Backend.png](frontendTeamCOllab%20Sprint%204%20Backend.png)
+
+Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend 
+
+La aplicación HelpMom avanzó significativamente, comenzando con la configuración inicial y la adición de componentes esenciales como la página de inicio y la de error 404. Se implementó la internacionalización y se desarrolló un sistema de monitoreo de salud. El progreso incluyó la integración de la gestión de pacientes, con funcionalidades de listado y detalle, y la creación de la funcionalidad de citas, que permite añadir y filtrar eventos. Posteriormente, se priorizó la integración de traducciones para diversas secciones, la conexión del backend con el frontend para el chat y las citas, y se realizaron ajustes y mejoras en la interfaz de usuario. Finalmente, el desarrollo culminó con la conexión completa de todos los contextos funcionales al backend, el manejo avanzado de datos de salud (creación y actualización), y la optimización de componentes clave como el de citas, preparando la aplicación para su despliegue final con una integración robusta entre frontend y backend.
 
 
 
@@ -842,7 +1075,7 @@ Entrevista 2:
          Nota clave: La profesional destacó la importancia de una plataforma eficiente, con herramientas claras y organizadas, que permitan a los médicos dedicar más tiempo a la atención directa de sus pacientes.
 
 
-**Video de validación de entrevista:**: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/EXcncLBZFmNMmkwecAqRMlcB4tYEFfjvY8jIbK6ybQJQZA?e=fbKYMU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Video de validación de entrevista:**: https://acortar.link/ZEzu1t
 #### 5.3.3. Evaluaciones según heurísticas
 
 ##### SITE A EVALUAR:
@@ -852,32 +1085,82 @@ Help-Mom
 ##### TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.  Visualización de página.
-2.  Manejo de la pagina.
+1. Visualización de página. 
+2. Manejo de la página.
+3. Registro de datos del embarazo
+4. Uso de la sección "Seguimiento fetal"
+5. Programación y gestión de citas prenatales
+6. Chat entre doctores y pacientes
+7. Registro de recetas médicas
+8. Registro de pacientes nuevos
 
 ##### ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-| Nivel | Descripción                                                                                                                                                                                  |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     |              |
-| 2     |  |
-| 3     |         |
-| 4     |              |
+| Nivel | Descripción                                                                                                                                                                                |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: Fácilmente superable por el usuario o de ocurrencia mínima. No requiere corrección inmediata.          |
+| 2     | Problema menor: Frecuencia moderada o dificultad baja para el usuario. Prioridad baja en próximas actualizaciones.|
+| 3     | Problema mayor: Frecuente o difícil de resolver para el usuario. Prioridad alta para corrección.     |
+| 4     | Problema crítico: Impide el flujo del usuario. Debe corregirse antes del lanzamiento.           |
 
 ##### TABLA RESUMEN:
 
-| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                         |
-|---|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1 |  |              |       |
-| 2 |                 |              | |
+| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                        |
+|---|-------------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1 | El calendario de citas no sincroniza con Google Calendar/Outlook. | 3                   |    Compatibilidad con el mundo real   |
+| 2 | El chat médico no notifica mensajes no leídos.               | 3                   |Retroalimentación |
+| 3 | El registro de pacientes nuevos no valida datos en tiempo real | 3                   | Control y libertad del usuario                                                                                                                       |
+| 4 | El sistema no valida cruce de horarios al agendar citas | 3                   |               Control y libertad del usuario|
+
 
 ##### DESCRIPCIÓN DE PROBLEMAS:
 
+**Problema N°1:**
+
+Descripción: El calendario de citas no se sincroniza con herramientas externas (Google Calendar).
+Severidad: 3
+Heurística violada: Compatibilidad con el mundo real (Integración con flujos existentes).
+Recomendación:
+* Implementar integración con Google Calendar y Outlook.
+
+**Problema N°2:**
+
+Descripción: El chat médico no muestra notificaciones de mensajes no leídos.
+Severidad: 3
+Heurística violada: Retroalimentación (Usuarios deben saber cuándo hay respuestas).
+Recomendación:
+* Notificaciones en tiempo real (sonido, badge en el ícono del chat).
+* Historial de conversaciones con marca de "leído/no leído".
+
+**Problema N°3:**
+
+Descripción: El registro de pacientes nuevos no valida datos críticos (correo duplicado, RFC inválido).
+Severidad: 3
+Heurística violada: Control y libertad del usuario (Evitar errores irreversibles).
+Recomendación:
+* Validación en tiempo real con base de datos.
+* Mensajes claros: "Este correo ya está registrado".
+
+**Problema N°4:**
+
+Descripción: El sistema no valida el cruce de horarios al agendar citas médicas.
+Severidad: 3
+Heurística violada: Control y libertad del usuario (Evitar errores irreversibles).
+Recomendación:
+* Implementar lógica de validación de horarios.
+* Mensaje claro: "El doctor ya tiene una cita programada en ese horario".
+
+## 5.4. Video about the Product
+El grupo realizó una recopilación en formato video con relación a los avances del proyecto y lo logrado en esta entrega.
+En este video se demuestra la colaboración del equipo, la funcionalidad del producto con la finalidad de generar confianza a los visitantes de la Landing Page para generar interacción e interés en el producto.
+
+![img_30.png](img_30.png)
+🔗 Enlace al video en YouTube: https://youtu.be/zfcvrVdAqbg
+🔗 Enlace al video en Stream: https://acortar.link/fLFb7Z
 
 # Conclusiones 
 
-## Conclusiones
 1. Alta demanda y pertinencia social: Existe una necesidad creciente de soluciones tecnológicas en salud materna, y HelpMom responde eficazmente a este contexto, con potencial de expansión a otras áreas de la salud digital.
 
 2. Propuesta diferenciada frente a competidores: A diferencia de muchas soluciones actuales, HelpMom ofrece un sistema integral con manejo eficiente de datos médicos, comunicación directa con especialistas y herramientas de seguimiento clínico.
@@ -921,7 +1204,8 @@ Además, es importante realizar revisiones periódicas del trabajo en conjunto. 
 El grupo realizó una recopilación en formato video con relación a sus outcomes y lo logrado en esta entrega.
 ![img_17.png](img_17.png)
 
-🔗 Enlace al video: https://acortar.link/W2KQVa
+🔗 Enlace al video Stream: https://acortar.link/W2KQVa
+🔗 Enlace al video Youtube: https://youtu.be/8Ct7yY58dGk
 
 
 ## Bibliografía
@@ -946,13 +1230,15 @@ El grupo realizó una recopilación en formato video con relación a sus outcome
 
 # Anexos
 
+
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://upcedupe-my.sharepoint.com/personal/u202220659_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202220659_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4395-webexperts-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6f410bfd-87bb-4d31-bcc6-00010b70203d |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/EaKJm3yMbr1Hjs1ISZUNhQkB_Htp8AnBuX3x71Bw7ap7WQ?e=e9ZcA6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                                                                                                                                     |  
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921442_upc_edu_pe/Ea1-sHUw_xtAj4xC2PxGiJUBTjxDKf_RDPQxwtaCJiJtew?e=FSuHrp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                                                                                                                                     |  
+| Título                  | Descripción                                        | Enlace                      |
+|-------------------------|----------------------------------------------------|-----------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/2gCSRO |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/1ag48x |  
+| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | https://acortar.link/JwLM7H |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/k6UqP5 |  
 
 ### DIAGRAMAS:
 **Anexo B: Diagrama de clases**<br>
