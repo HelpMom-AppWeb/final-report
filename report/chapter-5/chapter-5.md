@@ -890,7 +890,67 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 
 ### 5.2.4.6. Services Documentation
 
-[Documentación OpenAPI actualizada con todos los endpoints finales]
+Se presenta la documentación técnica de la API del sistema. La imagen muestra una lista clara de todos los servicios disponibles y sus funciones, facilitando su uso y integración.
+
+![Backend (1).png](Backend%20%281%29.png)
+![Backend (2).png](Backend%20%282%29.png)
+![Backend (3).png](Backend%20%283%29.png)
+
+Los endpoints de la API funcionan de la siguiente manera:
+
+#### DoctorPatients (Pacientes de un médico)
+- **`GET /api/v1/doctors/{doctorId}/patients`**  
+  Obtiene la lista de pacientes asignados a un médico específico mediante su ID.
+
+#### Doctors (Médicos)
+- **`GET /api/v1/doctors/{doctorId}`**  
+  Obtiene los detalles de un médico específico mediante su ID.  
+- **`POST /api/v1/doctors`**  
+  Crea un nuevo registro de médico en el sistema.  
+- **`GET /api/v1/doctors`**  
+  Obtiene una lista de todos los médicos registrados.  
+
+#### Patients (Pacientes)
+- **`GET /api/v1/patients/{patientId}`**  
+  Obtiene los detalles de un paciente específico mediante su ID.  
+- **`POST /api/v1/patients`**  
+  Crea un nuevo registro de paciente.  
+
+#### Chat (Mensajes)
+- **`GET /api/v1/chat/messages/{patientId}`**  
+  Obtiene el historial de mensajes asociados a un paciente.  
+- **`POST /api/v1/chat/messages`**  
+  Envía un nuevo mensaje en el chat (requiere cuerpo del mensaje).  
+
+#### Appointment (Citas)
+- **`GET /api/v1/appointment/{id}`**  
+  Obtiene los detalles de una cita específica.  
+- **`GET /api/v1/appointment`**  
+  Obtiene todas las citas registradas.  
+- **`POST /api/v1/appointment`**  
+  Crea una nueva cita médica.  
+
+#### Health Data (Datos de Salud)
+- **`GET /api/v1/health-data/{id}`**  
+  Obtiene datos de salud específicos.  
+- **`PUT /api/v1/health-data/{id}`**  
+  Actualiza datos de salud existentes.  
+- **`POST /api/v1/health-data`**  
+  Crea nuevos registros de datos de salud.  
+- **`GET /api/v1/health-data`**  
+  Obtiene todos los registros de datos de salud.  
+- **`GET /api/v1/health-data/patientid`**  
+  Obtiene datos de salud asociados a un paciente (requiere parámetro `patientId`).  
+
+#### Medication (Medicamentos)
+- **`GET /api/v1/medication/{id}`**  
+  Obtiene información detallada de un medicamento.  
+- **`GET /api/v1/medication`**  
+  Obtiene todos los medicamentos registrados.  
+- **`POST /api/v1/medication`**  
+  Crea un nuevo registro de medicamento.  
+- **`GET /api/v1/medication/prescription/{prescriptionId}`**  
+  Obtiene medicamentos asociados a una prescripción.  
 
 ### 5.2.4.7. Deployment Evidence
 
@@ -918,8 +978,22 @@ Creación de la base de datos
 
 ### 5.2.4.8. Team Collaboration
 
-[Insights de GitHub mostrando contribuciones del equipo]
 
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
+
+Capturas de Insights del repositorio del frontend:
+
+![frontendTeamCOllab Sprint 4 Frontend.png](frontendTeamCOllab%20Sprint%204%20Frontend.png)
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-Platform
+
+Capturas de Insights del repositorio del frontend:
+
+![frontendTeamCOllab Sprint 4 Backend.png](frontendTeamCOllab%20Sprint%204%20Backend.png)
 
 ### 5.3. Validation Interviews
 
