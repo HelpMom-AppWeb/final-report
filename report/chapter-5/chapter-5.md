@@ -872,13 +872,18 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 |                        | 05 | Juntar backend con base de datos   | Mensajes enviados por doctor lleguen en tiempo real al paciente            |            | Gabriel Mamani  |        |
 
 ### 5.2.4.4. Development Evidence
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-| Repository                      | Branch   | Commit Id | Commit Message                          | Date       |
-|---------------------------------|----------|-----------|-----------------------------------------|------------|
-| HelpMom-AppWeb/HelpMom-frontend | develop  | [ID]      | feat: complete calendar integration     | 15/07/2025 |
-| HelpMom-AppWeb/HelpMom-frontend | develop  | [ID]      | feat: implement monthly appointments    | 16/07/2025 |
-| HelpMom-AppWeb/HelpMom-Platform | main     | [ID]      | feat: finalize chat real-time           | 17/07/2025 |
-| HelpMom-AppWeb/landing-page     | main     | [ID]      | feat: add multilingual support          | 18/07/2025 |
+🔗 Enlace al repositorio de la backend: https://github.com/HelpMom-AppWeb/HelpMom-Platform
+
+| Repository                       | Branch                     | Commit Id                                 | Commit Message                                            | Commit Message Body | Commited on (Date) |
+|----------------------------------|----------------------------|-------------------------------------------|-----------------------------------------------------------|---------------------|--------------------|
+| HelpMom-AppWeb/HelpMom-frontend  | feature/patient-management | bbde77fd8b8139ca8b85ec3bc6b1edb6d5fd6b80 |fix: fixed CommandsServices and Queries Services Interfaces and Implementations                    |                     | 18/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/medication         | 9c037f3e5accb5a656f5edffd9bc424819095925  | feat: add constructor to Medication for CreateMedicationCommand                                  |                     | 18/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/chat               | b81eaf53902d9a0f78b7aa8a7889b64040d0377c |feat:update chat component                                     |                     | 15/06/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/baby-monitoring    | a31f40c9f87674fcabfa2bfd66388573ea967562  | feat(health-monitoring): include CreatedDate and UpdatedDate in HealthDataResource assembly |                     | 03/07/2025         |
+| HelpMom-AppWeb/HelpMom-frontend  | feature/appointments       | 1a1fcf704ec280dca6ec9328e640249d24e3154d  | feat: add Appointment Queries                     |                     | 18/06/2025         |
 
 ### 5.2.4.5. Execution Evidence
 
