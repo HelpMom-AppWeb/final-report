@@ -983,17 +983,29 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 
 🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend
 
-Capturas de Insights del repositorio del frontend:
+Capturas de Insights del repositorio del Backend:
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
 
 ![frontendTeamCOllab Sprint 4 Frontend.png](frontendTeamCOllab%20Sprint%204%20Frontend.png)
 
-En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
-
 🔗 Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-Platform
 
-Capturas de Insights del repositorio del frontend:
+Durante las últimas semanas, el equipo ha avanzado significativamente en la consolidación de la infraestructura del backend de la plataforma HelpMom. Esto implicó un extenso trabajo en las configuraciones del contexto de la base de datos para la gestión de pacientes, el chat y el monitoreo de salud, asegurando un flujo de datos y relaciones adecuados.
+Funcionalidades clave como la gestión de medicamentos y las citas vieron una implementación detallada de sus respectivos dominios, incluyendo entidades, comandos, consultas y repositorios. Es crucial destacar que los esfuerzos se centraron en refinar los endpoints de la API, corregir errores en los controladores y mejorar el acceso a Swagger para el entorno de producción.
+
+
+   Capturas de Insights del repositorio del frontend:
+
+   En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
 
 ![frontendTeamCOllab Sprint 4 Backend.png](frontendTeamCOllab%20Sprint%204%20Backend.png)
+
+Repositorio: https://github.com/HelpMom-AppWeb/HelpMom-frontend 
+
+La aplicación HelpMom avanzó significativamente, comenzando con la configuración inicial y la adición de componentes esenciales como la página de inicio y la de error 404. Se implementó la internacionalización y se desarrolló un sistema de monitoreo de salud. El progreso incluyó la integración de la gestión de pacientes, con funcionalidades de listado y detalle, y la creación de la funcionalidad de citas, que permite añadir y filtrar eventos. Posteriormente, se priorizó la integración de traducciones para diversas secciones, la conexión del backend con el frontend para el chat y las citas, y se realizaron ajustes y mejoras en la interfaz de usuario. Finalmente, el desarrollo culminó con la conexión completa de todos los contextos funcionales al backend, el manejo avanzado de datos de salud (creación y actualización), y la optimización de componentes clave como el de citas, preparando la aplicación para su despliegue final con una integración robusta entre frontend y backend.
+
+
 
 ### 5.3. Validation Interviews
 
