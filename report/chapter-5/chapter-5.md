@@ -882,11 +882,21 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 
 ### 5.2.4.5. Execution Evidence
 
-[Incluir capturas de pantalla de:
-1. Integración completa del calendario
-2. Funcionalidad de chat en tiempo real
-3. Landing page optimizada
-4. Conexiones backend-frontend]
+- Aca se puede ver el site Health monitoring donde se puede ver el monitoreo de salud de una madre embarazada o del bebé, donde se pueden registrar los datos de salud y ver el historial de datos.
+![EV1.jpg](EV1.jpg)
+- Aca se puede ver el site de chat donde se puede ver el chat entre el doctor y el paciente, donde se pueden enviar mensajes y ver el historial de mensajes.
+![EV2.jpg](EV2.jpg)
+![EV3.jpg](EV3.jpg)
+- Podemos ver el site de appoinments donde se puede ver el calendario de citas médicas, donde se pueden agregar citas y ver el historial de citas.
+![EV4.jpg](EV4.jpg)
+![EV5.jpg](EV5.jpg)
+![EV6.jpg](EV6.jpg)
+![EV7.jpg](EV7.jpg)
+- Aca se puede ver el site de la lista de pacientes donde se puede ver la lista de pacientes, donde se pueden agregar pacientes y ver el historial de pacientes.
+![EV8.jpg](EV8.jpg)
+![EV9.jpg](EV9.jpg)
+- Por ultimo podemos ver el site de medication donde se puede ver la lista de medicamentos, donde se pueden agregar medicamentos y ver el historial de medicamentos.
+![EV10.jpg](EV10.jpg)
 
 ### 5.2.4.6. Services Documentation
 
