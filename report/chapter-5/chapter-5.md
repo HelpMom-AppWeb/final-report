@@ -881,6 +881,7 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 | HelpMom-AppWeb/landing-page     | main     | [ID]      | feat: add multilingual support          | 18/07/2025 |
 
 ### 5.2.4.5. Execution Evidence
+En esta sección se evidencia la ejecución de las tareas del sprint 4, mostrando los avances realizados en la implementación de las funcionalidades y mejoras planificadas.
 
 - Aca se puede ver el site Health monitoring donde se puede ver el monitoreo de salud de una madre embarazada o del bebé, donde se pueden registrar los datos de salud y ver el historial de datos.
 ![EV1.jpg](EV1.jpg)
