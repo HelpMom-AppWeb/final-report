@@ -831,6 +831,76 @@ En esta sección se muestran los insights de colaboración del equipo durante el
 - backend insights de colaboración del equipo durante el sprint:
 ![img_18.png](img_18.png)
 
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+| **Sprint 4**              | **Sprint 4**                |
+|---------------------------|-----------------------------|
+| **Sprint Planning Background** |                             |
+| Date                      | 2025-07-07                  |
+| Time                      | 8:30 PM                     |
+| Location                  | Via Discord                 |
+| Prepared By               | Gabriel Alejandro Rivera Ayala |
+| Attendees                 | Romina Guadalupe Maita Falckenheiner, Gabriel Cristian Mamani Marca, Camila Asuncion Reyes Menacho, Gabriel Alejandro Rivera Ayala, Stephano Jose Espinoza Cueva |
+| **Sprint Review Summary** | En este cuarto sprint nos enfocaremos en la integración final entre frontend y backend, optimización de la experiencia de usuario y preparación para el despliegue final. |
+| **Retrospective Summary** | Los integrantes mencionaron la importancia de realizar pruebas exhaustivas de integración y pulir los últimos detalles de la interfaz antes del lanzamiento final. |
+| **Sprint Goal & User Stories** |                             |
+| Sprint Goal               | Completar la integración frontend-backend de todas las funcionalidades clave, optimizar la experiencia de usuario y preparar la aplicación para su despliegue final. |
+| Sprint Velocity           | 8 story points              |
+| Sum of Story Points       | 8 Story Points              |
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member               | GitHub UserName | Frontend-Backend Integration | UX Optimization | Deployment | Testing |
+|---------------------------|-----------------|------------------------------|-----------------|------------|---------|
+| Rivera Gabriel             | guestwhoo       | C                            | L               | C          | C       |
+| Reyes Camila               | dakuma-ai       | L                            | C               | C          | C       |
+| Cueva Stephano             | Stephanoescu    | C                            | C               | L          | C       |
+| Maita Romina               | RominaMaita     | C                            | C               | C          | L       |
+| Mamani Gabriel             | Gabrlel0105     | C                            | C               | C          | C       |
+
+### 5.2.4.3. Sprint Backlog 4
+
+| User Story             | ID | Title                              | Description                                                                 | Estimation | Assigned To     | Status |
+|------------------------|----|------------------------------------|-----------------------------------------------------------------------------|------------|-----------------|--------|
+| Gestión de citas médicas | 01 | Integrar calendario frontend-backend | Conectar el calendario para operaciones en tiempo real                     | 2h         | Camila Reyes    |        |
+|                        | 02 | Implementar vista mensual de citas | Añadir pestaña/filtro para visualizar citas agrupadas por mes              | 3h         | Camila Reyes    |        |
+| Mejoras UX/UI          | 03 | Optimizar landing page             | Mejorar diseño, añadir traducción inglés/español, videos about team/product | 3h         | Camila Reyes    |        |
+| Chat                   | 04 | Juntar chat con frontend-backend   | Integración completa del sistema de chat                                   | 5h         | Gabriel Mamani  |        |
+|                        | 05 | Juntar backend con base de datos   | Mensajes enviados por doctor lleguen en tiempo real al paciente            |            | Gabriel Mamani  |        |
+
+### 5.2.4.4. Development Evidence
+
+| Repository                      | Branch   | Commit Id | Commit Message                          | Date       |
+|---------------------------------|----------|-----------|-----------------------------------------|------------|
+| HelpMom-AppWeb/HelpMom-frontend | develop  | [ID]      | feat: complete calendar integration     | 15/07/2025 |
+| HelpMom-AppWeb/HelpMom-frontend | develop  | [ID]      | feat: implement monthly appointments    | 16/07/2025 |
+| HelpMom-AppWeb/HelpMom-Platform | main     | [ID]      | feat: finalize chat real-time           | 17/07/2025 |
+| HelpMom-AppWeb/landing-page     | main     | [ID]      | feat: add multilingual support          | 18/07/2025 |
+
+### 5.2.4.5. Execution Evidence
+
+[Incluir capturas de pantalla de:
+1. Integración completa del calendario
+2. Funcionalidad de chat en tiempo real
+3. Landing page optimizada
+4. Conexiones backend-frontend]
+
+### 5.2.4.6. Services Documentation
+
+[Documentación OpenAPI actualizada con todos los endpoints finales]
+
+### 5.2.4.7. Deployment Evidence
+
+[Evidencia del despliegue final en producción]
+
+### 5.2.4.8. Team Collaboration
+
+[Insights de GitHub mostrando contribuciones del equipo]
+
+
 ### 5.3. Validation Interviews
 
 Para poder hacer una validación de nuestras entrevistas se empleará los siguientes recursos:
@@ -1031,6 +1101,7 @@ El grupo realizó una recopilación en formato video con relación a sus outcome
 - W3Schools. (2025). *C# Tutorial*. https://www.w3schools.com/cs/index.php
 
 # Anexos
+
 
 ### VIDEOS:
 
